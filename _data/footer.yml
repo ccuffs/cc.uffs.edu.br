@@ -1,4 +1,7 @@
 # Footer navigation links
 
-- title:
-  url:
+- title: Subscribe
+  url: /subscribe/
+
+- title: External Page
+  url: http://mademistakes.com

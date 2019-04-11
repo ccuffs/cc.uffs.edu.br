@@ -1,6 +1,11 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+# Top navbar
+
+- title: Test
+  url: /test/
+  excerpt: "This is a test"
   image:
+
+- title: About
+  url: /about/

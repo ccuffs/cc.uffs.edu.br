@@ -1,16 +1,15 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
+title: "Ciência da Computação"
+description: "Curso de Ciência da Computação da Universidade Federal da Fronteira Sul, Chapecó, SC, Brasil."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: http://dev.local.com:4000/
 feed:
   path: atom.xml
 
 # Jekyll configuration
-
 sass:
   sass_dir: _sass
   style: compressed
@@ -18,11 +17,44 @@ permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: article
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: default
+      author_profile: false
+      share: true
+collections: # Collections of content
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  pages:
+    output: true
+    permalink: /:path/
 
 # Site owner
 owner:
