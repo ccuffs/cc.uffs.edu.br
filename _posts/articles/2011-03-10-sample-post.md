@@ -2,6 +2,7 @@
 layout: article
 title: "Sample Post Style Guide"
 categories: articles
+author: billy_rick
 modified: 2016-06-01T16:28:11-04:00
 tags: [sample]
 comments: true
