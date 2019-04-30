@@ -7,5 +7,20 @@
   excerpt: "This is a test"
   image:
 
+- title: Media
+  url: /media/
+  excerpt: "This is a test of media"
+  image:  
+
+- title: Articles
+  url: /articles/
+  excerpt: "This is a test of articles"
+  image: 
+
+- title: News
+  url: /news/
+  excerpt: "This is a test of news"
+  image: 
+
 - title: About
   url: /about/
