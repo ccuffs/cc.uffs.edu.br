@@ -1,6 +1,6 @@
 ---
+layout: page-simple
 title: "Test"
-layout: default
 permalink: /test/
 ---
 
