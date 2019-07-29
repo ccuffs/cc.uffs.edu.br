@@ -21,18 +21,18 @@
     <meta http-equiv="cleartype" content="on">
 
     <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+    {% include design-blocks.html %}
+
     <!-- HTML5 Shiv and Media Query Support for IE -->
     <!--[if lt IE 9]>
       <script src="{{ site.url }}/js/vendor/html5shiv.min.js"></script>
       <script src="{{ site.url }}/js/vendor/respond.min.js"></script>
     <![endif]-->
-
   </head>
 
   <body id="js-body">
     {% include browser-upgrade.html %}
     {% include header.html %}
-    {% include navigation-sliding.html %}
 
     <div id="page-wrapper">
       {{ content }}
