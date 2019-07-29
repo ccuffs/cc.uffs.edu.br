@@ -2,15 +2,15 @@
 
 # Top navbar
 
-- title: Test
-  url: /test/
-  excerpt: "This is a test"
-  image:
-
 - title: Media
   url: /media/
   excerpt: "This is a test of media"
-  image:  
+  image:
+  dropdown:
+    - title: Test
+      url: /test
+    - title: Test2
+      url: /test2
 
 - title: Articles
   url: /articles/
