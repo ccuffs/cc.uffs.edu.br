@@ -2,7 +2,7 @@
 
 # Top navbar
 
-- title: Media
+- title: O curso
   url: /media/
   excerpt: "This is a test of media"
   image:
@@ -12,15 +12,40 @@
     - title: Test2
       url: /test2
 
-- title: Articles
+- title: Ensino
+  url: /media/
+  excerpt: "This is a test of media"
+  image:
+  dropdown:
+    - title: Test
+      url: /test
+    - title: Test2
+      url: /test2
+
+- title: Pesquisa
   url: /articles/
-  excerpt: "This is a test of articles"
-  image: 
+  excerpt: "This is a test of media"
+  image:
+  dropdown:
+    - title: Test
+      url: /test
+    - title: Test2
+      url: /test2
 
-- title: News
-  url: /news/
-  excerpt: "This is a test of news"
-  image: 
+- title: Extensão
+  url: /articles/
+  excerpt: "This is a test of media"
+  image:
+  dropdown:
+    - title: Test
+      url: /test
+    - title: Test2
+      url: /test2
 
-- title: About
-  url: /about/
+- title: Acesso rápido
+  url: /articles/
+  dropdown:
+    - title: Test
+      url: /test
+    - title: Test2
+      url: /test2
