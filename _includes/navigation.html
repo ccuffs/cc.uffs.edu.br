@@ -4,17 +4,21 @@
     <li>
       {% if link.dropdown %}
         <div class="dropdown">
-          <a href="javascript:void(0);" class="dropdown-toggle" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <a href="javascript:void(0);" class="dropdown-toggle" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="{{ link.excerpt }}">
             {{ link.title }} <i class="fa fa-angle-down"></i>
           </a>
           <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
             {% for item in link.dropdown %}
-              {% if item.url contains 'http' %}
-                {% assign domain = '' %}
+              {% if item.url == nil %}
+                <div class="dropdown-divider"></div>
               {% else %}
-                {% assign domain = site.url %}
+                {% if item.url contains 'http' %}
+                  {% assign domain = '' %}
+                {% else %}
+                  {% assign domain = site.url %}
+                {% endif %}
+                <a href="{{ domain }}{{ item.url }}" {% if item.url contains 'http' %}target="_blank"{% endif %} class="dropdown-item">{{ item.title }}</a>
               {% endif %}
-              <a href="{{ domain }}{{ item.url }}" {% if item.url contains 'http' %}target="_blank"{% endif %} class="dropdown-item">{{ item.title }}</a>
             {% endfor %}
           </div>
         </div>
@@ -24,7 +28,7 @@
         {% else %}
           {% assign domain = site.url %}
         {% endif %}
-        <a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a>
+        <a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %} title="{{ link.excerpt }}">{{ link.title }}</a>
       {% endif %}
     </li>
   {% endfor %}
