@@ -39,9 +39,9 @@
 - title: Pesquisa
   excerpt: "Iniciativas de pesquisa"
   dropdown:
-    - title: Grupos de pesquisa
+    - title: Grupos
       url: /pesquisa/grupos
-    - title: Projetos de pesquisa
+    - title: Projetos
       url: /pesquisa/projetos
     - title: Publicações
       url: /pesquisa/publicacoes

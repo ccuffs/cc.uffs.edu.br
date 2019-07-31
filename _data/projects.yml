@@ -1,0 +1,36 @@
+# Projects
+
+- project:
+  type: research
+  active: true
+  title: "Project Fernando Bevilacqua"
+  date_start: 2018-07-10
+  date_end: 
+  web: http://thewhip.com
+  description: "What do you want, jewels? I am a very extravagant man."
+  image:
+    teaser: https://picsum.photos/400/250.jpg
+    feature: https://picsum.photos/1600/800.jpg
+
+- project:
+  type: research
+  active: true
+  title: Project Fernando Bevilacqua ENDED
+  date_start: 2018-07-10
+  date_end: 2019-07-30
+  web: http://thewhip.com
+  description: "What do you want, jewels? I am a very extravagant man."
+  image:
+    teaser: https://picsum.photos/400/250.jpg
+    feature: https://picsum.photos/1600/800.jpg
+
+- project:
+  type: extension
+  active: true
+  title: Extensao Fernando Bevilacqua
+  web: http://thewhip.com
+  description: "What do you want, jewels? I am a very extravagant man."
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//people/8.jpg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//people/8.jpg
+

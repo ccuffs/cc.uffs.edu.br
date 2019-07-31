@@ -3,13 +3,21 @@
       <a href="{{ post.url }}"><img alt="image" class="img-fluid" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//icons/github.svg"></a>
   </div>
   <div class="col-11">
-      <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-    {% if post.excerpt %}
-      {% assign text = post.excerpt %}
+    {% if post.url %} <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a> {% else %} {{ post.title }} {% endif %}
+    
+    {% if post.type == "news" %}
+      <!-- News item -->
+    {% elsif post.type == "project-research" %}
+      <!-- Research project -->
     {% else %}
-      {% assign text = post.content %}
+      <!-- Qualquer item de noticia -->
+      {% if post.excerpt %}
+        {% assign text = post.excerpt %}
+      {% else %}
+        {% assign text = post.content %}
+      {% endif %}
+      <p>{{ text | strip_html | strip_newlines | truncate: 200 }} <a href="{{ post.url }}">[ler mais]</a></p>
+      <p class="meta"><i class="fa fa-calendar"></i> 2019-07-31 {% if post.tags %}<i class="fa fa-tags"></i> {{ post.tags | join: "," }}{% endif %}</p>
     {% endif %}
-    <p>{{ text | strip_html | strip_newlines | truncate: 200 }} <a href="{{ post.url }}">[ler mais]</a></p>
-    <p class="meta"><i class="fa fa-calendar"></i> 2019-07-31 </p>
   </div>
 </div>
