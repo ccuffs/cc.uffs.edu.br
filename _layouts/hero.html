@@ -6,7 +6,7 @@ layout: default
 <section class="fdb-block bg-dark fp-active" style="background-image:url({{ site.url }}/images/{{ page.image.feature }});">
   <div class="container">
     <div class="row text-center">
-      <div class="col-12" style="z-index: 10000;"><h1>Made with <i class="fa fa-heart text-danger"></i> by Froala</h1></div>
+      <div class="col-12" style="z-index: 10000;"><h1>{{ page.title }}</h1></div>
     </div>
   </div>
 </section>
@@ -14,10 +14,6 @@ layout: default
 
 <div id="main" role="main">
   <div class="wrap">
-    <div class="page-title">
-      <h1>{{ page.title }}</h1>
-      {% if page.excerpt %}<h2>{{ page.excerpt }}</h2>{% endif %}
-    </div>
     <div class="archive-wrap">
       <div class="page-content">
         {{ content }}
