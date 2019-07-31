@@ -3,47 +3,63 @@
 # Top navbar
 
 - title: O curso
-  url: /media/
-  excerpt: "This is a test of media"
+  excerpt: "Informações gerais sobre o curso"
   image:
   dropdown:
-    - title: Test
-      url: /test
-    - title: Test2
-      url: /test2
+    - title: Apresentação
+      url: /sobre
+    - title: Grade curricular
+      url: /grade
+    - title: Infra-estrutura
+      url: /infra
+    - title: Pessoas
+      url: /pessoas
+    - title: Notícias
+      url: /noticias
+    - title: ---
+    - title: Colegiado
+      url: /colegiado
+    - title: Núcleo Docente Estruturante (NDE)
+      url: /nde
+    - title: Centro Acadêmico (CA)
+      url: /ca
 
 - title: Ensino
-  url: /media/
-  excerpt: "This is a test of media"
-  image:
+  excerpt: "Ações voltadas ao ensino"
   dropdown:
-    - title: Test
-      url: /test
-    - title: Test2
-      url: /test2
+    - title: Grupos de estudo
+      url: /ensino/grupos-estudo
+    - title: Clube de programação
+      url: /ensino/clube-programacao
+    - title: Liga de programação
+      url: /ensino/liga-programacao
 
 - title: Pesquisa
-  url: /articles/
-  excerpt: "This is a test of media"
-  image:
+  excerpt: "Iniciativas de pesquisa"
   dropdown:
-    - title: Test
-      url: /test
-    - title: Test2
-      url: /test2
+    - title: Grupos de pesquisa
+      url: /pesquisa/grupos
+    - title: Projetos de pesquisa
+      url: /pesquisa/projetos
+    - title: Publicações
+      url: /pesquisa/publicacoes
 
 - title: Extensão
-  url: /articles/
-  excerpt: "This is a test of media"
-  image:
-  dropdown:
-    - title: Test
-      url: /test
-    - title: Test2
-      url: /test2
+  url: /extensao/
+  excerpt: "Iniciativas voltadas à comunidade externa ao curso"
 
-- title: Acesso rápido
-  url: /articles/
+- title: Empreendedorismo
+  excerpt: "Fomento ao empreendedorismo e à inovação tecnológica"
+  dropdown:
+    - title: Inovação
+      url: /test2
+    - title: Parcerias
+      url: /test2
+    - title: ---
+    - title: FronteiraTec (Empresa Jr.)
+      url: /test
+
+- title: <i class="fa fa-bars" title="Acesso rápido"></i>
   dropdown:
     - title: Test
       url: /test
