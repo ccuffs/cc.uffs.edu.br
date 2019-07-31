@@ -45,19 +45,22 @@
       url: /pesquisa/publicacoes
 
 - title: Extensão
-  url: /extensao/
   excerpt: "Iniciativas voltadas à comunidade externa ao curso"
+  dropdown:
+    - title: Projetos de extensão
+      url: /extensao/projetos
+    - title: Esportes e e-sports
+      url: /extensao/atletica
 
 - title: Empreendedorismo
   excerpt: "Fomento ao empreendedorismo e à inovação tecnológica"
   dropdown:
     - title: Inovação
-      url: /test2
+      url: /empreendedorismo/inovacao
     - title: Parcerias
-      url: /test2
-    - title: ---
-    - title: FronteiraTec (Empresa Jr.)
-      url: /test
+      url: /empreendedorismo/parcerias
+    - title: Empresa Junior
+      url: /empreendedorismo/empresa-junior
 
 - title: <i class="fa fa-bars" title="Acesso rápido"></i>
   dropdown:
