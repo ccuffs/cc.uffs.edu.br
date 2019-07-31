@@ -1,0 +1,37 @@
+# Authors
+
+- person:
+  name: Fernando Bevilacqua
+  web: http://thewhip.com
+  email: billy@rick.com
+  position: professor
+  bio: "What do you want, jewels? I am a very extravagant man."
+  bio_academic: "Academic What do you want, jewels? I am a very extravagant man."
+  avatar: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//people/8.jpg
+  twitter: extravagantman
+  google:
+    plus: +BillyRick
+
+- person:
+  name: Denio Duarte
+  web: http://thewhip.com
+  email: billy@rick.com
+  position: professor
+  bio: "What do you want, jewels? I am a very extravagant man."
+  bio_academic: "Academic What do you want, jewels? I am a very extravagant man."
+  avatar: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//people/8.jpg
+  twitter: extravagantman
+  google:
+    plus: +BillyRick
+
+- person:
+  name: Tiago Braga
+  web: http://thewhip.com
+  email: billy@rick.com
+  position: tae
+  bio: "What do you want, jewels? I am a very extravagant man."
+  bio_academic: "Academic What do you want, jewels? I am a very extravagant man."
+  avatar: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//people/8.jpg
+  twitter: extravagantman
+  google:
+    plus: +BillyRick
