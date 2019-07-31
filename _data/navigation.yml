@@ -27,6 +27,8 @@
 - title: Ensino
   excerpt: "Ações voltadas ao ensino"
   dropdown:
+    - title: Monitoria
+      url: /ensino/monitoria
     - title: Grupos de estudo
       url: /ensino/grupos-estudo
     - title: Clube de programação
