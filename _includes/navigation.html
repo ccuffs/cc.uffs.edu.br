@@ -1,11 +1,10 @@
-<ul class="menu-item">
-	<li class="home"><a href="/">{{ site.title }}</a></li>
+<ul class="navbar-nav ml-auto">
 	{% for link in site.data.navigation %}
     <li>
       {% if link.dropdown %}
         <div class="dropdown">
           <a href="javascript:void(0);" class="dropdown-toggle" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="{{ link.excerpt }}">
-            {{ link.title }} <i class="fa fa-angle-down"></i>
+            {{ link.title }}
           </a>
           <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
             {% for item in link.dropdown %}
@@ -32,5 +31,4 @@
       {% endif %}
     </li>
   {% endfor %}
-</ul>  
-  
+</ul>

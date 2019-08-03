@@ -1,8 +1,17 @@
-<header id="masthead">
-  <div class="inner-wrap">
-    <a href="{{ site.url }}/" class="site-title">{{ site.title }}</a>
-    <nav role="navigation" class="menu top-menu">
+<header class="">
+  <div class="container">
+    <nav class="navbar navbar-expand-md">
+      <a class="navbar-brand" href="{{ site.url }}/">
+        {{ site.title }}
+      </a>
+
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav11" aria-controls="navbarNav11" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarNav11">
         {% include navigation.html %}
+      </div>
     </nav>
-  </div><!-- /.inner-wrap -->
-</header><!-- /.masthead -->
+  </div>
+</header>

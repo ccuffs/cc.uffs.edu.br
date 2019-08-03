@@ -1,29 +1,15 @@
-/* ==========================================================================
-   Dropdown menu - https://codepen.io/KillerJK/pen/braqMJ
-   ========================================================================== */
+/* Dropdown menu */
 
 .dropdown:hover>.dropdown-menu {
 	display: block;
 }
 
 .dropdown>.dropdown-toggle:active {
-	/*Without this, clicking will make it sticky*/
+	/* Without this, clicking will make it sticky */
 	pointer-events: none;
 }
 
-.dropdown-menu {
-	margin-top: -10px !important;
-	padding-top: 15px !important;
-}
-
-.dropdown-item {
-	text-transform: initial !important;
-	height: 45px !important;
-}
-
-.dropdown-menu a:link, 
-.dropdown-menu a:active, 
-.dropdown-menu a:visited,
-.dropdown-menu a:hover {
-	text-decoration: none !important;
+.navbar-nav li {
+	margin-right: 1.2em;
+	margin-top: 0.3em;
 }
