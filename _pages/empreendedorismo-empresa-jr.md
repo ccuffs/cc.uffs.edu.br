@@ -4,7 +4,7 @@ title: "Empresa Junior"
 permalink: /empreendedorismo/empresa-junior/
 ---
 
-<div class="row breath-top">
+<div class="row row align-items-center pt-2 pt-lg-5">
     <div class="col-md-6">
         <h2>Empresa Junior</h2>
         <p class="lead">Empresas juniores permitem que alunos tenham experiência prática na estruturação, organização e condução de uma empresa real.</p>

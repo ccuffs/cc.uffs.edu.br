@@ -7,6 +7,15 @@
     
     {% if post.type == "news" %}
       <!-- News item -->
+      {% if post.excerpt %}
+        {% assign text = post.excerpt %}
+      {% else %}
+        {% assign text = post.content %}
+      {% endif %}
+      <p>{{ text | strip_html | strip_newlines | truncate: 200 }} <a href="{{ post.url }}">[ler mais]</a></p>
+      <p class="meta">
+        <i class="fa fa-calendar"></i> {{ post.date }} {% if post.tags %}<i class="fa fa-tags"></i> {{ post.tags | join: "," }}{% endif %}
+      </p>
     {% elsif post.type contains "project-" %}
       <!-- Research or extension project -->
       {% if post.excerpt %}
@@ -28,9 +37,10 @@
       {% else %}
         {% assign text = post.content %}
       {% endif %}
-      <p>{{ text | strip_html | strip_newlines | truncate: 200 }} <!-- <a href="{{ post.url }}">[ler mais]</a></p> -->
+      <p>{{ text | strip_html | strip_newlines | truncate: 200 }} <a href="{{ post.url }}">[ler mais]</a></p>
       <p class="meta">
-        <i class="fa fa-calendar"></i> {{ post.date }} {% if post.tags %}<i class="fa fa-tags"></i> {{ post.tags | join: "," }}{% endif %}</p>
+        <i class="fa fa-calendar"></i> {{ post.date }} {% if post.tags.size > 0 %}<i class="fa fa-tags"></i> {{ post.tags | join: "," }}{% endif %}
+      </p>
     {% endif %}
   </div>
 </div>

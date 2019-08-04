@@ -4,10 +4,10 @@ title: "Grupos de estudo"
 permalink: /ensino/grupos-estudo/
 ---
 
-<div class="row breath-top">
+<div class="row align-items-center pt-2 pt-lg-5">
     <div class="col-md-7">
         <h2>Grupos de estudo</h2>
-        <p class="lead">Estudar computação é mais fácil e saudável se feita em grupo.</p>
+        <p class="lead">Estudar computação é mais fácil e saudável em grupo.</p>
     </div>
 
     <div class="col-md-1"></div>

@@ -1,8 +1,6 @@
 ---
 layout: hero
 title: "Projetos de pesquisa"
-image:
-  feature: wood-texture-1600x800.jpg
 permalink: /pesquisa/projetos/
 ---
 

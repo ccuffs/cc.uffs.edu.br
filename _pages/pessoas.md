@@ -1,23 +1,28 @@
 ---
 layout: hero
 title: "Pessoas"
-image:
-  feature: wood-texture-1600x800.jpg
 permalink: /pessoas/
 ---
 
-<section class="fdb-block team-8">
-  <div class="container">
-    <div class="row text-center justify-content-center">
-      <div class="col-8">
+<div class="row align-items-center pt-2 pt-lg-5">
+    <div class="col-md-7">
+        <h2>Pessoas</h2>
         <p class="lead">O curso de Ciência da Computação é formado por 14 professores do domínio específico, 2 técnico-administrativos em educação (TAE) e aproximadamente 400 alunos.</p>
-      </div>
     </div>
 
+    <div class="col-md-1"></div>
+
+    <div class="col-md-4">
+        <p><img alt="image" class="img-fluid" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/tabs.svg"></p>
+    </div>
+</div>
+
+<section class="fdb-block team-8">
+  <div class="container">
     <div class="row-50"></div>
     <div class="row"><div class="col-12"><h2>Professores</h2><hr /></div></div>
 
-    <div class="row justify-content-center text-left">
+    <div class="row text-left">
       {% assign professors = site.data.people | where:"position","professor" | sort:"name" %}
       {% for person in professors %}
         {% include person-grid.html %}
