@@ -18,6 +18,9 @@
     - title: Horários
       url: /horario
     - title: ---
+    - title: Centro Acadêmico (CA)
+      url: /ca
+    - title: ---
     - title: Notícias
       url: /noticias
 
