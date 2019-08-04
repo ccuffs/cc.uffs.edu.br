@@ -19,7 +19,7 @@ permalink: /pessoas/
 
     <div class="row justify-content-center text-left">
       {% assign professors = site.data.people | where:"position","professor" | sort:"name" %}
-      {% for person in professors | where  %}
+      {% for person in professors %}
         {% include person-grid.html %}
       {% endfor %}
     </div>
@@ -29,7 +29,7 @@ permalink: /pessoas/
 
     <div class="row">
       {% assign professors = site.data.people | where:"position","tae" | sort:"name" %}
-      {% for person in professors | where  %}
+      {% for person in professors  %}
         {% include person-grid.html %}
       {% endfor %}
     </div>
