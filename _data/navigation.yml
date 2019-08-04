@@ -10,12 +10,10 @@
       url: /sobre
     - title: Grade curricular
       url: /grade
-    - title: Infra-estrutura
+    - title: Infraestrutura
       url: /infra
     - title: Pessoas
       url: /pessoas
-    - title: Notícias
-      url: /noticias
     - title: ---
     - title: Colegiado
       url: /colegiado
@@ -23,12 +21,18 @@
       url: /nde
     - title: Centro Acadêmico (CA)
       url: /ca
+    - title: ---
+    - title: Horários
+      url: /horario
+    - title: Calendário
+      url: /calendario
+    - title: ---
+    - title: Notícias
+      url: /noticias
 
 - title: Ensino
   excerpt: "Ações voltadas ao ensino"
   dropdown:
-    - title: Monitoria
-      url: /ensino/monitoria
     - title: Grupos de estudo
       url: /ensino/grupos-estudo
     - title: Clube de programação
@@ -43,30 +47,15 @@
       url: /pesquisa/grupos
     - title: Projetos
       url: /pesquisa/projetos
-    - title: Publicações
-      url: /pesquisa/publicacoes
 
 - title: Extensão
   excerpt: "Iniciativas voltadas à comunidade externa ao curso"
   dropdown:
     - title: Projetos de extensão
       url: /extensao/projetos
-    - title: Esportes e e-sports
-      url: /extensao/atletica
 
 - title: Empreendedorismo
   excerpt: "Fomento ao empreendedorismo e à inovação tecnológica"
   dropdown:
-    - title: Inovação
-      url: /empreendedorismo/inovacao
-    - title: Parcerias
-      url: /empreendedorismo/parcerias
     - title: Empresa Junior
       url: /empreendedorismo/empresa-junior
-
-- title: <i class="fa fa-bars" title="Acesso rápido"></i>
-  dropdown:
-    - title: Test
-      url: /test
-    - title: Test2
-      url: /test2

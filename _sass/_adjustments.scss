@@ -17,10 +17,24 @@ p {
     padding-right: 10px;
  }
 
- .breath-top {
-     margin-top: 30px;
- }
+.breath-top {
+    margin-top: 30px;
+}
 
- footer .nav-link {
+footer .nav-link {
     color: #8892a0 !important;
- } 
+}
+
+header .dropdown-toggle {
+    color: black;
+}
+
+header .navbar-brand {
+    color: black;
+    font-weight: bold;
+}
+
+header .navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
