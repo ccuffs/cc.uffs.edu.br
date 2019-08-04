@@ -14,3 +14,12 @@
 .post-grid-mini p.meta {
     font-size: 0.95em;
 }
+
+.post-grid-mini p.meta i {
+    margin-left: 1.2em;
+    margin-right: 0.3em;
+}
+
+.post-grid-mini p.meta i:first-child {
+    margin-left: 0;
+}

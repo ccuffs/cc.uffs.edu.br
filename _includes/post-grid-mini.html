@@ -1,14 +1,26 @@
 <div class="row post-grid-mini">
   <div class="col-1 image">
-      <a href="{{ post.url }}"><img alt="image" class="img-fluid" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//icons/github.svg"></a>
+      <a href="{{ post.url }}"><img alt="image" class="img-fluid" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/tabs.svg"></a>
   </div>
   <div class="col-11">
-    {% if post.url %} <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a> {% else %} {{ post.title }} {% endif %}
+    <h3>{% if post.url %} <a href="{{ post.url }}">{{ post.title }}</a> {% else %} {{ post.title }} {% endif %}</h3>
     
     {% if post.type == "news" %}
       <!-- News item -->
     {% elsif post.type == "project-research" %}
       <!-- Research project -->
+      {% if post.excerpt %}
+        {% assign text = post.excerpt %}
+      {% else %}
+        {% assign text = post.description %}
+      {% endif %}
+      <p>{{ text | strip_html | strip_newlines | truncate: 250 }} <!-- <a href="{{ post.url }}">[ler mais]</a>--></p> 
+      <p class="meta">
+        <i class="fa fa-user-circle-o"></i> {{ post.author }} 
+        <i class="fa fa-calendar"></i> {{ post.date_start }} {% if post.date_end %} a {{ post.date_end }} {% endif %} 
+        {% if post.funding %}<i class="fa fa-money"></i> {{ post.funding }}{% endif %} 
+        {% if post.tags %}<i class="fa fa-tags"></i> {{ post.tags | join: "," }}{% endif %} 
+      </p>
     {% else %}
       <!-- Qualquer item de noticia -->
       {% if post.excerpt %}
@@ -16,8 +28,9 @@
       {% else %}
         {% assign text = post.content %}
       {% endif %}
-      <p>{{ text | strip_html | strip_newlines | truncate: 200 }} <a href="{{ post.url }}">[ler mais]</a></p>
-      <p class="meta"><i class="fa fa-calendar"></i> 2019-07-31 {% if post.tags %}<i class="fa fa-tags"></i> {{ post.tags | join: "," }}{% endif %}</p>
+      <p>{{ text | strip_html | strip_newlines | truncate: 200 }} <!-- <a href="{{ post.url }}">[ler mais]</a></p> -->
+      <p class="meta">
+        <i class="fa fa-calendar"></i> {{ post.date }} {% if post.tags %}<i class="fa fa-tags"></i> {{ post.tags | join: "," }}{% endif %}</p>
     {% endif %}
   </div>
 </div>

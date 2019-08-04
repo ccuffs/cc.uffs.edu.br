@@ -1,36 +1,483 @@
 # Projects
 
+# Fernando
 - project:
-  type: research
+  type: project-research
+  active: false
+  author: Fernando Bevilacqua
+  role: Coordenador
+  title: Utilização de visão computacional e detecção de características para auxiliar na navegação de pessoas com deficiência visual em ambientes internos
+  funding: Universal FAPESC Nº 01/2014
+  date_start: 2015
+  date_end: 2017
+  web: https://inside-project.github.io
+  description: Os portadores de deficiência visual enfrentam inúmeros obstáculos em seu processo de inclusão na sociedade. A visão computacional pode ser usada para uma maior qualidade de vida aos portadores de deficiência visual, contribuindo com a acessibilidade dos locais onde eles frequentam, além de auxiliar na resolução de dificuldades encontradas em seu cotidiano. Este projeto propõe a utilização de visão computacional e reconhecimento de imagens para auxiliar a navegação de pessoas com deficiência visual em ambientes fechados utilizando metadados previamente coletados. A finalidade é criar um sistema-guia que possa auxiliar o deficiente visual a se locomover informando localizações de salas, escadas, elevadores, entre outros.
+  image:
+    teaser: https://picsum.photos/400/250.jpg
+    feature: https://picsum.photos/1600/800.jpg
+
+- project:
+  type: project-research
+  active: false
+  author: Fernando Bevilacqua
+  role: Colaborador
+  title: Modelagem geométrica restrita guiada por interação 3D
+  funding: UFFS
+  date_start: 2012
+  date_end: 2013
+  description:  Em Computação Gráfica uma forma tridimensional é descrita, geralmente, através de uma malha de triângulos, a qual é comumente construída manualmente num processo conhecido por modelagem geométrica. O aspecto principal da modelagem geométrica consiste em definir a posição dos vértices que formam os triângulos da malha. Atualmente o dispositivo de interface Humano-Computador mais utilizado para esse fim é o mouse. Também é comum o uso de mesas de digitalização e mais recentemente as telas sensíveis ao toque. Porém, esses dispositivos operam num espaço definido em R2 (plano) com entradas convertidas para R3 (espaço virtual). Essa diferença entre o espaço de entrada de dados e o espaço virtual gera diversas facilidades e dificuldades para o usuário. Por outro lado, existe uma classe de dispositivos que operam com entradas em R3, tais como o Microsoft Kinect, Leap Motion e Sony Move. O objetivo desta pesquisa é desenvolver um novo paradigma de modelagem geométrica utilizando entradas de dados já em R3, dessa forma, maximizar o processo criativo envolvido na modelagem através de uma interface mais natural.
+  image:
+    teaser: https://picsum.photos/400/250.jpg
+    feature: https://picsum.photos/1600/800.jpg
+
+- project:
+  type: project-research
+  active: false
+  author: Fernando Bevilacqua
+  role: Colaborador
+  title: Visualização de dados geoespaciais voltados a agricultura de precisão utilizando computação móvel e computação gráfica
+  funding: UFFS
+  date_start: 2011
+  date_end: 2012
+  description: Muitas das máquinas utilizadas no plantio e colheita são equipadas com dispositivos de posicionamento global (GPS). Com base nos dados de posicionamento coletados por esses equipamentos, pretende-se desenvolver um sistema capaz de apresentar tais informações de forma visual e direcionada ao agricultor de soja. O objetivo principal é fornecer um sistema capaz de otimizar as tarefas do agricultor que necessita de técnicas de agricultura de precisão. Tal sistema será desenvolvido para computadores móveis, como tablets (iPad) e smartphones (iPhone), pois esses sistemas podem ser levados ao campo com facilidade. Sistemas computacionais que visam auxiliar o agricultor com base em interfaces gráficas avançadas ainda são raros. Dada a pouca experiência dos agricultores com sistemas computacionais, o desenvolvimento de sistemas ricamente gráficos pode facilitar a penetração de tais ferramentas no campo e maximizar a produção.
+  image:
+    teaser: https://picsum.photos/400/250.jpg
+    feature: https://picsum.photos/1600/800.jpg
+
+- project:
+  type: project-extension
+  active: false
+  author: Fernando Bevilacqua
+  role: Coordenador
+  title: Educação Ambiental e produção de material multimídia com caráter pedagógico e educativo
+  funding: 01/PROEC/UFFS/2010, 09/PROEC/UFFS/2011 e 284/UFFS/2012.
+  date_start: 2011
+  date_end: 2013
+  description: Criação e desenvolvimento de materiais multimídia (jogos, objetos educacionais, etc) pelos alunos do curso de Ciência da Computação, utilizando como base textos e ilustrações produzidos por alunos do ensino fundamental de escolas públicas. Os materiais são produzidos como resultados de oficinas educativas executadas por alunos e professores do curso de Pedagogia.
+  image:
+    teaser: https://picsum.photos/400/250.jpg
+    feature: https://picsum.photos/1600/800.jpg
+
+- project:
+  type: project-research
+  active: false
+  author: Fernando Bevilacqua
+  role: Coordenador e colaborador
+  title: Appification of Medical Reports - Distribuição de Laudos e Imagens por meio de Apps
+  funding: 17/2012 RHAE (FAIXA A, Projetos Iniciais) e edital MCT/SETEC/CNPq nº 17/2012 (RHAE - Pesquisador na Empresa).
+  date_start: 2013
+  date_end: 2015
+  description: Pesquisa aplicada ao desenvolvimento de soluções para disponibilizar laudos e imagens médicas em dispositivos móveis. O projeto tornou a ferramenta comercial Animati PACS acessível em tablets e celulares, possibilitando a equipes médicas a fazerem diagnósticos em trânsito, o que é útil em casos emergenciais, por exemplo. O projeto foi desenvolvido por uma equipe multidisciplinar envolvendo o Núcleo de Pesquisas em Imagens Médicas (NIMED) da PUC-RS, Laboratório de Computação Aplicada (LACA) da UFSM, e a Universidade Federal da Fronteira Sul (UFFS).
+  image:
+    teaser: https://picsum.photos/400/250.jpg
+    feature: https://picsum.photos/1600/800.jpg    
+
+# Marco
+
+- project:
+  type: project-research
   active: true
-  title: "Project Fernando Bevilacqua"
-  date_start: 2018-07-10
+  author: Marco Aurelio Spohn
+  title: Avaliação do sistema operacional FreeRTOs na plataforma Arduino Due
+  date_start: 2018
   date_end: 
-  web: http://thewhip.com
-  description: "What do you want, jewels? I am a very extravagant man."
   image:
-    teaser: https://picsum.photos/400/250.jpg
-    feature: https://picsum.photos/1600/800.jpg
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
 
 - project:
-  type: research
-  active: true
-  title: Project Fernando Bevilacqua ENDED
-  date_start: 2018-07-10
-  date_end: 2019-07-30
-  web: http://thewhip.com
-  description: "What do you want, jewels? I am a very extravagant man."
+  type: project-research
+  active: false
+  author: Marco Aurelio Spohn
+  title: Viabilidade e parametrização de uma meta-plataforma de código livre para Internet das Coisas
+  date_start: 2017
+  date_end: 2018
   image:
-    teaser: https://picsum.photos/400/250.jpg
-    feature: https://picsum.photos/1600/800.jpg
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
 
 - project:
-  type: extension
-  active: true
-  title: Extensao Fernando Bevilacqua
-  web: http://thewhip.com
-  description: "What do you want, jewels? I am a very extravagant man."
+  type: project-research
+  active: false
+  author: Marco Aurelio Spohn
+  title: Avaliação de desempenho de um sistema operacional de tempo real na plataforma Arduino Uno
+  date_start: 2017
+  date_end: 2018
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//people/8.jpg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//people/8.jpg
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
 
+- project:
+  type: project-research
+  active: false
+  author: Marco Aurelio Spohn
+  title: Explorando a funcionalidade Software Guard Extension via emulação
+  date_start: 2016
+  date_end: 2017
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Marco Aurelio Spohn
+  title: Avaliação de mecanismos de comunicação entre processos em sistemas operacionais de tempo real
+  date_start: 2016
+  date_end: 2017
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Marco Aurelio Spohn
+  title: Validação e aplicação de métricas de mobilidade em redes móveis sem fio (CNPq, PQ)
+  date_start: 2015
+  date_end: 2018
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Marco Aurelio Spohn
+  title: Análise de escalonadores de processos em tempo real em uma plataforma aberta
+  date_start: 2015
+  date_end: 2016
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Marco Aurelio Spohn
+  title: Análise do perfil de mobilidade dos usuários das redes locais sem fio no Campus Chapecó
+  date_start: 2015
+  date_end: 2016
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Marco Aurelio Spohn
+  title: Definição e desenvolvimento de um framework de avaliação e análise de modelos de mobilidade em redes móveis sem fio guiada por métricas de mobilidade (CNPq, Universal)
+  date_start: 2014
+  date_end: 2018
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Marco Aurelio Spohn
+  title: Investigando as Especificidades e Impacto da Mobilidade em Redes ad hoc Sem Fio (CNPq, PQ)
+  date_start: 2012
+  date_end: 2014
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Marco Aurelio Spohn
+  title: Análise Comparativa de Redes Locais Sem Fio IEEE 802.11 em 2.4 GHz e 900 MHz
+  date_start: 2010
+  date_end: 2012
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Marco Aurelio Spohn
+  title: Análise de Simuladores de Redes de Sensores Sem Fio no Quesito Modelo de Energia e Bateria
+  date_start: 2010
+  date_end: 2012
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Marco Aurelio Spohn
+  title: Explorando sinergias entre redes móveis sem fio, redes entre-pares e grades computacionais (CNPq, PQ)
+  date_start: 2009
+  date_end: 2012
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Marco Aurelio Spohn
+  title: Análise de Protocolos de Roteamento em Redes Móveis Sem Fio Baseada em um Modelo Realístico de Bateria
+  date_start: 2009
+  date_end: 2011
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Marco Aurelio Spohn
+  title: Distribuição de Conteúdo Entre-Pares em Redes Ad Hoc Sem Fio
+  date_start: 2007
+  date_end: 2013
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Marco Aurelio Spohn
+  title: Controle de Topologia em Redes de Sensores Sem Fio
+  date_start: 2006
+  date_end: 2011
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Marco Aurelio Spohn
+  title: AutoMan - Gerência Automática no OurGrid
+  date_start: 2006
+  date_end: 2008
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Marco Aurelio Spohn
+  title: Gerenciamento Dinâmico de Energia em Redes de Sensores Sem Fio (CNPq, Universal)
+  date_start: 2007
+  date_end: 2009
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+# Braulio
+
+- project:
+  type: project-research
+  active: true
+  author: Braulio Adriano de Mello
+  title: Coordenação entre técnicas de simulação para interoperabilidade de componentes em modelos heterogêneos
+  description: Em comparação com modelos tradicionais, a construção e execução de modelos de simulação que combinam características variadas em termos de controle do tempo, dados, método e tecnologia de construção, ditos heterogêneos, é tarefa de elevada complexidade. Na representação desse tipo de sistemas, as arquiteturas e ambientes de simulação precisam incorporar estratégias que permitam garantir correção e validação dos modelos cujas partes não são compatíveis. Esforços para gerar contribuições em simulação geralmente atuam dentro de uma abrangência delimitada de metas e, por esse motivo, avançam pouco nas soluções que contribuam com a coordenação entre técnicas de simulação para controle de modelos heterogêneos. Embora estudos têm apresentado avanços nesse escopo, tais avanços também são voltados para contextos específicos e delimitados resultando em certo grau de fragmentação entre as contribuições. Esta proposta de estudos tem como objetivo gerar soluções que, a partir das técnicas atuais de simulação, agregam habilidades para gerenciar a cooperação entre funcionalidades distintas. Por exemplo, no escopo da sincronização híbrida, coordenar funções de controle do intervalo de lookahead com funções de identificação de estados seguros para prevenir violação de tempo nos componentes conservadores. A arquitetura alvo desta proposta é o Distributed Cosimulation Backbone (DCB). Esta arquitetura tem sido campo de estudos do proponente e foi inicialmente concebida com o propósito de garantir independência entre componentes de um modelo e as funcionalidades de controle de simulação, característica relevante para os objetivos relacinados nesta proposta.
+  date_start: 2017
+  date_end: 
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+# Pavan
+
+- project:
+  type: project-research
+  active: true
+  author: Claunir Pavan
+  role: Coordenador
+  title: Desenvolvimento de uma Plataforma web para gestão de base de dados de topologias de redes de telecomunicações
+  funding: EDITAL Nº 1010/GR/UFFS/2018
+  date_start: 2018
+  date_end: 2019
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: true
+  author: Claunir Pavan
+  role: Colaborador
+  title: Núcleo de Excelência em Tecnologias para Internet das Coisas (IoT-A)
+  funding: FAPES/CNPq Nº 06/2017
+  date_start: 2018
+  date_end: 2022
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: true
+  author: Claunir Pavan
+  role: Coordenador
+  title: CAGETOTE - CAracterização e GEração de TOpologias físicas para redes de transporte de TElecomunicações
+  funding: Universal MCTI/CNPq Nº 01/2016 - Processo 406924/2016-3
+  date_start: 2017
+  date_end: 2020
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+
+- project:
+  type: project-research
+  active: false
+  author: Claunir Pavan
+  role: Coordenador
+  title: Monitoramento Digital em Tempo Real de Aspectos Operacionais e de Qualidade e de Segurança do Trabalho em Serviços da Distribuição de Energia Elétrica
+  funding: Chamada P&D 001/2013 - CELESC Distribuição
+  date_start: 2015
+  date_end: 2017
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Claunir Pavan
+  role: Coordenador
+  title: Desenvolvimento de uma ferramenta computacional para a geração de topologias de redes de telecomunicações
+  funding: 168/UFFS/2011, 218/UFFS/2013, 308/UFFS/2014, 281/UFFS/2015
+  date_start: 2012
+  date_end: 2016
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Claunir Pavan
+  role: Coordenador
+  title: Caracterização e geração de topologias realísticas para simulação de redes ópticas de transporte de telecomunicações
+  funding: 227/GR/UFFS/2012
+  date_start: 2012
+  date_end: 2013
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Claunir Pavan
+  role: Colaborador
+  title: Dimensionamento de Redes Ópticas Multi-Camadas, FCT Portugal
+  date_start: 2007
+  date_end: 2008
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Claunir Pavan
+  role: Colaborador
+  title: Estratégias de Integração de IP sobre WDM, FCT Portugal
+  date_start: 2005
+  date_end: 2008
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-extension
+  active: true
+  author: Claunir Pavan
+  role: Coordenador
+  title: Projeto de Inclusão Profissional da Secretaria Especial de Tecnologia e Informação
+  funding: Demanda contínua UFFS
+  date_start: 2017
+  date_end: 
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+# Bins
+
+- project:
+  type: project-research
+  active: false
+  author: Jose Carlos Bins Filho
+  role: Coordenador
+  title: Aplicativo para reconhecimento de pontos turísticos
+  description: Desenvolvimento de um  aplicativo para identificação de pontos turísticos que utiliza a posição do GPS e da câmera do celular para restringir a busca e comparação de imagens o que possibilita o uso de técnicas de recuperação de imagens em um ambiente mais controlado, com isto permitindo implementação de métodos de reconhecimento de imagens e rotulagem de imagens que não seriam possíveis num ambiente com menos restrições como a busca de imagens na internet.
+  date_start: 2016
+  date_end: 2018
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Jose Carlos Bins Filho
+  role: Colaborador
+  title: Contagem de pequenos objetos em movimento em grandes volumes utilizando visão computacional
+  description: As atividades de contagem e inspeção de pequenos objetos em grandes volumes são tarefas essenciais em alguns setores da indústria.   Atualmente,  tais atividades são realizadas de maneira manual, ou com equipamentos de baixo desempenho.  Desta forma, a utilização de Visão Computacional têm apresentado resultados que motivam o seu uso na solução destes problemas.  Sendo assim, a proposta deste trabalho é desenvolver um Sistema de Visão computacional para a detecção e o contagem de grandes volumes de pequenos objetos.
+  date_start: 2017
+  date_end: 2018
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+# Raquel
+
+- project:
+  type: project-research
+  active: true
+  author: Raquel Aparecida Pegoraro
+  role: Coordenadora
+  title: Análise de Fatores de sucesso da adoção de métodos ágeis em micro e pequenas empresas de software e métricas que auxiliem no seu monitoramento
+  date_start: 2018
+  date_end: 
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: true
+  author: Raquel Aparecida Pegoraro
+  role: Coordenadora
+  title: Melhoria do processo de refatoração de arquiteturas de software que utilizam métodos ágeis
+  date_start: 2018
+  date_end: 
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Raquel Aparecida Pegoraro
+  role: Coordenadora
+  title: Desenvolvimento de uma ferramenta de visualização de software para análise de rastreabilidade de requisitos nos métodos ágeis	
+  date_start: 2018
+  date_end: 2018
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+
+- project:
+  type: project-research
+  active: false
+  author: Raquel Aparecida Pegoraro
+  role: Coordenadora
+  title: Melhoria do processo de refatoração de arquiteturas de software que utilizam métodos ágeis
+  date_start: 2018
+  date_end: 2018
+  image:
+    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
