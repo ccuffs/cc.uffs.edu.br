@@ -15,17 +15,8 @@
     - title: Pessoas
       url: /pessoas
     - title: ---
-    - title: Colegiado
-      url: /colegiado
-    - title: Núcleo Docente Estruturante (NDE)
-      url: /nde
-    - title: Centro Acadêmico (CA)
-      url: /ca
-    - title: ---
     - title: Horários
       url: /horario
-    - title: Calendário
-      url: /calendario
     - title: ---
     - title: Notícias
       url: /noticias
@@ -35,10 +26,6 @@
   dropdown:
     - title: Grupos de estudo
       url: /ensino/grupos-estudo
-    - title: Clube de programação
-      url: /ensino/clube-programacao
-    - title: Liga de programação
-      url: /ensino/liga-programacao
 
 - title: Pesquisa
   excerpt: "Iniciativas de pesquisa"
@@ -51,11 +38,13 @@
 - title: Extensão
   excerpt: "Iniciativas voltadas à comunidade externa ao curso"
   dropdown:
-    - title: Projetos de extensão
+    - title: Projetos
       url: /extensao/projetos
 
 - title: Empreendedorismo
   excerpt: "Fomento ao empreendedorismo e à inovação tecnológica"
   dropdown:
+    - title: Atividades no ensino
+      url: /empreendedorismo/ensino
     - title: Empresa Junior
       url: /empreendedorismo/empresa-junior

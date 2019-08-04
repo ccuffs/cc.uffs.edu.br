@@ -7,8 +7,8 @@
     
     {% if post.type == "news" %}
       <!-- News item -->
-    {% elsif post.type == "project-research" %}
-      <!-- Research project -->
+    {% elsif post.type contains "project-" %}
+      <!-- Research or extension project -->
       {% if post.excerpt %}
         {% assign text = post.excerpt %}
       {% else %}
