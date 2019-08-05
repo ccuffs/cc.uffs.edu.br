@@ -5,11 +5,11 @@ locales:
   # English translation
   # -------------------
   en: &DEFAULT_EN
-    overview: "Overview"
-    toc: "Table of Contents"
-    written_by: "Written by"
-    updated: "Updated"
-    share: "Share on"
+    overview: "Visão geralss"
+    toc: "Sumário"
+    written_by: "Postado por"
+    updated: "Atualizado em"
+    share: "Compartilhe"
   en_US:
     <<: *DEFAULT_EN     # use English translation for en_US
   en_UK:

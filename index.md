@@ -41,7 +41,7 @@ image:
     <div class="row">
       <div class="col-12 text-left">
         {% for post in site.categories.noticias %}
-          {% if post.highlight == nil %}
+          {% if post.highlight == false %}
             {% include post-grid-mini.html %}
           {% endif %}
         {% endfor %}
