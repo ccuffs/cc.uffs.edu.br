@@ -11,6 +11,10 @@ image:
   feature: /images/posts/teaser-luto-400x250.jpg
 ---
 
-O curso de Ciência da Computação, Campus Chapecó, comunica, com pesar, o falecimento de seu estudante Myke Wyllian Dal’Agnol, de 26 anos. Ele cursava Ciência da Computação (noturno) e estava na nona fase. Myke faleceu em um acidente de motocicleta, na BR-282, no trevo de acesso à Nova Itaberaba, ocorrido no início da noite de quinta-feira (1º).
+O curso de Ciência da Computação, Campus Chapecó, comunica, com pesar, o falecimento de seu estudante Myke Wyllian Dal’Agnol, de 26 anos.
 
-A comunidade do curso expressa condolências à família e aos amigos.
+Myke cursava Ciência da Computação (noturno) e estava na nona fase. Ele faleceu em um acidente de motocicleta, na BR-282, no trevo de acesso à Nova Itaberaba, ocorrido no início da noite de quinta-feira (1º). A comunidade do curso expressa condolências à família e aos amigos.
+
+Abaixo uma singela homenagem feita por amigos e colegas.
+
+![Myke Wyllian Dal’Agnol](/images/posts/homenagem-Myke.jpg)
