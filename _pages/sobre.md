@@ -35,7 +35,7 @@ permalink: /sobre/
     <div class="row text-left pt-5">
       <div class="col-12 col-sm-6 col-md-5">
         <p><img alt="image" class="fdb-icon" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//icons/layers.svg"></p>
-        <h3><strong>Bachalerado vespertino (50 vagas/ano)</strong></h3>
+        <h3><strong>Bacharelado vespertino (50 vagas/ano)</strong></h3>
         <p>Duração mínima de 8 semestres com aulas durante a tarde. Em caros excepcionais, existem aulas durante a manhã e noite. São ofertadas 50 vagas anuais para o bacharelado vespertino, com ingresso no primeiro semestre (meados de março).</p>
         <p class="mt-4">
             <a class="btn btn-primary" href="https://www.uffs.edu.br/campi/chapeco/cursos/graduacao/ciencia-da-computacao/documentos">Projeto pedagógico</a>
@@ -45,7 +45,7 @@ permalink: /sobre/
 
       <div class="col-12 col-sm-6 col-md-5 ml-sm-auto pt-5 pt-sm-0">
         <p><img alt="image" class="fdb-icon" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//icons/package.svg"></p>
-        <h3><strong>Bachalerado noturno (50 vagas/ano)</strong></h3>
+        <h3><strong>Bacharelado noturno (50 vagas/ano)</strong></h3>
         <p>Duração mínima de 10 semestres com aulas durante a noite. Em caros excepcionais, existem aulas durante a manhã e tarde. São ofertadas 50 vagas anuais para o bacharelado noturno, com ingresso no segundo semestre (meados de agosto).</p>
         <p class="mt-4">
             <a class="btn btn-warning" href="https://www.uffs.edu.br/campi/chapeco/cursos/graduacao/ciencia-da-computacao/documentos">Projeto pedagógico</a>
