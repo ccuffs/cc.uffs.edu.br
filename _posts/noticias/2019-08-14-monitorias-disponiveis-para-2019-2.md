@@ -17,9 +17,11 @@ Os alunos do curso tem à disposição mais uma ferramenta para ajudar com seu a
 
 A monitoria é uma excelente oportunidade de entender melhor conteúdos vistos em aula, obter ajuda com questões e dúvidas, e aprender em grupo.
 
-## Algoritmos e Programação
-{: .breath-top}
-**Coordenador:** <br/> Prof. Guilherme Dal Bianco <br /><i class="fa fa-envelope-open-o"></i> [guilherme.dalbianco@uffs.edu.br ](mailto:guilherme.dalbianco@uffs.edu.br)
+<div class="alert alert-dark breath-top" role="alert">
+  <h3 class="alert-heading">Algoritmos e Programação</h3>
+  <hr />
+  <span><strong>Prof. Guilherme Dal Bianco</strong><br /><i class="fa fa-envelope-open-o"></i> guilherme.dalbianco@uffs.edu.br</span>
+</div>
 
 |             Monitor            |                            Contato                               |  Local de atendimento |
 |--------------------------------|------------------------------------------------------------------|:---------------------:|
@@ -46,9 +48,11 @@ Horários de atendimento
 | 21:30 - 22:00 |  Jean          |  Jean/Matheus   |  Matheus  |  Jean   |   Jean  |
 
 
-## Circuitos Digitais e Organização de Computadores
-{: .breath-top}
-**Coordenador:**<br />Prof. Luciano L. Caimi <br /><i class="fa fa-envelope-open-o"></i> [lcaimi@uffs.edu.br](mailto:lcaimi@uffs.edu.br)
+<div class="alert alert-dark breath-top" role="alert">
+  <h3 class="alert-heading">Circuitos Digitais e Organização de Computadores</h3>
+  <hr />
+  <span><strong>Prof. Luciano L. Caimi</strong><br /><i class="fa fa-envelope-open-o"></i> lcaimi@uffs.edu.br</span>
+</div>
 
 |             Monitor            |                            Contato                               |  Local de atendimento |
 |--------------------------------|------------------------------------------------------------------|:---------------------:|
@@ -65,9 +69,11 @@ Horários de atendimento
 | 21:00 - 22:30 |          |           |  Renan  |  Renan   |        |
 
 
-## Cálculo A, B, C, I e II
-{: .breath-top}
-**Coordenador:** <br/>Prof. Milton Kist<br /><i class="fa fa-envelope-open-o"></i> [ milton.kist@uffs.edu.br](mailto:milton.kist@uffs.edu.br)
+<div class="alert alert-dark breath-top" role="alert">
+  <h3 class="alert-heading">Cálculo A, B, C, I e II</h3>
+  <hr />
+  <span><strong>Prof. Milton Kist</strong><br /><i class="fa fa-envelope-open-o"></i> milton.kist@uffs.edu.br</span>
+</div>
 
 |             Monitor            |                            Contato                               |  Local de atendimento |
 |--------------------------------|------------------------------------------------------------------|:---------------------:|
