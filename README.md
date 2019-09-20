@@ -26,7 +26,13 @@ Instale a última versão do [Ruby](https://www.ruby-lang.org) através do [Ruby
 O site é construído com base no [Jekyll](https://jekyllrb.com). Abra um terminal novo (para garantir que o `PATH` está atualizado depois de instalar o Ruby), e rode:
 
 ```
-gem install jekyll bundler
+gem install jekyll -v 3.8.6
+```
+
+depois:
+
+```
+gem install bundler
 ```
 
 Se tudo correr bem, você deve conseguir rodar o comando abaixo para checar a versão do Jekyll instalada:
@@ -35,6 +41,7 @@ Se tudo correr bem, você deve conseguir rodar o comando abaixo para checar a ve
 jekyll -v
 ```
 
+Você deve ver `jekyll 3.8.6` como saída.
 Para o site funcionar corretamente, ele precisa de alguns plugins do Jekyll. Rode o seguinte para instalá-los:
 
 ```
