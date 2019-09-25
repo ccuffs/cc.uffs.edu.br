@@ -17,7 +17,6 @@ highlighter: rouge
 plugins:
   - jekyll-sitemap
   - jekyll-gist
-#  - jekyll-feed
 defaults:
   # _posts
   - scope:
