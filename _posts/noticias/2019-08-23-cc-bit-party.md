@@ -4,7 +4,7 @@ layout: article
 categories: noticias
 last_modified_at: 2019-08-23T08:33:00-05:00
 highlight: true
-highlight_order: 1
+highlight_order: 2
 share: false
 image:
   teaser: posts/teaser-cc-bit-party.png

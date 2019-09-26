@@ -4,7 +4,7 @@ layout: article
 categories: noticias
 last_modified_at: 2019-08-14T08:06:00-05:00
 highlight: true
-highlight_order: 1
+highlight_order: 3
 share: false
 image:
   teaser: posts/teaser-monitoria-400x250.png
