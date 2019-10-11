@@ -11,9 +11,9 @@ image:
   feature: /images/posts/teaser-feedback-1600x800.jpg
 ---
 
-O Colegiado do curso quer saber a sua opinião sobre as novas regulamentações de validação de componentes curriculares entre PPCs e regras para Atividades Complementares Curriulares (ACC).
+O Colegiado do curso quer saber a sua opinião sobre as novas regulamentações de validação de componentes curriculares entre PPCs e regras para Atividades Curriculares Complementares (ACC).
 
-Durante os últimos meses, duas comissões formadas por membros do Colegiado do Curso trabalharam para reformular duas regulamentações. A primeira delas é a criação de um Ato Normativo (uma espécie "lei acadêmica") que trata sobre a validação de componentes curriculares do PPC "antigo" para o "novo" e vice-versa. A segunda delas é modernização do regulamento de Atividades Complementares Curriculares (ACC).
+Durante os últimos meses, duas comissões formadas por membros do Colegiado do Curso trabalharam para reformular duas regulamentações. A primeira delas é a criação de um Ato Normativo (uma espécie "lei acadêmica") que trata sobre a validação de componentes curriculares do PPC "antigo" para o "novo" e vice-versa. A segunda delas é modernização do regulamento de Atividades Curriculares Complementares (ACC).
 
 Queremos a sua colaboração para o aprimoramento desses novos regulamentos. Sinta-se convidado(a) a revisar os textos, comentar, e apresentar sugestões de mudanças. Suas contribuições serão levadas em consideração para a criação do texto final de ambos os regulamentos.
 
