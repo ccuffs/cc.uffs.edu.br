@@ -3,7 +3,7 @@ title: "Fronteira Game Jam"
 layout: article
 categories: noticias
 last_modified_at: 2019-09-25T22:07:00-05:00
-highlight: true
+highlight: false
 highlight_order: 1
 share: false
 image:
