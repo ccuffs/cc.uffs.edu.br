@@ -5,14 +5,11 @@ description: "Curso de Ciência da Computação da Universidade Federal da Front
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url: http://dev.local.com:4000/
+url: https://cc.uffs.edu.br
 feed:
   path: atom.xml
 
 # Jekyll configuration
-sass:
-  sass_dir: _sass
-  style: compressed
 permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
@@ -20,7 +17,6 @@ highlighter: rouge
 plugins:
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
 defaults:
   # _posts
   - scope:
@@ -58,16 +54,15 @@ collections: # Collections of content
 
 # Site owner
 owner:
-  name:
-  email:
+  name: Coordenação CC
+  email: computacao.ch@uffs.edu.br
   twitter:
   google:
     ad-client:
     ad-slot:
-  bio:
+  bio: Coordenação do Curso de Ciência da Computação
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
-
 
 include:
   - .htaccess
