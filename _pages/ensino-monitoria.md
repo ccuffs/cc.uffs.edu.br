@@ -127,8 +127,46 @@ computação, portanto o objetivo do programa de monitoria de Algoritmos e Progr
       <div class="col-12 text-left">
         <h2>Monitoria de Cálculo</h2>
         <hr/>
-        
+        <h3>Componentes Curriculares Atendidos:</h3>
+        <p>-Cáculo A</p>
+        <p>-Cáculo B</p>
+        <p>-Cáculo C</p>
+        <p>-Cáculo I</p>
+        <p>-Cáculo II</p>
+        <div class="alert alert-dark breath-top" role="alert">
+          <h3 class="alert-heading">Contatos e Locais de Atendimento:</h3>
+          <hr/>
+          <div class="row text-left pt-5">
+            <div class="col-12 col-sm-6 col-md-7">
+              <p>Prof. Milton Kist - milton.kist@uffs.edu.br</p>
+              <p>Monitor: Marcos V. F. Cavalli  - marcos.farfus@gmail.com</p>
+              <p>Monitoria Online: WhatsApp: (49)99172-5393</p>
+            </div>
+            <div class="col-12 col-sm-6 col-md-5">
+              <p>Sala 335 - Bloco dos Professores</p>
+              <p>Laboratorio 207 - Bloco B</p>
+              <p>Facebook: marcos.cavalli.7</p>           
+            </div>
+          </div> 
+        </div>        
       </div>
     </div>
   </div>
 </section>
+
+<br>
+<h3>Horários de atendimento 2019/2:</h3>
+
+|  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira | Quinta-Feira |   Sexta-Feira  |
+|:-------------:|:--------------:|:--------------:|:------------:|:------------:|:--------------:|
+| 7:30 - 12:00  | -              | -              | -            |  -           | -              |
+|**Vespertino** |                |                |              |              |                |
+| 13:30 - 14:20 | Presencial     | Presencial     | -            |  -           | -              |
+| 14:20 - 15:10 | Presencial     | Presencial     | -            |  -           | Online         |
+| 15:10 - 16:00 | -              | -              | Online       | Online       | Presencial     |
+| 16:20 - 17:10 | -              | -              | Presencial   |  -           | Presencial     |
+| 17:10 - 18:00 | Online         | Online         | Presencial   |  -           | Presencial     |
+| **Noturno**   |                |                |              |              |                |
+| 19:00 - 22:40 | -              | -              | -            |  -           | -              |
+
+<br>
