@@ -27,11 +27,12 @@ permalink: /ensino/monitoria/
         <h2>Monitoria de Algoritmos e Programação</h2>
         <hr/>
         <p class="text-justify">A aprendizagem de uma linguagem de programação apresenta um dos maiores desafios para curso de
-computação, portanto o objetivo do programa de monitoria de Algoritmos e Programação é desenvolver atividades junto ao curso envolvendo diversas disciplinas, auxiliando os alunos e complementando as tarefas disponibilizadas em sala de aula, através da resolução assistida de exercícios e outras atividades complementares.</p>
-          <h3>Componentes Curriculares Atendidos:</h3>
-          <p>-Algoritmos e Programação</p>
-          <p>-Estrutura de Dados</p>
-          <p>-Programação I</p>
+computação, portanto o objetivo do programa de monitoria de Algoritmos e Programação é desenvolver atividades junto ao curso envolvendo diversas disciplinas, auxiliando os alunos e complementando as tarefas disponibilizadas em sala de aula, através da resolução assistida de exercícios e outras atividades complementares.
+        </p>
+        <h3>Componentes Curriculares Atendidos:</h3>
+        <p>-Algoritmos e Programação</p>
+        <p>-Estrutura de Dados</p>
+        <p>-Programação I</p>
         <div class="alert alert-dark breath-top" role="alert">
           <h3 class="alert-heading">Contatos e Locais de Atendimento:</h3>
           <hr/>
@@ -43,7 +44,7 @@ computação, portanto o objetivo do programa de monitoria de Algoritmos e Progr
               <p>Monitor: Maicon Brandão - maincon.brandao@gmail.com</p>       
             </div>
             <div class="col-12 col-sm-6 col-md-5">
-              <p>Sala 221 Bloco dos Professores</p>
+              <p>Sala 221 - Bloco dos Professores</p>
               <p>Laboratorio 402 e Laboratório 307 - Bloco B</p>
               <p>Laboratorio 402 - Bloco B</p>
               <p>Laboratório 307 - Bloco B</p>
@@ -60,15 +61,15 @@ computação, portanto o objetivo do programa de monitoria de Algoritmos e Progr
 
 |  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira | Quinta-Feira |   Sexta-Feira  |
 |:-------------:|:--------------:|:--------------:|:------------:|:------------:|:--------------:|
-| 08:30 - 09:30 |                |                |              |              | Jean (lab 307) |
-| 09:30 - 11:30 | Jean (lab 307) | Jean (lab 307) | Matheus      |              | Jean (lab 307) |
+| 08:30 - 09:30 |        -       |   -            |       -      |      -       | Jean (lab 307) |
+| 09:30 - 11:30 | Jean (lab 307) | Jean (lab 307) | Matheus      |       -      | Jean (lab 307) |
 |**Vespertino** |                |                |              |              |                |
-| 13:00 - 16:00 | Maicon         |                | Maicon       | Maicon       | Maicon         |
-| 16:00 - 16:30 | Maicon         |                | Maicon       | Maicon       |                |
-| 16:30 - 17:30 | Maicon         | Maicon         | Maicon       | Maicon       |                |
-| 17:30 - 18:00 |                | Maicon         |              |              |                |
+| 13:00 - 16:00 | Maicon         |     -          | Maicon       | Maicon       | Maicon         |
+| 16:00 - 16:30 | Maicon         |     -          | Maicon       | Maicon       |    -           |
+| 16:30 - 17:30 | Maicon         | Maicon         | Maicon       | Maicon       |    -           |
+| 17:30 - 18:00 |          -     | Maicon         |    -         |      -       |                |
 | **Noturno**   |                |                |              |              |                |
-| 18:00 - 19:00 |                | Jean/Matheus   | Matheus      | Jean/Matheus | Jean           |
+| 18:00 - 19:00 |              - | Jean/Matheus   | Matheus      | Jean/Matheus | Jean           |
 | 19:00 - 20:00 | Jean/Matheus   | Jean/Matheus   | Matheus      | Jean         | Jean           |
 | 20:00 - 22:00 | Jean           | Jean/Matheus   | Matheus      | Jean         | Jean           |
 
@@ -79,12 +80,46 @@ computação, portanto o objetivo do programa de monitoria de Algoritmos e Progr
     <div class="row justify-content-center">
       <div class="col-12 text-left">
         <h2>Monitoria de Circuitos Digitais e Hardware</h2>
+        <p class="text-justify">O projeto de monitoria de hardware visa contribuir para o desempenho dos discentes nos componentes curriculares ligados à area de sistemas eletrônicos. A evolução tecnológica da area é rápida, portantando são necessárias ferramentas para acompanhar essa evolução, e a monitoria é uma delas.
+        </p>
         <hr/>
-        <p class="text-justify"></p>
+        <h3>Componentes Curriculares Atendidos:</h3>
+        <p>-Circuitos Digitais</p>
+        <p>-Sistemas Digitais</p>
+        <p>-Organização de Computadores</p>
+        <div class="alert alert-dark breath-top" role="alert">
+          <h3 class="alert-heading">Contatos e Locais de Atendimento:</h3>
+          <hr/>
+          <div class="row text-left pt-5">
+            <div class="col-12 col-sm-6 col-md-7">
+              <p>Prof. Luciano L. Caimi - lcaimi@uffs.edu.br</p>
+              <p>Monitor: Renan Babinski - renan.babinski@estudante.uffs.edu.br</p>
+            </div>
+            <div class="col-12 col-sm-6 col-md-5">
+              <p>Sala 219 - Bloco dos Professores</p>
+              <p>Laboratorio 409 - Bloco B</p>
+            </div>
+          </div> 
+        </div>
       </div>
     </div>
   </div>
 </section>
+
+<br>
+<h3>Horários de atendimento 2019/2:</h3>
+
+|  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira | Quinta-Feira |   Sexta-Feira  |
+|:-------------:|:--------------:|:--------------:|:------------:|:------------:|:--------------:|
+| 7:30 - 12:00  | -              | -              | -            |  -           | -              |
+|**Vespertino** |                |                |              |              |                |
+| 13:30 - 15:50 | -              | Presencial     | Presencial   |  Presencial  | -              |
+| 16:10 - 17:50 | -              | Presencial     | Presencial   |  Presencial  | -              |
+| **Noturno**   |                |                |              |              |                |
+| 19:00 - 20:40 | -              | -              | -            |  -           | Presencial     |
+| 21:00 - 22:40 | -              | -              | -            |  Presencial  | -              |
+
+<br>
 
 <section>
   <div class="container">
