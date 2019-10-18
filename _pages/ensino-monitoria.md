@@ -126,7 +126,7 @@ computação, portanto o objetivo do programa de monitoria de Algoritmos e Progr
     <div class="row justify-content-center">
       <div class="col-12 text-left">
         <h2>Monitoria de Cálculo</h2>
-        <p class="text-justify">A monitoria de cálculo tem como objetivo auxiliar aqueles alunos que sentem dificuldade no raciocínio matemático, por ser uma área que geralmente apresenta maiores desafios. A monitoria de calculo tem a modalidade online, onde o aluno pode enviar suas duvidas para o monitor atráves das redes sociais e ter um atendimento mais rápido.</p>
+        <p class="text-justify">A monitoria de cálculo tem como objetivo auxiliar aqueles alunos que sentem dificuldade no raciocínio matemático, por ser uma área que geralmente apresenta maiores desafios. O programa tem a modalidade online, onde o aluno pode enviar suas duvidas para o monitor atráves das redes sociais e ter um atendimento mais rápido.</p>
         <hr/>
         <h3>Componentes Curriculares Atendidos:</h3>
         <p>-Cáculo A</p>
