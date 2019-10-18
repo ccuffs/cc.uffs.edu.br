@@ -24,12 +24,12 @@ permalink: /ensino/monitoria/
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 text-left">
-        <h2>Monitoria de Algoritimos e Programação</h2>
+        <h2>Monitoria de Algoritmos e Programação</h2>
         <hr/>
         <p class="text-justify">A aprendizagem de uma linguagem de programação apresenta um dos maiores desafios para curso de
 computação, portanto o objetivo do programa de monitoria de Algoritmos e Programação é desenvolver atividades junto ao curso envolvendo diversas disciplinas, auxiliando os alunos e complementando as tarefas disponibilizadas em sala de aula, através da resolução assistida de exercícios e outras atividades complementares.</p>
           <h3>Componentes Curriculares Atendidos:</h3>
-          <p>-Algoritimos e Programação</p>
+          <p>-Algoritmos e Programação</p>
           <p>-Estrutura de Dados</p>
           <p>-Programação I</p>
         <div class="alert alert-dark breath-top" role="alert">
