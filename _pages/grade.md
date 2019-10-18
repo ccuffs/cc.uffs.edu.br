@@ -81,6 +81,50 @@ permalink: /grade/
     </div>
 </div>
 
-| Componente curricular   |      Descriçao      |  Pré-requisito |
-|----------|:-------------|:------:|
-| Algoritmos e Programação |  Noções iniciais sobre criação de softwares e algorítmos. | - |
+|Fase|Nº|Componente Curricular&emsp;&emsp;&emsp;|Descrição|Pré-requisitos|
+|:------:|:-----:|----------|:-----------------------|:---:|
+| 1ª | 01 | Informática Básica | Fundamentos de informática. Conhecimentos de sistemas operacionais. Utilização da redemundial de computadores. Ambientes virtuais de aprendizagem. | - |
+| 1ª | 02 | Matemática C | Utilizar conceitos e procedimentos matemáticos para analisar dados, elaborar modelos e resolver problemas. Sintetizar, deduzir, elaborar hipóteses etc, e argumentar com clareza e coerência utilizando elementos de linguagem matemática. | - |
+| 1ª | 03 | Introdução a Filosofia | Fundamentos filosóficos da Modernidade. Tópicos de Ética e de Epistemologia. | - |
+| 1ª | 04 | Algoritmos e Programação| Noções iniciais de programação e criação de software. Desenvolvimento do raciocínio lógico para o desenvolvimento de algoritmos. Compreender como o computador executa programas. Desenvolver algoritmos utilizando os conceitos aprendidos.  | - |
+| 1ª | 05 | Estatísca Básica | Utilizar ferramentas da estatística descritiva para interpretar, analisar e sintetizar dados estatísticos com vistas à compreensão de contextos diversos. | - |
+| 2ª | 06 | Cálculo I                           | Introdução as principais ferramentas do cálculo diferencial e integral de funções de uma variável, abordando suas aplicações. | 02 |
+| 2ª | 07 | Circuitos digitais                  | Fundamentos de Eletrônica. Famílias Lógicas. Simulação de Circuitos Lógicos. Álgebra de Boole etc. | 01 e 04 |
+| 2ª | 08 | Estruturas de dados                 | Conceitos básicos de complexidade de algoritmos. Alocação dinâmica de memória. Tipos Abstratos de Dados. Listas lineares e suas generalizações. | 04 |
+| 2ª | 09 | Probabilidade e estatística         | Estudo de elementos estatísticos discretos necessários para alguns tópicos em Ciência da Computação, como a análise do caso médio de algoritmos e os algoritmos probabilísticos. | 05 |
+| 2ª | 10 | Produção textual acadêmica          | Desenvolvimento da competência textual-discursiva de modo a fomentar a habilidade de leitura e produção de textos orais e escritos na esfera acadêmica. | - |
+| 3ª | 11 | Sistemas digitais                   | Compreensão de conceitos e do funcionamento de circuitos digitais utilizados em computação, através da apresentação de técnicas de projeto e simulação e implementação usando linguagens de descrição de hardware e tecnologias de prototipação. | 07 |
+| 3ª | 12 | Matemática discreta                 | Compreensão de fundamentos matemáticos necessários às diversas disciplinas da Ciência da Computação. Estudo de elementos matemáticos discretos em aplicações computacionais. | 02 |
+| 3ª | 13 | Pesquisa e ordenação de dados       | Utilização de estruturas de dados avançadas para ordenação e pesquisa de informações. Construção de algoritmos para persistir dados e tratar dados persistidos. Analise e comparação de métodos de ordenação quadráticos e métodos recursivos. | 08 |
+| 3ª | 14 | Programação I                       | Compreensão de conceitos fundamentais do paradigma de programação orientada a objetos e suas aplicações no desenvolvimento de soluções de software. | 04 |
+| 3ª | 15 | Cálculo II                          | Estudo de técnicas de integração de uma função de uma variável e aplicações na resolução de problemas. Introdução às principais ferramentas do cálculo diferencial e integral de funções de várias variáveis. | 06 |
+| 4ª | 16 | Organização de computadores         | Conhecer os principais conceitos envolvidos na concepção da arquitetura e organização dos computadores, sabendo caracterizar e entender o funcionamento interno de um computador,dada uma certa arquitetura, reconhecendo o impacto de cada alternativa sobre fatores como desempenho e custo. | 07 |
+| 4ª | 17 | Banco de dados I                    | Noçoes iniciais sobre o funcionamento de banco de dados. Executar um projeto de banco de dados relacional e manipular os dados armazenados. | 13 |
+| 4ª | 18 | Grafos                              | Compreensão de conceitos básicos em Teoria dos Grafos. Modelagem de problemas e situações diversas com grafos. Desenvolvimento da criatividade e das habilidades formais de demonstração através de exercícios sobre grafos e aplicações.  | 08 e 12 |
+| 4ª | 19 | Geometria analítica                 | Sistema de coordenadas cartesianas. Vetores no plano e no espaço. Estudo analítico de retas e planos. Distâncias. Cônicas. Superfícies quádricas. | 02 |
+| 4ª | 20 | Engenharia de software I            | Compreensão do processo completo de desenvolvimento de produtos de software e os procedimentos necessários, com ênfase no planejamento e melhoria contínua. | 14 |
+| 5ª | 21 | Banco de dados II                   | Estudo de como os sistemas gerenciadores de banco de dados relacionais (SGBDR) armazenam fisicamente os dados para acesso. Compreensão dos componentes dos SGBDR. | 17 |
+| 5ª | 22 | Sistemas operacionais               | Estudo e analise da estrutura, funcionalidades, os tipos e a evolução dos sistemas operacionais. | 16 |
+| 5ª | 23 | Linguagens formais e autômatos      | Compreensão e aplicação de conceito de alfabeto, palavra, linguagem, grámatica. Classificação formal de uma linguagem de acordo com hierarquia de Chromsky etc. | 12 |
+| 5ª | 24 | Engenharia de software II           | Analise e desenvolvimento de software utilizando métricas e conceitos de gestão de projeto. Arquitetura de software. Noções de usabilidade e critérios ergonômicos| 20 |
+| 5ª | 25 | Álgebra linear                      | Estudo da resolução de equações lineares utilizando operações elementares. Estudo de matrizes, determinante. Compreensão de conceitos de transformação linear, autovalor e autovetor. | 19 |
+| 6ª | 26 | Redes de computadores               | Compreensão das redes de computadores, conhecendo o modelo de referência OSI, a arquitetura TCP/IP e seus protocolos, equipamentos e principais aplicações. | 22 |
+| 6ª | 27 | Teoria da computação                | Compreensão da importância da Teoria da Computação para a prática computacional através dos conceitos de Computabilidade, Decidibilidade, Complexidade e Tratabilidade. Desenvolvimento das habilidades de argumentação matemática e formal para demonstrações em Teoria da Computação.  | 18 |
+| 6ª | 28 | Construção de Compiladores          | Compreender a estrutura de compiladores, o processo de compilação no reconhecimento de linguagens e a geração/otimização de código. Construir analisadores léxicos e sintáticos. | 23 |
+| 6ª | 29 | Planejamento e gestão de projetos   | Planejar e gerenciar projetos de software utilizando metodologias de gerenciamento de projetos adequadas. | 24 |
+| 6ª | 30 | Programação II                      | Estudo e aplicação das principais  técnicas utilizadas para o desenvolvimento de sistemas para a Web. | 14 |
+| 7ª | 31 | Iniciação à prática científica      | Proporcionar reflexões sobre as relações existentes entre universidade, sociedade e conhecimento científico e fornecer instrumentos para iniciar o acadêmico na prática da atividade científica. | - |
+| 7ª | 32 | Inteligencia Artificial             | Adquirir o conhecimento básico para trabalhar com as abordagens diferenciadas da Inteligência Artificial, objetivando simular comportamento inteligente através da máquina.  | 04 e 09 |
+| 7ª | 33 | Linguagens de Programação           | Entender a classificação das linguagens de programação e seu contexto histórico.Compreender os aspectos técnicos de implementação dos diferentes recursos oferecidos pelas principais linguagens. Adquirir a experiência de programar em paradigmas não-usuaisde programação a fins de comparação nos mais diversos contextos. | 14 |
+| 7ª | 34 | Computação gráfica                  | Dominar os principais conceitos e técnicas da Computação Gráfica 2D e 3D. | 08 e 25 |
+| 7ª | 35 | Cálculo numérico                    | Abordar a resolução não algébrica de problemas matemáticos por meio de métodos numéricos, fazendo uso de ferramentas do cálculo diferencial e integral, da álgebra linear e de equações diferenciais ordinárias. | 04 e 15 |
+| 8ª | 36 | Meio ambiente, economia e sociedade | Compreensão acerca dos principais conceitos que envolvem a Economia Política e a sustentabilidade do desenvolvimento das relações socioeconômicas e do meio ambiente | - |
+| 8ª | 37 | História da fronteira sul           | Compreender o processo de formação da região sul do Brasil por meio da análise de aspectos históricos do contexto de povoamento, despovoamento e colonização. | - |
+| 8ª | 38 | Optativa I                          | - | - |
+| 8ª | 39 | Optativa II                         | - | - |
+| 8ª | 40 | Direitos e cidadania                | Permitir ao estudante uma compreensão adequada acerca dos interesses de classe, das ideologias e das elaborações retórico-discursivas subjacentes à categoria cidadania. | - |
+| 9ª | 41 | Optativa III                        | - | - |
+| 9ª | 42 | Optativa IV                         | - | - |
+| 9ª | 43 | Trabalho de conclusão de curso I    | Escrever um projeto científico na área de computação. Defender um projeto perante uma banca. | 31 e 120 CR's Contabilizados |
+| 10ª | 44 | Optativa V                          | - | - |
+| 10ª | 45 | Trabalho de conclusão de curso II   | Executar o projeto proposto no TCC I. Desenvolver o produto proposto no TCC I. Defender o resultado obtido perante uma banca. | 43 |
