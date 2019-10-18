@@ -57,7 +57,6 @@ computação, portanto o objetivo do programa de monitoria de Algoritmos e Progr
 
 <br>
 <h3>Horários de atendimento 2019/2:</h3>
-<hr>
 
 |  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira | Quinta-Feira |   Sexta-Feira  |
 |:-------------:|:--------------:|:--------------:|:------------:|:------------:|:--------------:|
@@ -72,6 +71,8 @@ computação, portanto o objetivo do programa de monitoria de Algoritmos e Progr
 | 18:00 - 19:00 |                | Jean/Matheus   | Matheus      | Jean/Matheus | Jean           |
 | 19:00 - 20:00 | Jean/Matheus   | Jean/Matheus   | Matheus      | Jean         | Jean           |
 | 20:00 - 22:00 | Jean           | Jean/Matheus   | Matheus      | Jean         | Jean           |
+
+<br>
 
 <section>
   <div class="container">
