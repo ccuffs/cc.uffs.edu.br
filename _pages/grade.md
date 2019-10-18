@@ -21,10 +21,10 @@ permalink: /grade/
 
 |Fase|Nº|Componente Curricular&emsp;&emsp;&emsp;|Descrição|Pré-requisitos|
 |:------:|:-----:|----------|:-----------------------|:---:|
-| 1ª | 01 | Informática Básica | Noções básicas e fundamentação da informática no contexto do curso. | - |
-| 1ª | 02 | Matemática C | Grandezas proporcionais. Noções de geometria. Conjuntos numéricos. Equações e inequações. Funções. | - |
+| 1ª | 01 | Informática Básica | Fundamentos de informática. Conhecimentos de sistemas operacionais. Utilização da redemundial de computadores. Ambientes virtuais de aprendizagem. | - |
+| 1ª | 02 | Matemática C | Utilizar conceitos e procedimentos matemáticos para analisar dados, elaborar modelos e resolver problemas. Sintetizar, deduzir, elaborar hipóteses etc, e argumentar com clareza e coerência utilizando elementos de linguagem matemática. | - |
 | 1ª | 03 | Introdução a Filosofia | Fundamentos filosóficos da Modernidade. Tópicos de Ética e de Epistemologia. | - |
-| 1ª | 04 | Algoritmos e Programação| Noções iniciais de programação e criação de software | - |
+| 1ª | 04 | Algoritmos e Programação| Noções iniciais de programação e criação de software. Desenvolvimento do raciocínio lógico para o desenvolvimento de algoritmos. Compreender como o computador executa programas. Desenvolver algoritmos utilizando os conceitos aprendidos.  | - |
 | 1ª | 05 | Estatísca Básica | Utilizar ferramentas da estatística descritiva para interpretar, analisar e sintetizar dados estatísticos com vistas à compreensão de contextos diversos. | - |
 | 2ª | 06 | Cálculo I                           | Introdução as principais ferramentas do cálculo diferencial e integral de funções de uma variável, abordando suas aplicações. | 02 |
 | 2ª | 07 | Circuitos digitais                  | Fundamentos de Eletrônica. Famílias Lógicas. Simulação de Circuitos Lógicos. Álgebra de Boole etc. | 01 e 04 |
