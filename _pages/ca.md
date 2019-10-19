@@ -35,6 +35,6 @@ permalink: /ca/
   </div>
   <div class="col-11">
     <h3>Telegram</h3>
-    <p>Temos um grupo oficial no Telegram. Fale com um representante do CA para ser adicionado.</p> 
+    <p>Temos um grupo oficial no telegram.me/ccuffs </p> 
   </div>
 </div>
