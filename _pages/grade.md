@@ -14,7 +14,7 @@ permalink: /grade/
         </div>
 
         <div class="col-md-2">
-            <p><img alt="image" class="img-fluid" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//icons/layers.svg"></p>
+            <p><img alt="image" class="img-fluid" src="../../images/illustrations/matutino.svg"></p>
         </div>
     </div>
 </div>
@@ -76,7 +76,7 @@ permalink: /grade/
         </div>
 
         <div class="col-md-2">
-            <p><img alt="image" class="img-fluid" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//icons/package.svg"></p>
+            <p><img alt="image" class="img-fluid" src="../../images/illustrations/noturno.svg"></p>
         </div>
     </div>
 </div>
