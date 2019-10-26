@@ -23,7 +23,7 @@ permalink: /pessoas/
     <div class="row"><div class="col-12"><h2>Professores</h2><hr /></div></div>
 
     <div class="row text-left">
-      {% assign professors = site.data.people | where:"position","professor" | sort:"name" %}
+      {% assign professors = site.data.people | where:"position","Docente" | sort:"name" %}
       {% for person in professors %}
         {% include person-grid.html %}
       {% endfor %}
@@ -33,7 +33,7 @@ permalink: /pessoas/
     <div class="row"><div class="col-12"><h2>Técnico-Administrativos em Educação</h2><hr /></div></div>
 
     <div class="row">
-      {% assign professors = site.data.people | where:"position","tae" | sort:"name" %}
+      {% assign professors = site.data.people | where:"position","Tecnico" | sort:"name" %}
       {% for person in professors  %}
         {% include person-grid.html %}
       {% endfor %}

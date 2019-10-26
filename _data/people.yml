@@ -6,110 +6,110 @@
   email: fernando.bevilacqua@uffs.edu.br
   lattes: http://lattes.cnpq.br/7744662926303212
   web: https://fernandobevilacqua.com
-  position: professor
+  position: Docente
   #bio: "What do you want, jewels? I am a very extravagant man."
   #bio_academic: "Academic What do you want, jewels? I am a very extravagant man."
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/fernando.gif
   twitter: as3gamegears
 
 - person:
   name: Tiago Braga
   email: tiago.braga@uffs.edu.br 
-  position: tae
-  avatar: /images/bio-photo.jpg
+  position: Tecnico
+  avatar: /images/people/tiago.jpeg
 
 - person:
   name: Adriano Sanick Padilha
   title: Me
   email: padilha@uffs.edu.br
-  position: professor
+  position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4592683E6
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/padilha.jfif
 
 - person:
   name: Andressa Sebben
   title: Ma.
   email: asebben@uffs.edu.br
-  position: professor
+  position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4753896U6
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/andressa.png
 
 - person:
   name: Braulio Adriano de Mello
   title: Dr
   email: braulio@uffs.edu.br
-  position: professor
+  position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4707362Y6
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/braulio.jpg
 
 - person:
   name: Claunir Pavan
   title: Dr
   email: claunir.pavan@uffs.edu.br
-  position: professor
+  position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4706941A9
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/pavan.gif
 
 - person:
   name: Denio Duarte
   title: Dr
   email: duarte@uffs.edu.br
-  position: professor
+  position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4709589E5
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/denio.jpg
 
 - person:
   name: Emílio Wuerges
   title: Dr
   email: emilio.wuerges@uffs.edu.br
-  position: professor 
+  position: Docente 
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4716165D0
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/emilio.jpg
 
 - person:
   name: Graziela Simone Tonin
   title: Dra.
   email: graziela.tonin@uffs.edu.br
-  position: professor
+  position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4138361P7
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/graziela.gif
 
 - person:
   name: Guilherme Dal Bianco
   title: Dr
   email: guilherme.dalbianco@uffs.edu.br
-  position: professor
+  position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4138098P8
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/guilherme.gif
 
 - person:
   name: José Carlos Bins Filho
   title: Dr
   email: jose.binsfilho@uffs.edu.br
-  position: professor
+  position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4782175D9
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/bins.gif
 
 - person:
   name: Luciano Lores Caimi
   title: Me
   email: lcaimi@uffs.edu.br
-  position: professor
+  position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4790813H0
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/caimi.jfif
 
 - person:
   name: Marco Aurélio Spohn
   title: Dr
   email: marco.spohn@uffs.edu.br
-  position: professor
+  position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4790248U1
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/marco.gif
 
 - person:
   name: Raquel Aparecida Pegoraro
   title: Dra.
   email: raquel.pegoraro@uffs.edu.br
-  position: professor
+  position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4776788T1
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/raquel.jpg
