@@ -29,6 +29,8 @@
   dropdown:
     - title: Grupos de estudo
       url: /ensino/grupos-estudo
+    - title: Monitoria
+      url: /ensino/monitoria/
 
 - title: Pesquisa
   excerpt: "Iniciativas de pesquisa"

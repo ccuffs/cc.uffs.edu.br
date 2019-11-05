@@ -19,7 +19,7 @@ permalink: /ensino/grupos-estudo/
 
 <div class="row post-grid-mini">
   <div class="col-1">
-      <img alt="image" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/icons/layout.svg">
+      <img alt="image" src="../../images/illustrations/distribuida.svg">
   </div>
   <div class="col-11">
     <h3>Simulação Distribuída</h3>
@@ -37,7 +37,7 @@ permalink: /ensino/grupos-estudo/
 
 <div class="row post-grid-mini breath-top">
   <div class="col-1">
-      <img alt="image" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/icons/life-buoy.svg">
+      <img alt="image" src="../../images/illustrations/visao-illustration.svg">
   </div>
   <div class="col-11">
     <h3>Visão Computacional</h3>
