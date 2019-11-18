@@ -44,7 +44,7 @@
     - title: Projetos
       url: /extensao/projetos
 
--title: Cultura
+- title: Cultura
   excerpt: "Iniciativas de cultura feitas pelo curso para a comunidade"
   dropdown:
     - title: FronteiraCast
