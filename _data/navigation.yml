@@ -44,12 +44,6 @@
     - title: Projetos
       url: /extensao/projetos
 
-- title: Cultura
-  excerpt: "Iniciativas de cultura feitas pelo curso para a comunidade"
-  dropdown:
-    - title: FronteiraCast
-      url: https://uffs.cc/fronteiracast
-
 - title: Empreendedorismo
   excerpt: "Fomento ao empreendedorismo e à inovação tecnológica"
   dropdown:
