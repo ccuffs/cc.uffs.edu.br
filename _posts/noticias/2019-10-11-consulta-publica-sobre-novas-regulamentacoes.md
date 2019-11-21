@@ -3,7 +3,7 @@ title: "Consulta pública sobre novas regulamentações"
 layout: article
 categories: noticias
 last_modified_at: 2019-10-11T22:07:00-05:00
-highlight: true
+highlight: false
 highlight_order: 2
 share: false
 image:
