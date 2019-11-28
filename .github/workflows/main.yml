@@ -1,0 +1,65 @@
+name: Website CI
+on:
+  push:
+    branches:    
+      - master
+      - dev
+env:
+  BUILD_HOST: ci.uffs.cc
+  BUILD_WEB_DIRECTORY: /home/ccuffsci/ci.uffs.cc/cc.uffs.edu.br
+  BUILD_WEB_URL: https://ci.uffs.cc/cc.uffs.edu.br
+jobs:
+  build-deploy-audit:
+    name: Build, deploy and audit
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Extract branch name
+      shell: bash
+      run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+      id: extract_branch
+    - name: Build site in jekyll/builder container
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+    - name: Prepare deploy server
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ env.BUILD_HOST }}
+        username: ${{ secrets.USERNAME }}
+        password: ${{ secrets.PASSWORD }}
+        port: ${{ secrets.PORT }}
+        script: |
+          mkdir -p ${{ env.BUILD_WEB_DIRECTORY }}/${{ steps.extract_branch.outputs.branch }}/${{ github.sha }}
+          mkdir -p ${{ env.BUILD_WEB_DIRECTORY }}/${{ steps.extract_branch.outputs.branch }}/${{ github.sha }}/_report
+    - name: Deploy site via SSH
+      uses: garygrossgarten/github-action-scp@release
+      with:
+        local: ${{ github.workspace }}/_site
+        remote: ${{ env.BUILD_WEB_DIRECTORY }}/${{ steps.extract_branch.outputs.branch }}/${{ github.sha }}/
+        host: ${{ env.BUILD_HOST }}
+        username: ${{ secrets.USERNAME }}
+        password: ${{ secrets.PASSWORD }}
+    - name: Audit site performance
+      uses: jakejarvis/lighthouse-action@master
+      with:
+        url: ${{ env.BUILD_WEB_URL }}/${{ steps.extract_branch.outputs.branch }}/${{ github.sha }}
+    - name: Upload audit results as an artifact
+      uses: actions/upload-artifact@master
+      with:
+        name: report
+        path: './report'
+    - name: Copy audit report to deploy server via SSH
+      uses: garygrossgarten/github-action-scp@release
+      with:
+        local: ${{ github.workspace }}/report
+        remote: ${{ env.BUILD_WEB_DIRECTORY }}/${{ steps.extract_branch.outputs.branch }}/${{ github.sha }}/_report/
+        host: ${{ env.BUILD_HOST }}
+        username: ${{ secrets.USERNAME }}
+        password: ${{ secrets.PASSWORD }}  
+    - name: Summary
+      run: |
+        echo "Summary:"
+        echo " Live URL: ${{ env.BUILD_WEB_URL }}/${{ steps.extract_branch.outputs.branch }}/${{ github.sha }}"
+        echo " Audit report URL: ${{ env.BUILD_WEB_URL }}/${{ steps.extract_branch.outputs.branch }}/${{ github.sha }}/_report"
