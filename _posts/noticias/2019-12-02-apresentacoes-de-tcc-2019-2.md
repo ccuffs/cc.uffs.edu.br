@@ -18,6 +18,7 @@ No segundo semestre de 2019, um total de 9 alunos defenderão o TCC I e 19 o TCC
 Confira abaixo a programação com os acadêmicos, orientadores(as) e sua respectiva banca.
 
 ## TCC 1 (sala 105B)
+
 ||||||||
 |--- |--- |--- |--- |--- |--- |--- |
 |#|Data|Hora|Acadêmico|Titulo|Orientador(a)|Banca|
@@ -33,6 +34,7 @@ Confira abaixo a programação com os acadêmicos, orientadores(as) e sua respec
 
 
 ## TCC 2  (sala 106B)
+
 ||||||||
 |--- |--- |--- |--- |--- |--- |--- |
 |#|Data|Hora|Acadêmico|Titulo|Orientador(a)|Banca|
