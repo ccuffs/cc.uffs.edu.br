@@ -11,14 +11,13 @@ image:
   feature: /images/posts/teaser-defesa-tcc-1600x800.png
 ---
 
-Cronograma de defesas de TCC I e II de 2019.2 está disponível. Aproveite para assista às apresentações com os assuntos de seu interesse.
+O cronograma de defesas de TCC I e II de 2019.2 está disponível. Aproveite para conhecer mais sobre assuntos de seu interesse e prestigiar os colegas.
 
-No final de segundo semestre de 2019, 9 alunos defenderão o TCC I e 19 o TCC II. As defesas acontecem à tarde e à noite, nas salas *105B* (TCC I) e *106B* (TCC II).
+No segundo semestre de 2019, um total de 9 alunos defenderão o TCC I e 19 o TCC II. As defesas acontecem à tarde e à noite, nas salas *105B* (para TCC I) e *106B* (para TCC II).
 
 Confira abaixo a programação com os acadêmicos, orientadores(as) e sua respectiva banca.
 
-### TCC 1 (sala 105B)
-
+## TCC 1 (sala 105B)
 ||||||||
 |--- |--- |--- |--- |--- |--- |--- |
 |#|Data|Hora|Acadêmico|Titulo|Orientador(a)|Banca|
@@ -32,10 +31,8 @@ Confira abaixo a programação com os acadêmicos, orientadores(as) e sua respec
 |8|06/dez|14:05|Gabriel Chittolina|Avaliação do Protocolo de Comunicação MQTT|Marco Aurélio Spohn|Emílio Wuerges, Claunir Pavan|
 |9|06/dez|15:15|Dayan Roberto Weber|Integração de Sistema de Gestão Acadêmica com Ambiente Virtual de Aprendizagem Moodle|Claunir Pavan|Fernando Bevilacqua, Emilio Wuerges|
 
----
 
-### TCC 2  (sala 106B)
-
+## TCC 2  (sala 106B)
 ||||||||
 |--- |--- |--- |--- |--- |--- |--- |
 |#|Data|Hora|Acadêmico|Titulo|Orientador(a)|Banca|
