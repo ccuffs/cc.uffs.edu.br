@@ -57,3 +57,4 @@ Confira abaixo a programação com os acadêmicos, orientadores(as) e sua respec
 |17|10/dez|15:45|Igor Lemos Vicente|Utilizando Machine Learning para identificar clientes trials que se tornarão pagantes em um SaaS|Denio Duarte|Guilherme Dal Bianco, Andressa Sebben|
 |18|11/dez|13:30|Artur Constanzi Sponchiado|Aplicação de meta-atributos para detecção de discurso de ódio|Guilherme Dal Bianco|Denio Duarte, Fernando Bevilacqua|
 |19|11/dez|16:30|Vitor Guilherme Forbrig|Representação de VLSI Usando r-tree|Emilio Wuerges|Adriano Sanick Padilha, José Carlos Bins Filho|
+|20|11/dez|18:00|Jovani de Souza|Segurança e Privacidade para a Internet das Coisas: Um estudo de caso com a Kaa IoT Platform|Marco Aurélio Spohn|Emílio Wuerges, Adriano Sanick Padilha|
