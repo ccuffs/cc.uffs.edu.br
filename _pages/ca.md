@@ -20,9 +20,11 @@ permalink: /ca/
 ---
 
 <div class="row breath-top">
+
   <div class="col-1 text-right">
       <a href="https://www.instagram.com/cacomputacaouffs/" target="_blank"><i class="fa fa-instagram fa-3x"></i></a>
   </div>
+
   <div class="col-11">
     <h3>Instragram</h3>
     <p>O perfil oficial do CA no Instagram é <a href="https://www.instagram.com/cacomputacaouffs/" target="_blank">@cacomputacaouffs</a>.</p> 
@@ -31,10 +33,10 @@ permalink: /ca/
 
 <div class="row">
   <div class="col-1 text-right">
-      <i class="fa fa-paper-plane-o fa-3x"></i>
+      <a href="telegram.me/ccuffs" target="_blank"><i class="fa fa-paper-plane-o fa-3x"></i></a>
   </div>
   <div class="col-11">
     <h3>Telegram</h3>
-    <p>Temos um grupo oficial no Telegram. Fale com um representante do CA para ser adicionado.</p> 
+    <p>Temos um grupo oficial no Telegram. É <a href="telegram.me/ccuffs" target="_blank">CC UFFS Geral</a>.</p>  
   </div>
 </div>
