@@ -37,6 +37,6 @@ permalink: /ca/
   </div>
   <div class="col-11">
     <h3>Telegram</h3>
-    <p>Temos um grupo oficial no Telegram. É <a href="telegram.me/ccuffs" target="_blank">CC UFFS Geral</a>.</p>  
+    <p>Temos um grupo oficial no Telegram, é <a href="telegram.me/ccuffs" target="_blank">CC UFFS Geral</a>.</p>  
   </div>
 </div>
