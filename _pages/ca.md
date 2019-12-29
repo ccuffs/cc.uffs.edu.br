@@ -17,6 +17,7 @@ permalink: /ca/
 
 
 ## Canais de comunicação
+
 ---
 
 <div class="row breath-top">
@@ -31,10 +32,11 @@ permalink: /ca/
 
 <div class="row">
   <div class="col-1 text-right">
-      <i class="fa fa-paper-plane-o fa-3x"></i>
+      <a href="https://telegram.me/ccuffs" 
+      target="_blank"><i class="fa fa-paper-plane-o fa-3x"></i>
   </div>
   <div class="col-11">
     <h3>Telegram</h3>
-    <p>Temos um grupo oficial no Telegram. Fale com um representante do CA para ser adicionado.</p> 
+    <p>Temos um grupo oficial no Telegram. Entre em <a href="https://telegram.me/ccuffs" target="_blank">CC UFFS Geral</a>.</p> 
   </div>
 </div>
