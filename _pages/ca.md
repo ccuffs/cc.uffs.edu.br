@@ -22,7 +22,7 @@ permalink: /ca/
 
 <div class="row breath-top">
   <div class="col-1 text-right">
-      <a href="https://www.instagram.com/cacomputacaouffs/" target="_blank"><i class="fa fa-instagram fa-3x"></i></a>
+    <a href="https://www.instagram.com/cacomputacaouffs/" target="_blank"><i class="fa fa-instagram fa-3x"></i></a>
   </div>
   <div class="col-11">
     <h3>Instragram</h3>
@@ -37,6 +37,6 @@ permalink: /ca/
   </div>
   <div class="col-11">
     <h3>Telegram</h3>
-    <p>Temos um grupo oficial no Telegram. Entre em <a href="https://telegram.me/ccuffs" target="_blank">CC UFFS Geral</a>.</p> 
+    <p>Entre em <a href="https://telegram.me/ccuffs" target="_blank">CC UFFS Geral</a>.</p> 
   </div>
 </div>
