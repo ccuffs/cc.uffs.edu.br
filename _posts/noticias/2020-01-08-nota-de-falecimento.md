@@ -15,4 +15,4 @@ O curso de Ciência da Computação, Campus Chapecó, comunica, com pesar, o fal
 
 O professor Bins faleceu na manhã do dia 8 de Janeiro de 2020, na cidade de Chapecó, SC, em virtude de problemas de saúde. A comunidade do curso expressa sua tristeza pela perda. Nossas condolências à família e aos amigos.
 
-O velório acontecerá na cidade de Chapecó.
+O velório acontecerá na cidade de Chapecó, na funerária Wolff das 17h às 24h. 
