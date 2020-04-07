@@ -3,7 +3,7 @@ title: "Nota de falecimento"
 layout: article
 categories: noticias
 last_modified_at: 2020-01-08T10:50:00-05:00
-highlight: true
+highlight: false
 highlight_order: 1
 share: false
 image:
