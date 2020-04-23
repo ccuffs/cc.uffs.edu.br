@@ -32,11 +32,10 @@ permalink: /ca/
 
 <div class="row">
   <div class="col-1 text-right">
-      <a href="https://telegram.me/ccuffs" 
-      target="_blank"><i class="fa fa-paper-plane-o fa-3x"></i>
+      <a href="https://telegram.me/ccuffs" target="_blank"><i class="fa fa-paper-plane-o fa-3x"></i></a>
   </div>
   <div class="col-11">
     <h3>Telegram</h3>
-    <p>Entre em <a href="https://telegram.me/ccuffs" target="_blank">CC UFFS Geral</a>.</p> 
+    <p>Entre em <a href="https://telegram.me/ccuffs" target="_blank">CC UFFS Geral</a></p> 
   </div>
 </div>
