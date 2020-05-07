@@ -21,31 +21,12 @@ Você precisa ter o [git](https://gitforwindows.org/) instalado e um editor de c
 
 Instale a última versão do [Ruby](https://www.ruby-lang.org) através do [RubyInstaller](https://rubyinstaller.org/downloads/). Baixe uma das versões **Ruby+Devkit** disponíveis, como o [rubyinstaller-devkit-2.6.3-1-x64.exe](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.3-1/rubyinstaller-devkit-2.6.3-1-x64.exe), rode, e no último passo do instalador, escolha `ridk install` (para instalar gems com extensões nativas).
 
-#### 1.2 Instale o Jekyll
+#### 1.2 Instale o bundler
 
-O site é construído com base no [Jekyll](https://jekyllrb.com). Abra um terminal novo (para garantir que o `PATH` está atualizado depois de instalar o Ruby), e rode:
-
-```
-gem install jekyll -v 3.8.6
-```
-
-depois:
+O site é construído com base no [Jekyll](https://jekyllrb.com) que usa o bundler para gerenciar dependencias. Abra um terminal novo (para garantir que o `PATH` está atualizado depois de instalar o Ruby), e rode:
 
 ```
 gem install bundler
-```
-
-Se tudo correr bem, você deve conseguir rodar o comando abaixo para checar a versão do Jekyll instalada:
-
-```
-jekyll -v
-```
-
-Você deve ver `jekyll 3.8.6` como saída.
-Para o site funcionar corretamente, ele precisa de alguns plugins do Jekyll. Rode o seguinte para instalá-los:
-
-```
-gem install jekyll-sitemap jekyll-gist
 ```
 
 ### 2. Linux (Ubuntu)
@@ -91,33 +72,12 @@ Carregue as novas configurações para o terminal:
 source ~/.bashrc
 ```
 
-#### 2.3 Instale o Jekyll
+#### 2.3 Instale o bundler
 
-O site é construído com base no [Jekyll](https://jekyllrb.com).
-
-Rode:
-
-```
-gem install jekyll -v 3.8.6
-```
-
-depois:
+O site é construído com base no [Jekyll](https://jekyllrb.com),  que usa o bundler para gerenciar dependencias.
 
 ```
 gem install bundler
-```
-
-Se tudo correr bem, você deve conseguir rodar o comando abaixo para checar a versão do Jekyll instalada:
-
-```
-jekyll -v
-```
-
-Você deve ver `jekyll 3.8.6` como saída.
-Para o site funcionar corretamente, ele precisa de alguns plugins do Jekyll. Rode o seguinte para instalá-los:
-
-```
-gem install jekyll-sitemap jekyll-gist
 ```
 
 ## Manuseio do site
@@ -132,16 +92,22 @@ Close esse repositório em uma pasta qualquer da sua máquina, e.x: `c:\` ou `/t
 git clone https://github.com/ccuffs/cc.uffs.edu.br cc.uffs.edu.br && cd cc.uffs.edu.br
 ```
 
+Instale todas as dependências:
+
+```
+bundle update
+```
+
 ### 2. Testando o site
 
 Para testar o site, entre na pasta onde você clonou esse repositório, e rode:
 
 ```
-jekyll serve
+bundle exec jekyll serve
 ```
 
 Após alguns segundos, o site estará disponível através da URL [http://127.0.0.1:4000](http://127.0.0.1:4000).
-Depois de rodar `jekyll serve`, você deve ver algo similar ao seguinte:
+Depois de rodar o comando, você deve ver algo similar ao seguinte:
 
 ```
 Configuration file: /mnt/c/cc.uffs.edu.br/_config.yml
