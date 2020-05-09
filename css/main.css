@@ -1,3 +1,7 @@
+body {
+    font-family: Lato,Helvetica,Arial;
+}
+
 p {
     font-weight: 300;
     font-size: 1.1em;
@@ -168,8 +172,7 @@ svg:not(:root) {
 hr {
     display: block;
     position: relative;
-    margin: 48px 0;
-    margin: 3rem 0;
+    margin: 1rem 0;
     padding: 0;
     height: 5px;
     border: 0;
@@ -180,9 +183,13 @@ hr:before {
     position: absolute;
     top: 0;
     left: 0;
-    width: 8.4716em;
+    width: 100%;
     height: 1px;
     background: #ddd;
+}
+
+hr.separator {
+    margin: 3rem 0;
 }
 
 .hidden, .load {
