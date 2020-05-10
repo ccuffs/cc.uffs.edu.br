@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+{% if page.wide.image or page.wide.image_url or page.wide.video or page.wide.video_url %}
+    {% if page.wide.image %}
+        {% capture background_url %} url('{{ site.url }}/images/wide/{{ page.wide.image }}') {% endcapture %}
+    {% endif %}
+
+    {% if page.wide.image_url %}
+        {% capture background_url %} url('{{ page.wide.image_url }}') {% endcapture %}
+    {% endif %}
+
+    <section class="wide-block bg-dark fp-active align-items-center {{ page.wide.size }}" style="background: {{ background_url }} 0% 50%; background-size: cover;">
+        {% if page.wide.video %}
+            {% capture video_background_url %} {{ site.url }}/videos/wide/{{ page.wide.video }} {% endcapture %}
+        {% endif %}
+
+        {% if page.wide.video_url %}
+            {% capture video_background_url %} {{ page.wide.video_url }} {% endcapture %}
+        {% endif %}
+
+        {% if video_background_url %}
+            <video poster="" autoplay muted loop>
+                <source src="{{ video_background_url }}" type="video/mp4">
+            </video>
+        {% endif %}            
+        
+        <div class="row text-center">
+            <div class="col-12 text-white" style="z-index: 10000;"><h1>{{ page.wide.title }}</h1><p class="lead">{{ page.wide.message }}</p></div>
+        </div>
+    </section>
+{% endif %}
+
+
+<div id="main" role="main">
+  <div class="wrap">
+    <div class="archive-wrap">
+      <div class="page-content">
+        {{ content }}
+      </div><!-- /.page-content -->
+    </div class="archive-wrap"><!-- /.archive-wrap -->
+  </div><!-- /.wrap -->
+</div><!-- /#main -->

@@ -172,7 +172,7 @@ svg:not(:root) {
 hr {
     display: block;
     position: relative;
-    margin: 1rem 0;
+    margin: 1.5rem 0;
     padding: 0;
     height: 5px;
     border: 0;
@@ -327,11 +327,15 @@ hr.separator {
     color: #999;
 }
 
-.archive-wrap {
+/**
+ * Page wrap
+ */
+
+.page-wrap {
     width: 100%;
 }
 
-.archive-wrap .page-content {
+.page-wrap .page-content {
     width: 100%;
 }
 
@@ -542,6 +546,7 @@ hr.separator {
     padding-bottom: 80px !important;
 }
 
+/* TODO: Remover esse estilo depois que for substituído por wide-block */
 .hero-block {
     padding-top: 80px;
     height: 250px;
@@ -550,6 +555,74 @@ hr.separator {
     -o-background-size: cover;
     background-size: cover;
 }
+
+/**
+ * Wide block
+ */
+
+.wide-block {
+    position: relative;
+    padding-top: 80px;
+    height: 250px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.wide-block div.row {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    z-index: 3;
+}
+
+.wide-block.small {
+    height: 250px;
+}
+
+.wide-block.mid {
+    height: 500px;
+}
+
+.wide-block.big {
+    height: 750px;
+}
+
+.wide-block.huge {
+    height: 1000px;
+}
+
+.wide-block video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+
+@media (min-aspect-ratio: 16/9) {
+    .wide-block video {
+        width:100%;
+        height: auto;
+    }
+}
+@media (max-aspect-ratio: 16/9) {
+    .wide-block video { 
+        width:auto;
+        height: 100%;
+    }
+}
+@media (max-width: 767px) {
+    .wide-block video {
+        display: none;
+    }
+}
+
+/**
+ * Footer
+ */
 
 footer p {
     color: #7c8694;
@@ -579,4 +652,22 @@ header .navbar-brand {
 header .navbar {
     padding-top: 15px;
     padding-bottom: 15px;
+}
+
+/*
+ * Layout de páginas
+ */
+
+section.hero {
+    padding: 5em 0.5em 5em 0.5em;
+}
+
+.page-content h2,
+.page-content h3,
+.page-content h4 {
+    margin: 1.5em 0 0.5em 0;
+}
+
+div[role="main"] {
+    margin: 3em 0 0 0;
 }
