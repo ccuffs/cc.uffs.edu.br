@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: simple
 ---
 
 <div id="main" role="main">
@@ -31,18 +31,24 @@ layout: default
     </article>
     
     <div class="related wrap">
-        <h2><i class="fa fa-list-alt"></i> Conteúdo relacionado</h2>
-        <ul class="related-posts">
-          {% for post in site.related_posts limit:3 %}
-            <li>
-              <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
-              <p class="post-meta">
-                <i class="fas fa-calendar-alt"></i> {{ post.date | date: "%Y-%m-%d" }}
-                <i class="fas fa-tags"></i> {{ post.tags | join: "," }}
-              </p>
-            </li>
-          {% endfor %}
-        </ul>
+        <div class="card border-light">
+            <div class="card-header">
+                <i class="fa fa-list-alt"></i> Conteúdo relacionado
+            </div>
+            <div class="card-body">
+              <ul class="related-posts">
+                {% for post in site.related_posts limit:3 %}
+                  <li>
+                    <i class="fa fa-chevron-right"></i> <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
+                    <p class="post-meta">
+                      <i class="fa fa-calendar"></i> {{ post.date | date: "%Y-%m-%d" }}
+                      {% if count(post.tags) > 0 %}<i class="fa fa-tags"></i> {{ post.tags | join: "," }} {% endif %}
+                    </p>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+        </div>
     </div>
 </div>
   

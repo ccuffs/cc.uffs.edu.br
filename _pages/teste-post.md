@@ -22,6 +22,8 @@ Se você não está conseguindo realizar suas atividades durante esse período, 
 
 Dito isso, gostaríamos de atualizar todos os alunos sobre nossa situação atual. Como são muitas informações, elas estão distribuídas em forma de pergunta/resposta.
 
+Teste de markdown com _texto com underscore_, esse é o *texto com asterísco*, esse aqui **é o texto com dois asteríscos**, esse aqui é o texto ***com três asteríscos***.
+
 ## As aulas foram suspensas por quanto tempo?
 
 Por tempo indeterminado. 
@@ -38,8 +40,13 @@ Não.
 
 O curso de Ciência da Computação seguiu todas as orientações dos órgãos competentes da UFFS para oferecer aulas semi-presenciais (EAD). O CA do curso também fez uma pesquisa sobre isso.
 
-Conforme estipulado pelo CONSUNI, a disciplina só poderia ser conduzida em EAD se houvesse aprovação de 100% dos alunos matriculados nela. Conforme levantamento feito pela Secretaria Geral de Cursos, nenhuma das disciplinas do nosso curso teve 100% de aceitação por essa modalidade, o que impede a sua realização.
+Conforme estipulado pelo `CONSUNI`, a disciplina só poderia ser conduzida em EAD se houvesse aprovação de 100% dos alunos matriculados nela. Conforme levantamento feito pela Secretaria Geral de Cursos, nenhuma das disciplinas do nosso curso teve 100% de aceitação por essa modalidade, o que impede a sua realização.
  
+```js
+var teste = "oi";
+console.log(teste);
+```
+
 Aqui é importante mencionar que nem todos os alunos do curso possuem condições de acompanhar aulas EAD. Além disso, sempre prezamos pela qualidade do ensino. Somos um dos cursos modelo da UFFS em termos de avaliação do ensino e de utilização de laboratórios. Não vamos, de forma alguma, deixar isso para trás e encorajar uma formação sem planejamento e estrutura para vocês.
 
 ## Estou fazendo TCC I ou II, ou projetos de pesquisa, posso continuar trabalhando?

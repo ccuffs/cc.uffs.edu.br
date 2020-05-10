@@ -231,11 +231,19 @@ hr.separator {
 
 .post-meta {
     display: block;
-    margin-top: 0.2em;
-    margin-bottom: 2.5em;
     color: #9a9a9a;
     font-size: 1em;
     font-weight: 300;
+}
+
+div.post-meta {
+    margin-top: 0.2em;
+    margin-bottom: 2.5em;
+}
+
+p.post-meta {
+    margin-top: 0.2em;
+    margin-bottom: 0.6em;
 }
 
 .post-meta li {
@@ -252,16 +260,85 @@ hr.separator {
     margin-right: 0.6em;
 }
 
+/* Code */
+
+.post-content code, .post-content pre {
+    font-family: Menlo, Monaco, "Courier New", monospace;
+}
+
+.post-content code {
+    padding: .25em .5em;
+    font-size: 85%;
+    color: #eee;
+    background-color: #474747;
+    border-radius: 1px;
+}
+
+.post-content pre {
+    display: block;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    font-size: .8rem;
+    line-height: 1.4;
+    white-space: pre;
+    white-space: pre-wrap;
+    word-break: break-all;
+    word-wrap: break-word;
+    color: #000;
+    background-color: #ececec;
+}
+
+.post-content pre code {
+    padding: 0;
+    font-size: 100%;
+    color: inherit;
+    background-color: transparent;
+}
+
+.post-content a {
+    color: #747474;
+    text-decoration: none;
+}
+
+.post-content a strong {
+    color: inherit;
+}
+
+/* `:focus` is linked to `:hover` for basic accessibility */
+
+.post-content a {
+    color: #000;
+    background: #f2f2f2;
+    text-decoration: none;
+    border-bottom: dotted 2px #000;
+}
+
+.post-content a strong {
+    color: inherit;
+}
+
+.post-content a:hover,
+.post-content a:focus {
+    text-decoration: none;
+    background: #d2d2d2;
+}
+
+.post-title a {
+    color: #000;
+    background: none;
+    text-decoration: none;
+    border-bottom: none;
+}
+
 /* Related posts */
 
 .related {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-    border-top: 1px solid #eee;
+    margin-top: 5em;
 }
 
 .related h2 {
-    padding-bottom: 1rem;
+    padding-bottom: 0.3rem;
 }
 
 .related-posts {
@@ -271,6 +348,10 @@ hr.separator {
 
 .related-posts strong {
     margin-top: 0;
+}
+
+.related-posts li {
+    margin-bottom: 2em;
 }
 
 .related-posts li small {
@@ -370,22 +451,6 @@ hr.separator {
 
 .page-content a {
     text-decoration: none;
-}
-
-.page-content p a, .page-content li a {
-    border-bottom: 1px dotted #a2a2a2;
-}
-
-.page-content p a:hover, .page-content li a:hover {
-    border-bottom-style: solid;
-}
-
-.page-content p>a.reversefootnote {
-    border-bottom-width: 0;
-}
-
-.page-content .toc li>a {
-    border-bottom-width: 0;
 }
 
 .page-content .page-footer, .page-content .pagination {
