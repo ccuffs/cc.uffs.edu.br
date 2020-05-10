@@ -1,5 +1,5 @@
 body {
-    font-family: Lato,Helvetica,Arial;
+    font-family: Lato, Helvetica, Arial;
 }
 
 p {
@@ -217,6 +217,76 @@ hr.separator {
     margin-top: 0.3em;
 }
 
+/**
+ * Post
+ */
+
+.post-content p {
+    text-align: justify;
+}
+
+.post-content h2, .post-content h3, .post-content h4 {
+    margin: 1.5em 0 0.5em 0;
+}
+
+.post-meta {
+    display: block;
+    margin-top: 0.2em;
+    margin-bottom: 2.5em;
+    color: #9a9a9a;
+    font-size: 1em;
+    font-weight: 300;
+}
+
+.post-meta li {
+    list-style: none;
+    display: inline;
+    margin-right: 1.5em;
+}
+
+.post-meta i {
+    color: #9a9a9a;
+    display: inline;
+    font-size: 0.8em;
+    margin-left: 0.3em;
+    margin-right: 0.6em;
+}
+
+/* Related posts */
+
+.related {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border-top: 1px solid #eee;
+}
+
+.related h2 {
+    padding-bottom: 1rem;
+}
+
+.related-posts {
+    padding-left: 0;
+    list-style: none;
+}
+
+.related-posts strong {
+    margin-top: 0;
+}
+
+.related-posts li small {
+    font-size: 75%;
+    color: #999;
+}
+
+.related-posts li a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+.related-posts li a:hover small {
+    color: inherit;
+}
+
 .post-grid-mini {
     margin-bottom: 10px;
 }
@@ -282,6 +352,10 @@ hr.separator {
     width: 100%;
 }
 
+/**
+ * Page content
+ */
+
 .page-content {
     width: 100%;
 }
@@ -327,6 +401,22 @@ hr.separator {
     color: #999;
 }
 
+.page-content h2, .page-content h3, .page-content h4 {
+    margin: 1.5em 0 0.5em 0;
+}
+
+/**
+ * Breadcrumbs
+ */
+
+nav[aria-label="breadcrumb"] {
+    margin: 1em 0 1em 0;
+}
+
+.breadcrumb {
+    background: #fcfcfc;
+}
+
 /**
  * Page wrap
  */
@@ -337,48 +427,6 @@ hr.separator {
 
 .page-wrap .page-content {
     width: 100%;
-}
-
-#main .ads {
-    position: relative;
-    text-align: center;
-    margin-top: 1.618em;
-    margin-left: -1.618em;
-    margin-right: -1.618em;
-    padding: 10px 0 20px;
-    background: #eaeaea;
-}
-
-@media screen and (min-width: 56.25em) {
-    #main .ads {
-        float: left;
-        display: block;
-        margin-right: 2.35765%;
-        width: 23.23176%;
-        margin-left: 0;
-        margin-right: 0;
-    }
-    #main .ads:last-child {
-        margin-right: 0;
-    }
-}
-
-#main .ads:after {
-    content: "Advertisement";
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-    display: block;
-    font-size: 9px;
-    font-size: 0.5625rem;
-    line-height: 2.66667;
-    margin-bottom: 0;
-    font-family: "Helvetica Neue", "Segoe UI", Arial, sans-serif;
-}
-
-#main .ads ins {
-    border-width: 0;
 }
 
 .page-lead {
@@ -547,6 +595,7 @@ hr.separator {
 }
 
 /* TODO: Remover esse estilo depois que for substituído por wide-block */
+
 .hero-block {
     padding-top: 80px;
     height: 250px;
@@ -604,16 +653,18 @@ hr.separator {
 
 @media (min-aspect-ratio: 16/9) {
     .wide-block video {
-        width:100%;
+        width: 100%;
         height: auto;
     }
 }
+
 @media (max-aspect-ratio: 16/9) {
-    .wide-block video { 
-        width:auto;
+    .wide-block video {
+        width: auto;
         height: 100%;
     }
 }
+
 @media (max-width: 767px) {
     .wide-block video {
         display: none;
@@ -660,12 +711,6 @@ header .navbar {
 
 section.hero {
     padding: 5em 0.5em 5em 0.5em;
-}
-
-.page-content h2,
-.page-content h3,
-.page-content h4 {
-    margin: 1.5em 0 0.5em 0;
 }
 
 div[role="main"] {
