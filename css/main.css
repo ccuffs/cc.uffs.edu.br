@@ -740,12 +740,18 @@ footer {
     position: relative;
 }
 
+footer div.container {
+    padding-top: 2em;
+}
+
 footer h3 {
+    padding-top: 1em;
     font-size: 1.3em;
     font-weight: 500;
 }
 
 footer h4 {
+    padding-top: 0.7em;
     font-size: 1.2em;
     font-weight: 400;
 }
@@ -764,6 +770,10 @@ footer p {
 
 footer .nav-link {
     color: #8892a0 !important;
+}
+
+footer .nav-link:hover {
+    color: #ffffff !important;
 }
 
 footer div.social-links a {
