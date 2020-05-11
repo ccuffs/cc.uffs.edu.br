@@ -616,11 +616,6 @@ nav[aria-label="breadcrumb"] {
     text-decoration: none;
 }
 
-.page-footer {
-    margin-top: 80px;
-    position: relative;
-}
-
 .author-image {
     position: absolute;
     left: 0;
@@ -740,6 +735,21 @@ nav[aria-label="breadcrumb"] {
  * Footer
  */
 
+footer {
+    margin-top: 4em;
+    position: relative;
+}
+
+footer h3 {
+    font-size: 1.3em;
+    font-weight: 500;
+}
+
+footer h4 {
+    font-size: 1.2em;
+    font-weight: 400;
+}
+
 footer p {
     color: #7c8694;
 }
@@ -755,6 +765,25 @@ footer p {
 footer .nav-link {
     color: #8892a0 !important;
 }
+
+footer div.social-links a {
+    color: #cfcfcf;
+    margin: 0.3em 0.3em 0.3em 0.6em;
+}
+
+footer div.social-links a:hover,
+footer div.social-links a:active {
+    color: #ffffff;
+}
+
+footer div.social-links i {
+    font-size: 2em;
+    padding-top: 0.5em;
+}
+
+/**
+ * header e navbar
+ */
 
 header .dropdown-toggle {
     color: black;
