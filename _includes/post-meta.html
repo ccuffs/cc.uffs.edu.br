@@ -1,12 +1,12 @@
-{% if page.author %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
+{% if post.author %}
+  {% assign author = site.data.authors[post.author] %}{% else %}{% assign author = site.owner %}
 {% endif %}
 
 <div class="post-meta">
     <li><i class="fa fa-calendar"></i>
-        <time datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%SZ" }}" itemprop="datePublished">{{ page.date | date: "%Y-%m-%d" }}</time>
-        {% if page.modified %}({{ site.data.messages.locales[site.locale].updated }}: <time datetime="{{ page.modified | date: "%Y-%m-%dT%H:%M:%SZ" }}" itemprop="dateModified">{{ page.modified | date: "%B %d, %Y" }}</time>){% endif %}
+        <time datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%SZ" }}" itemprop="datePublished">{{ post.date | date: "%Y-%m-%d" }}</time>
+        {% if post.modified %}({{ site.data.messages.locales[site.locale].updated }}: <time datetime="{{ post.modified | date: "%Y-%m-%dT%H:%M:%SZ" }}" itemprop="dateModified">{{ pagposte.modified | date: "%B %d, %Y" }}</time>){% endif %}
     </li>
     <li><i class="fa fa-user"></i> {% if author.web %}<a href="{{ author.web }}" itemprop="author">{{ author.name }}</a>{% else %}<span itemprop="author">{{ author.name }}</span>{% endif %}</li>
-    {% if count(page.tags) > 0 %} <i class="fa fa-tags"></i> {{ page.tags | join: "," }} {% endif %}
+    <li>{{ post.tags | join: ", " }}</li>
 </div>

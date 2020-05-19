@@ -6,6 +6,10 @@ last_modified_at: 2019-12-02T17:27:00-03:00
 highlight: false
 highlight_order: 1
 share: false
+tags:
+    teste
+    oi
+    news
 image:
   teaser: posts/teaser-defesa-tcc-1600x800.png
   feature: /images/posts/teaser-defesa-tcc-1600x800.png

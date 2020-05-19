@@ -1,0 +1,24 @@
+<div class="card" style="width: 18rem;" itemscope itemtype="http://schema.org/Article">
+    <img class="card-img-top" alt="{{ post.title }}" itemprop="image" src="{% if post.image.teaser and post.image.teaser contains '://' %}{{ post.image.teaser }}{% elsif post.image.teaser %}{{ site.url }}/images/{{ post.image.teaser }}{% else %}{{ site.url }}/images/{{ site.teaser }}{% endif %}" />
+    <div class="card-body">
+        <h5 class="card-title" itemprop="name">{{ post.title }}</h5>
+        <p class="card-text" itemprop="description">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+    </div>
+    <div class="card-footer">
+        <small class="text-muted">
+            {% if post.date %}<p class="entry-date date published"><time datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>{% endif %}
+        </small>
+    </div>
+
+<!--
+  <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">
+    <img alt="teaser" itemprop="image" src="{% if post.image.teaser and post.image.teaser contains '://' %}{{ post.image.teaser }}{% elsif post.image.teaser %}{{ site.url }}/images/{{ post.image.teaser }}{% else %}{{ site.url }}/images/{{ site.teaser }}{% endif %}" />
+  </a>
+  {% if post.date %}<p class="entry-date date published"><time datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>{% endif %}
+  <h2 class="post-title" itemprop="name">
+    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+  </h2>
+  <p class="post-excerpt" itemprop="description">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+  -->
+</div>
+
