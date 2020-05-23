@@ -262,7 +262,7 @@ p.post-meta {
 
 /* Code */
 
-.post-content code, .post-content pre {
+.post-content code, .post-content pre, .console {
     font-family: Menlo, Monaco, "Courier New", monospace;
 }
 

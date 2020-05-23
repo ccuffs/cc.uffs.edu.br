@@ -10,7 +10,6 @@ image:
   <div class="container breath-top">
     <div class="row justify-content-center">
       <div class="col-12 text-left">
-        <h2>Destaques</h2>
       </div>
     </div>
     <div class="row justify-content-center">
@@ -26,25 +25,25 @@ image:
   </div>
 </section>
 
-<section>
+<section class="mt-5">
   <div class="container breath-top">
     <div class="row">
       <div class="col-12">
-        <ul class="nav nav-tabs">
+        <ul class="nav nav-tabs" id="sectionsTab" role="tablist">
             <li class="nav-item">
-                <a class="nav-link active" href="#">Notícias</a>
+                <a class="nav-link active" id="noticias-tab" data-toggle="tab" href="#noticias" role="tab" aria-controls="noticias" aria-selected="true">Notícias</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Artigos</a>
+                <a class="nav-link" id="artigos-tab" data-toggle="tab" href="#artigos" role="tab" aria-controls="artigos" aria-selected="false">Artigos</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Empregos <span class="badge badge-pill badge-info">2</span></a>
+                <a class="nav-link" id="empregos-tab" data-toggle="tab" href="#empregos" role="tab" aria-controls="empregos" aria-selected="false">Empregos <span class="badge badge-pill badge-info">2</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Estágios</a>
+                <a class="nav-link" id="estagios-tab" data-toggle="tab" href="#estagios" role="tab" aria-controls="estagios" aria-selected="false">Estágios</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Vagas em projetos</a>
+                <a class="nav-link" id="vagas-tab" data-toggle="tab" href="#vagas" role="tab" aria-controls="vagas" aria-selected="false">Vagas em projetos</a>
             </li>
         </ul>
       </div>
@@ -52,17 +51,48 @@ image:
 
     <div class="row">
       <div class="col-12 text-left">
-        {% for post in site.categories.noticias %}
-          {% if post.highlight == false %}
-            {% include post-row.html %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
+        <div class="tab-content" id="sectionsTabContent">
 
-    <div class="row">
-      <div class="col-12 text-right">
-        <a href="/noticias">Ver mais notícias</a>
+            <!-- noticias -->
+            <div class="tab-pane fade show active" id="noticias" role="tabpanel" aria-labelledby="noticias-tab">
+                {% for post in site.categories.noticias %}
+                    {% if post.highlight == false %}
+                        {% include post-row.html %}
+                    {% endif %}
+                {% endfor %}
+
+                <a href="/noticias">Ver mais notícias</a>
+            </div>
+            
+            <!-- artigos -->
+            <div class="tab-pane fade" id="artigos" role="tabpanel" aria-labelledby="artigos-tab">
+                {% for post in site.categories.artigos %}
+                    {% include post-row.html %}
+                {% endfor %}
+            </div>
+            
+            <!-- empregos -->
+            <div class="tab-pane fade" id="empregos" role="tabpanel" aria-labelledby="empregos-tab">
+                {% for post in site.categories.empregos %}
+                    {% include post-row.html %}
+                {% endfor %}
+            </div>
+            
+            <!-- estagios -->
+            <div class="tab-pane fade" id="estagios" role="tabpanel" aria-labelledby="estagios-tab">
+                {% for post in site.categories.estagios %}
+                    {% include post-row.html %}
+                {% endfor %}
+            </div>
+            
+            <!-- vagas -->
+            <div class="tab-pane fade" id="vagas" role="tabpanel" aria-labelledby="vagas-tab">
+                {% for post in site.categories.empregos %}
+                    {% include post-row.html %}
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
       </div>
     </div>
   </div>
