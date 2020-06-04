@@ -238,7 +238,7 @@ hr.separator {
 
 div.post-meta {
     margin-top: 0.2em;
-    margin-bottom: 2.5em;
+    margin-bottom: 0.2em;
 }
 
 p.post-meta {
@@ -467,7 +467,7 @@ p.post-meta {
 }
 
 .page-content h2, .page-content h3, .page-content h4 {
-    margin: 1.5em 0 0.5em 0;
+    margin: 0.5em 0 0.5em 0;
 }
 
 /**

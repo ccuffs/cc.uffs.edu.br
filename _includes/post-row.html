@@ -1,9 +1,9 @@
 <div class="row">
-  <div class="col-1 align-middle">
-      <a href="{{ post.url }}"><img alt="image" class="img-fluid" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/tabs.svg"></a>
+  <div class="col-3 align-self-center">
+      <a href="{{ post.url }}"><img alt="image" class="img-thumbnail" style="width: 100%; max-height: 10rem;" src="{% if post.image.teaser and post.image.teaser contains '://' %}{{ post.image.teaser }}{% elsif post.image.teaser %}{{ site.url }}/images/{{ post.image.teaser }}{% else %}{{ site.url }}/images/{{ site.teaser }}{% endif %}"></a>
   </div>
-  <div class="col-11">
-    <h3>{% if post.url %} <a href="{{ post.url }}">{{ post.title }}</a> {% else %} {{ post.title }} {% endif %}</h3>
+  <div class="col-9">
+    <h4>{% if post.url %} <a href="{{ post.url }}">{{ post.title }}</a> {% else %} {{ post.title }} {% endif %}</h4>
     
     {% include post-meta.html %}
     

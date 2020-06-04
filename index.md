@@ -89,7 +89,6 @@ image:
             <div class="tab-pane fade" id="vagas" role="tabpanel" aria-labelledby="vagas-tab">
                 {% for post in site.categories.empregos %}
                     {% include post-row.html %}
-                {% endif %}
                 {% endfor %}
             </div>
         </div>
