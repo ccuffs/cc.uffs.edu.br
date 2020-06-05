@@ -204,11 +204,11 @@ hr.separator {
  * Menu no topo
  */
 
-.dropdown:hover>.dropdown-menu {
+.dropdown:hover > .dropdown-menu {
     display: block;
 }
 
-.dropdown>.dropdown-toggle:active {
+.dropdown > .dropdown-toggle:active {
     pointer-events: none;
 }
 
