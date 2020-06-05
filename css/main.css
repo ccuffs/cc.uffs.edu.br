@@ -21,7 +21,7 @@ p {
 
 img {
     max-width: 100%;
-    width: auto\9;
+    width: auto;
     height: auto;
     vertical-align: middle;
     border: 0;
@@ -832,18 +832,29 @@ footer div.social-links i {
  * header e navbar
  */
 
+header {
+    background: #343433;
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-weight: 300;
+}
+
 header .dropdown-toggle {
-    color: black;
+    color: #e0e0e0;
 }
 
 header .navbar-brand {
-    color: black;
+    color: #e0e0e0;
     font-weight: bold;
 }
 
+header .navbar-brand img {
+    width: 200px;
+    height: auto;
+}
+
 header .navbar {
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 /*

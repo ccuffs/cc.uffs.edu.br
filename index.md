@@ -1,9 +1,15 @@
 ---
-layout: hero
-permalink: /
+layout: simple
 title: "Inicial"
-image:
-  feature: wood-texture-1600x800.jpg
+permalink: /
+wide:
+    size: big
+    image: lock-1600x800.jpg
+    image_url: https://via.placeholder.com/1600x250
+    video: snow.mp4
+    video_url: https://cdn.uffs.cc/cc.uffs.edu.br/videos/wide/cc-bw-15fps.mp4
+    title: "Título da página em formato wide"
+    message: "Mensagem abaixo do título wide em classe lead"
 ---
 
 <section>
