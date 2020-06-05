@@ -1,6 +1,6 @@
 ---
 title: "CC Bit Party"
-layout: article
+layout: post
 categories: noticias
 last_modified_at: 2019-08-23T08:33:00-05:00
 highlight: true

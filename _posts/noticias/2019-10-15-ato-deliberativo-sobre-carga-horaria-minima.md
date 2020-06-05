@@ -1,6 +1,6 @@
 ---
 title: "Ato deliberativo sobre carga horária mínima"
-layout: article
+layout: post
 categories: noticias
 last_modified_at: 2019-10-15T22:10:11-05:00
 highlight: true

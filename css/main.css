@@ -1,5 +1,5 @@
 body {
-    font-family: Lato, Helvetica, Arial;
+    font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
 }
 
 p {
@@ -493,6 +493,10 @@ p.post-meta {
 
 .page-content h2, .page-content h3, .page-content h4 {
     margin: 0.5em 0 0.5em 0;
+}
+
+.page-content h1 {
+    font-size: 1.8em;
 }
 
 .page-content h2 {

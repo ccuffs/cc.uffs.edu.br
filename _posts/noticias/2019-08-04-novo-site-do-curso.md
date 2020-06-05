@@ -1,6 +1,6 @@
 ---
 title: "Novo site do curso"
-layout: article
+layout: post
 categories: noticias
 last_modified_at: 2019-08-04T08:06:00-05:00
 highlight: true

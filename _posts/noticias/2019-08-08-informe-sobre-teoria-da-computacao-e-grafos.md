@@ -1,6 +1,6 @@
 ---
 title: "Informe sobre Teoria da Computação e Grafos"
-layout: article
+layout: post
 categories: noticias
 last_modified_at: 2019-08-08T08:06:00-05:00
 highlight: false

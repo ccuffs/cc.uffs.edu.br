@@ -1,6 +1,6 @@
 ---
 title: "CC tem disciplina ministrada em inglês"
-layout: article
+layout: post
 categories: noticias
 last_modified_at: 2019-04-11T08:06:00-05:00
 highlight: true

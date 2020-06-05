@@ -1,6 +1,6 @@
 ---
 title: "Nota de falecimento"
-layout: article
+layout: post
 categories: noticias
 last_modified_at: 2020-01-08T10:50:00-05:00
 highlight: false

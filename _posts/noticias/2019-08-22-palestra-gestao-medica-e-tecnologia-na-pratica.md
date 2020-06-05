@@ -1,6 +1,6 @@
 ---
 title: "Palestra: Gestão médica e tecnologia na prática"
-layout: article
+layout: post
 categories: noticias
 last_modified_at: 2019-08-22T16:39:00-05:00
 highlight: false

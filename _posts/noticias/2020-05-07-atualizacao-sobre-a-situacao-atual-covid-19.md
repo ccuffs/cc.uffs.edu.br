@@ -1,6 +1,6 @@
 ---
 title: "Atualização sobre a situação atual COVID-19"
-layout: article
+layout: post
 categories: noticias
 last_modified_at: 2020-05-07T20:10:00-03:00
 highlight: true
