@@ -26,11 +26,10 @@ permalink: /empreendedorismo/empresa-junior/
         Fundada em 2013, a <a href="https://fronteiratec.com" target="_blank">FronteiraTec</a> tem como missão proporcionar inovação de ponta aos seus clientes, mantendo os preços competitivos e acessíveis. Contamos com uma equipe apta a atuar em diversas áreas, desde soluções em software até hardware (eletrônica/robótica). Outro de seus objetivos é incentivar e ajudar a tornar relidade ideias empreendedoras de alunos do curso de Ciência da Computação.
     </p> 
     <p class="meta">
-        <i class="fa fa-user-circle-o"></i> Prof. Fernando Bevilacqua <small>(Coordenador)</small>
         <i class="fa fa-user-circle-o"></i> Profa. Graziela Simone Tonin <small>(Coordenadora)</small>
+        <i class="fa fa-user-circle-o"></i> Profa. Raquel Aparecida Pegoraro <small>(Mentor)</small>
     </p>
     <p class="meta">
-        <i class="fa fa-user-circle-o"></i> Profa. Raquel Aparecida Pegoraro <small>(Mentor)</small>
         <i class="fa fa-user-circle-o"></i> Prof. Emilio Wuerges <small>(Mentor)</small>
     </p>
   </div>
