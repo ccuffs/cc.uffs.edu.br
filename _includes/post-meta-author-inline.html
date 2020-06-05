@@ -1,0 +1,5 @@
+{% if post.author %}
+  {% assign author = site.data.authors[post.author] %}{% else %}{% assign author = site.owner %}
+{% endif %}
+
+<i class="fa fa-user"></i> {% if author.web %}<a href="{{ author.web }}" itemprop="author">{{ author.name }}</a>{% else %}<span itemprop="author">{{ author.name }}</span>{% endif %}
