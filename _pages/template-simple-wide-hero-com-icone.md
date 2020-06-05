@@ -6,7 +6,7 @@ wide:
     image: lock-1600x800.jpg
     image_url: https://via.placeholder.com/1600x250
     video: snow.mp4
-    video_url: https://storage.googleapis.com/coverr-main/mp4/Mt_Baker.mp4
+    video_url: https://cdn.uffs.cc/cc.uffs.edu.br/videos/wide/cc-bw-15fps.mp4
     title: "Título da página em formato wide"
     message: "Mensagem abaixo do título wide em classe lead"
 permalink: /template/simple-wide-hero-com-icone/
