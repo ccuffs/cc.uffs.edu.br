@@ -6,7 +6,7 @@ permalink: /grade/
 
 
 <div class="container">
-    <div class="row align-items-center pt-2 pt-lg-5">
+    <div class="row align-items-center pt-2 pt-lg-5 mb-5">
         <div class="col-md-10">
             <h2>Grade do bacharelado vespertino</h2>
             <p class="lead">Duração mínima de 8 semestres.</p>
@@ -19,6 +19,7 @@ permalink: /grade/
     </div>
 </div>
 
+{:.table}
 |Fase|Nº|Componente Curricular&emsp;&emsp;&emsp;|Descrição|Pré-requisitos|
 |:------:|:-----:|----------|:-----------------------|:---:|
 | 1ª | 01 | Informática Básica | Fundamentos de informática. Conhecimentos de sistemas operacionais. Utilização da redemundial de computadores. Ambientes virtuais de aprendizagem. | - |
@@ -68,7 +69,7 @@ permalink: /grade/
 | 8ª | 45 | Direitos e cidadania                | Permitir ao estudante uma compreensão adequada acerca dos interesses de classe, das ideologias e das elaborações retórico-discursivas subjacentes à categoria cidadania. | - |
 
 <div class="container">
-    <div class="row align-items-center pt-2 pt-lg-5">
+    <div class="row align-items-center pt-2 pt-lg-5 mb-5">
         <div class="col-md-10">
             <h2>Grade do bacharelado noturno</h2>
             <p class="lead">Duração mínima de 10 semestres.</p>
@@ -81,6 +82,7 @@ permalink: /grade/
     </div>
 </div>
 
+{:.table}
 |Fase|Nº|Componente Curricular&emsp;&emsp;&emsp;|Descrição|Pré-requisitos|
 |:------:|:-----:|----------|:-----------------------|:---:|
 | 1ª | 01 | Informática Básica | Fundamentos de informática. Conhecimentos de sistemas operacionais. Utilização da redemundial de computadores. Ambientes virtuais de aprendizagem. | - |

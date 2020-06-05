@@ -59,6 +59,7 @@ computação, portanto o objetivo do programa de monitoria de Algoritmos e Progr
 <br>
 <h3>Horários de atendimento 2019/2:</h3>
 
+{:.table}
 |  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira | Quinta-Feira |   Sexta-Feira  |
 |:-------------:|:--------------:|:--------------:|:------------:|:------------:|:--------------:|
 | 08:30 - 09:30 |        -       |   -            |       -      |      -       | Jean (lab 307) |
@@ -109,6 +110,7 @@ computação, portanto o objetivo do programa de monitoria de Algoritmos e Progr
 <br>
 <h3>Horários de atendimento 2019/2:</h3>
 
+{:.table}
 |  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira | Quinta-Feira |   Sexta-Feira  |
 |:-------------:|:--------------:|:--------------:|:------------:|:------------:|:--------------:|
 | 7:30 - 12:00  | -              | -              | -            |  -           | -              |
@@ -158,6 +160,7 @@ computação, portanto o objetivo do programa de monitoria de Algoritmos e Progr
 <br>
 <h3>Horários de atendimento 2019/2:</h3>
 
+{:.table}
 |  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira | Quinta-Feira |   Sexta-Feira  |
 |:-------------:|:--------------:|:--------------:|:------------:|:------------:|:--------------:|
 | 7:30 - 12:00  | -              | -              | -            |  -           | -              |
@@ -169,5 +172,3 @@ computação, portanto o objetivo do programa de monitoria de Algoritmos e Progr
 | 17:10 - 18:00 | Online         | Online         | Presencial   |  -           | Presencial     |
 | **Noturno**   |                |                |              |              |                |
 | 19:00 - 22:40 | -              | -              | -            |  -           | -              |
-
-<br>
