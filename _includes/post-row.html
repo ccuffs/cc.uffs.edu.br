@@ -28,7 +28,7 @@
       {% else %}
         {% assign text = post.content %}
       {% endif %}
-      <p>{{ text | strip_html | strip_newlines | truncate: 200 }} <a href="{{ post.url }}">[ler mais]</a></p>
+      <p>{{ text | strip_html | strip_newlines | truncate: 200 }} <a href="{{ post.url }}" class="float-right read-more rounded"><i class="fa fa-chevron-circle-right" aria-hidden="true"></i> ler mais</a></p>
     {% endif %}
   </div>
 </div>

@@ -218,6 +218,31 @@ hr.separator {
 }
 
 /**
+ * Tabs 
+ */
+
+.tab-content {
+    padding-top: 1em;
+}
+
+/**
+ * Misc
+ */
+
+a.read-more {
+    margin: 0.5em;
+    padding: 0.2em 0.3em 0.2em 0.3em;
+    font-size: 0.8em;
+    font-weight: 200;
+    background: #f8f8f8;
+}
+
+a.read-more i {
+    color: #a1a1a1;
+    margin-right: 0.2em;
+}
+
+/**
  * Post
  */
 
@@ -468,6 +493,18 @@ p.post-meta {
 
 .page-content h2, .page-content h3, .page-content h4 {
     margin: 0.5em 0 0.5em 0;
+}
+
+.page-content h2 {
+    font-size: 1.6em;
+}
+
+.page-content h3 {
+    font-size: 1.4em;
+}
+
+.page-content h4 {
+    font-size: 1.2em;
 }
 
 /**
