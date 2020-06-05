@@ -41,7 +41,7 @@ wide:
                 <a class="nav-link" id="artigos-tab" data-toggle="tab" href="#artigos" role="tab" aria-controls="artigos" aria-selected="false">Artigos</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" id="empregos-tab" data-toggle="tab" href="#empregos" role="tab" aria-controls="empregos" aria-selected="false">Empregos <span class="badge badge-pill badge-info">2</span></a>
+                <a class="nav-link" id="empregos-tab" data-toggle="tab" href="#empregos" role="tab" aria-controls="empregos" aria-selected="false">Empregos <!--<span class="badge badge-pill badge-primary">2</span>--></a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" id="estagios-tab" data-toggle="tab" href="#estagios" role="tab" aria-controls="estagios" aria-selected="false">Estágios</a>

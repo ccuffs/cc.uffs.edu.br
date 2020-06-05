@@ -9,6 +9,9 @@ url: https://cc.uffs.edu.br
 feed:
   path: atom.xml
 
+# Dark mode
+dark: false
+
 # Jekyll configuration
 permalink: /:categories/:title/
 kramdown:
