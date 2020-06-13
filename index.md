@@ -65,7 +65,7 @@ wide:
                     {% endif %}
                 {% endfor %}
 
-                <a href="/noticias">Ver mais notícias</a>
+                <p class="text-center"><a href="/noticias" class="btn btn-sm btn-outline-secondary">Ver mais notícias</a></p>
             </div>
             
             <!-- artigos -->

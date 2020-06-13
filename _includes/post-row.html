@@ -1,6 +1,6 @@
 <div class="row">
   <div class="col-3 align-self-center">
-      <a href="{{ post.url }}"><img alt="image" class="border border-secondary" style="width: 100%; max-height: 10rem;" src="{% if post.image.teaser and post.image.teaser contains '://' %}{{ post.image.teaser }}{% elsif post.image.teaser %}{{ site.url }}/images/{{ post.image.teaser }}{% else %}{{ site.url }}/images/{{ site.teaser }}{% endif %}"></a>
+      <a href="{{ post.url }}"><img alt="image" class="img-thumbnail" style="width: 100%; max-height: 10rem;" src="{% if post.image.teaser and post.image.teaser contains '://' %}{{ post.image.teaser }}{% elsif post.image.teaser %}{{ site.url }}/images/{{ post.image.teaser }}{% else %}{{ site.url }}/images/{{ site.teaser }}{% endif %}"></a>
   </div>
   <div class="col-9">
     <h4>{% if post.url %} <a href="{{ post.url }}">{{ post.title }}</a> {% else %} {{ post.title }} {% endif %}</h4>
@@ -28,7 +28,7 @@
       {% else %}
         {% assign text = post.content %}
       {% endif %}
-      <p class="mt-2">{{ text | strip_html | strip_newlines | truncate: 200 }} <a href="{{ post.url }}" class="float-right bg-secondary text-small rounded read-more"><i class="fa fa-chevron-circle-right" aria-hidden="true"></i> ler mais</a></p>
+      <p class="mt-2">{{ text | strip_html | strip_newlines | truncate: 200 }} <a href="{{ post.url }}" class="float-right btn btn-sm btn-outline-secondary mt-3"><i class="fa fa-chevron-circle-right" aria-hidden="true"></i> ler mais</a></p>
     {% endif %}
   </div>
 </div>

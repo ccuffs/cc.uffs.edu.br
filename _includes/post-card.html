@@ -4,6 +4,7 @@
     </a>
 
     <div class="card-body">
+        <p><a href="{{ post.url }}" class="btn btn-sm btn-outline-info">#{{ post.categories | join:',' }}</a></p>
         <h5 class="card-title" itemprop="name"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h5>
         <p class="card-text mb-3" itemprop="description">{{ post.excerpt | strip_html | truncate: 160 }}</p>
     </div>

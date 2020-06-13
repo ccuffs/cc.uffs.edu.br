@@ -57,14 +57,14 @@ collections: # Collections of content
 
 # Site owner
 owner:
-  name: Coordenação CC
+  name: Coordenação
   email: computacao.ch@uffs.edu.br
   twitter:
   google:
     ad-client:
     ad-slot:
   bio: Coordenação do Curso de Ciência da Computação
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  avatar: avatars/coordenacao.png
   disqus-shortname:
 
 include:
