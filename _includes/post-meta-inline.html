@@ -6,33 +6,28 @@
   {% assign date = post.date %}{% else %}{% assign date = page.date %}
 {% endif %}
 
-<div class="post-meta">
+<div class="post-meta inline">
     <li>
-        <div class="person">
+        <div class="person inline">
             <img src="{{ site.url }}/images/{{ author.avatar }}" alt="{{ author.name }}" class="img-responsive rounded-circle">
-            <p>
-                {% if author.web %}
-                    <a href="{{ author.web }}" itemprop="author">{{ author.name }}</a>
-                {% else %}
-                    <span itemprop="author">{{ author.name }}</span>
-                {% endif %}
-            </p>
-            <p class="bio">{{ author.bio }}</p>
+            {% if author.web %}
+                <a href="{{ author.web }}" itemprop="author">{{ author.name }}</a>
+            {% else %}
+                <span itemprop="author">{{ author.name }}</span>
+            {% endif %}
         </div>
     </li>
 
-    <li class="float-right ml-4"><span class="btn btn-sm btn-outline-info">{{ page.categories | join:',' }}</span></li>
-
-    {% if page.tags.size > 0 %}
-        <li class="float-right ml-4">
-            <i class="fa fa-tags"></i>
-            {{ page.tags | join: "," }}
-        </li>
-    {% endif %}
-
-    <li class="float-right ml-4">
+    <li class="date">
         <i class="fa fa-calendar"></i>
         <time datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%SZ" }}" itemprop="datePublished">{{ date | date: "%Y-%m-%d" }}</time>
         {% if post.modified %}({{ site.data.messages.locales[site.locale].updated }}: <time datetime="{{ post.modified | date: "%Y-%m-%dT%H:%M:%SZ" }}" itemprop="dateModified">{{ pagposte.modified | date: "%B %d, %Y" }}</time>){% endif %}
     </li>
+
+    {% if post.tags.size > 0 %}
+        <li>
+            <i class="fa fa-tag"></i>
+            {{ post.tags | join: "," }}
+        </li>
+    {% endif %}
 </div>

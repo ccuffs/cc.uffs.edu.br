@@ -38,8 +38,31 @@ body {
     color: var(--gray-light);
 }
 
+table {
+    margin-top: 1em;
+    color: var(--gray-light) !important;
+}
+
 hr:before {
     background: #8f8f8f;
+}
+
+/* Source: https://codepen.io/yourpalnurav/pen/LqNmzL */
+
+.post-content a {
+    color: var(--color-primary);
+    background: transparent;
+    text-decoration: none;
+    border-bottom: dotted 2px var(--color-primary);
+    padding-bottom: 0.15em;
+    box-sizing: border-box;
+    transition: 0.2s;
+}
+
+.post-content a:hover {
+    color: #222;
+    background: var(--color-primary);
+    transition: all 0.45s cubic-bezier(0.86, 0, 0.07, 1);
 }
 
 .dropdown-item {

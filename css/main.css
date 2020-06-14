@@ -233,200 +233,6 @@ hr.separator {
     padding-top: 1em;
 }
 
-/**
- * Misc
- */
-
-a.read-more {
-    margin: 0.5em;
-    padding: 0.2em 0.3em 0.2em 0.3em;
-    font-size: 0.8em;
-    font-weight: 200;
-    background: #f8f8f8;
-}
-
-a.read-more i {
-    color: #a1a1a1;
-    margin-right: 0.2em;
-}
-
-/**
- * Post
- */
-
-.post-content p {
-    text-align: justify;
-}
-
-.post-content h2, .post-content h3, .post-content h4 {
-    margin: 1.5em 0 0.5em 0;
-}
-
-.post-meta {
-    display: block;
-    color: #9a9a9a;
-    font-size: 1em;
-    font-weight: 300;
-}
-
-div.post-meta {
-    margin-top: 0.2em;
-    margin-bottom: 0.2em;
-}
-
-p.post-meta {
-    margin-top: 0.2em;
-    margin-bottom: 0.6em;
-}
-
-.post-meta li {
-    list-style: none;
-    display: inline;
-    margin-right: 1.5em;
-}
-
-.post-meta i {
-    color: #9a9a9a;
-    display: inline;
-    font-size: 0.8em;
-    margin-left: 0.3em;
-    margin-right: 0.6em;
-}
-
-/* Code */
-
-.post-content code, .post-content pre, .console {
-    font-family: Menlo, Monaco, "Courier New", monospace;
-}
-
-.post-content code {
-    padding: .25em .5em;
-    font-size: 85%;
-    color: #eee;
-    background-color: #474747;
-    border-radius: 1px;
-}
-
-.post-content pre {
-    display: block;
-    margin-top: 0;
-    margin-bottom: 1rem;
-    padding: 1rem;
-    font-size: .8rem;
-    line-height: 1.4;
-    white-space: pre;
-    white-space: pre-wrap;
-    word-break: break-all;
-    word-wrap: break-word;
-    color: #000;
-    background-color: #ececec;
-}
-
-.post-content pre code {
-    padding: 0;
-    font-size: 100%;
-    color: inherit;
-    background-color: transparent;
-}
-
-.post-content a {
-    color: #747474;
-    text-decoration: none;
-}
-
-.post-content a strong {
-    color: inherit;
-}
-
-/* `:focus` is linked to `:hover` for basic accessibility */
-
-.post-content a {
-    color: #000;
-    background: #f2f2f2;
-    text-decoration: none;
-    border-bottom: dotted 2px #000;
-}
-
-.post-content a strong {
-    color: inherit;
-}
-
-.post-content a:hover,
-.post-content a:focus {
-    text-decoration: none;
-    background: #d2d2d2;
-}
-
-.post-title a {
-    color: #000;
-    background: none;
-    text-decoration: none;
-    border-bottom: none;
-}
-
-/* Related posts */
-
-.related {
-    margin-top: 4em;
-}
-
-.related h2 {
-    padding-bottom: 0.3rem;
-}
-
-.related-posts {
-    padding-left: 0;
-    list-style: none;
-}
-
-.related-posts strong {
-    margin-top: 0;
-}
-
-.related-posts li {
-    margin-bottom: 2em;
-}
-
-.related-posts li small {
-    font-size: 75%;
-    color: #999;
-}
-
-.related-posts li a:hover {
-    color: #000000;
-    text-decoration: none;
-}
-
-.related-posts li a:hover small {
-    color: inherit;
-}
-
-.post-grid-mini {
-    margin-bottom: 10px;
-}
-
-.post-grid-mini div.image {
-    padding-top: 10px;
-}
-
-.post-grid-mini p {
-    line-height: 1.3em;
-    color: #4e545c;
-}
-
-.post-grid-mini p.meta {
-    font-size: 0.95em;
-}
-
-.post-grid-mini p.meta i {
-    margin-left: 1.2em;
-    margin-right: 0.3em;
-}
-
-.post-grid-mini p.meta i:first-child {
-    margin-left: 0;
-}
-
 #page-wrapper {
     height: 100%;
     width: 100%;
@@ -661,14 +467,20 @@ nav[aria-label="breadcrumb"] {
     text-decoration: none;
 }
 
-.person img {
-    float: left;
-    margin-right: 0.3em;
-    margin-top: 0.1em;
-}
+/**
+ * Person e author
+ */
 
 .person {
     font-weight: 400;
+}
+
+.person img {
+    float: left;
+    margin-right: 0.5em;
+    margin-top: 0.1em;
+    max-width: 60px;
+    max-height: 60px;
 }
 
 .person.inline img {
@@ -697,6 +509,203 @@ nav[aria-label="breadcrumb"] {
     margin-bottom: 24px;
     margin-bottom: 1.5rem;
 }
+
+/**
+ * Post
+ */
+
+ .post-content {
+    clear: both;
+    padding-top: 2em;
+}
+
+.post-content p {
+   text-align: justify;
+}
+
+.post-content h2, .post-content h3, .post-content h4 {
+   margin: 1.5em 0 1.0em 0;
+}
+
+.post-meta {
+   display: block;
+   color: #9a9a9a;
+   font-size: 1em;
+   font-weight: 300;
+   min-height: 24px;
+
+   margin-top: 0.2em;
+   margin-bottom: 0.2em;
+}
+
+.post-meta p {
+   margin-bottom: 0.1em;
+   font-weight: 500;
+}
+
+.post-meta p.bio {
+   font-size: 0.8em;
+   font-weight: 200;
+}
+
+.post-meta li {
+   list-style: none;
+   float:left;
+}
+
+.post-meta.inline li {
+    margin-right: 1.5em;
+}
+
+.post-meta li:last-child {
+}
+
+div.card-footer .post-meta li.date {
+    margin-right: 0;
+    float: right;
+}
+
+.post-meta i {
+   opacity: 0.5;
+   display: inline;
+   font-size: 0.8em;
+   margin-left: 0.2em;
+   margin-right: 0.2em;
+}
+
+/* Code */
+
+.post-content code, .post-content pre, .console {
+   font-family: Menlo, Monaco, "Courier New", monospace;
+}
+
+.post-content code {
+   padding: .25em .5em;
+   font-size: 85%;
+   color: #eee;
+   background-color: #474747;
+   border-radius: 1px;
+}
+
+.post-content pre {
+   display: block;
+   margin-top: 0;
+   margin-bottom: 1rem;
+   padding: 1rem;
+   font-size: .8rem;
+   line-height: 1.4;
+   white-space: pre;
+   white-space: pre-wrap;
+   word-break: break-all;
+   word-wrap: break-word;
+   color: #000;
+   background-color: #ececec;
+}
+
+.post-content pre code {
+   padding: 0;
+   font-size: 100%;
+   color: inherit;
+   background-color: transparent;
+}
+
+.post-content a {
+   color: #747474;
+   text-decoration: none;
+}
+
+.post-content a strong {
+   color: inherit;
+}
+
+/* `:focus` is linked to `:hover` for basic accessibility */
+
+.post-content a {
+   color: #000;
+   background: #f2f2f2;
+   text-decoration: none;
+   border-bottom: dotted 2px #000;
+}
+
+.post-content a strong {
+   color: inherit;
+}
+
+.post-content a:hover,
+.post-content a:focus {
+   text-decoration: none;
+   background: #d2d2d2;
+}
+
+.post-title a {
+   color: #000;
+   background: none;
+   text-decoration: none;
+   border-bottom: none;
+}
+
+/* Related posts */
+
+.related {
+   margin-top: 3em;
+}
+
+.related h2 {
+   padding-bottom: 0.3rem;
+}
+
+.related-posts {
+   padding-left: 0;
+   list-style: none;
+}
+
+.related-posts li {
+   margin-bottom: 1em;
+}
+
+.related-posts li small {
+   font-size: 75%;
+   color: #999;
+}
+
+.related-posts a {
+   margin-top: 0;
+}
+
+.related-posts li a:hover {
+   text-decoration: none;
+}
+
+.related-posts li a:hover small {
+   color: inherit;
+}
+
+.post-grid-mini {
+   margin-bottom: 10px;
+}
+
+.post-grid-mini div.image {
+   padding-top: 10px;
+}
+
+.post-grid-mini p {
+   line-height: 1.3em;
+   color: #4e545c;
+}
+
+.post-grid-mini p.meta {
+   font-size: 0.95em;
+}
+
+.post-grid-mini p.meta i {
+   margin-left: 1.2em;
+   margin-right: 0.3em;
+}
+
+.post-grid-mini p.meta i:first-child {
+   margin-left: 0;
+}
+
 
 .fdb-block {
     padding-top: 30px !important;

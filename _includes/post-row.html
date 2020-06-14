@@ -5,7 +5,7 @@
   <div class="col-9">
     <h4>{% if post.url %} <a href="{{ post.url }}">{{ post.title }}</a> {% else %} {{ post.title }} {% endif %}</h4>
     
-    {% include post-meta.html %}
+    {% include post-meta-inline.html %}
     
     {% if post.type contains "project-" %}
       <!-- Research or extension project -->
