@@ -4,10 +4,8 @@ title: "Inicial"
 permalink: /
 wide:
     size: big
-    image: lock-1600x800.jpg
-    image_url: https://via.placeholder.com/1600x250
-    video: snow.mp4
-    video_url: https://cdn.uffs.cc/cc.uffs.edu.br/videos/wide/cc-bw-15fps.mp4
+    image: cc-bw-15fps-complete.jpg
+    video_url: https://cdn.uffs.cc/cc.uffs.edu.br/videos/wide/cc-bw-15fps-complete.mp4
 ---
 
 <section>
@@ -38,25 +36,17 @@ wide:
                 <a class="nav-link active" id="noticias-tab" data-toggle="tab" href="#noticias" role="tab" aria-controls="noticias" aria-selected="true">Notícias</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" id="artigos-tab" data-toggle="tab" href="#artigos" role="tab" aria-controls="artigos" aria-selected="false">Artigos</a>
+                <a class="nav-link" id="postagens-tab" data-toggle="tab" href="#postagens" role="tab" aria-controls="postagens" aria-selected="false">Postagens</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" id="empregos-tab" data-toggle="tab" href="#empregos" role="tab" aria-controls="empregos" aria-selected="false">Empregos <!--<span class="badge badge-pill badge-primary">2</span>--></a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" id="estagios-tab" data-toggle="tab" href="#estagios" role="tab" aria-controls="estagios" aria-selected="false">Estágios</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" id="vagas-tab" data-toggle="tab" href="#vagas" role="tab" aria-controls="vagas" aria-selected="false">Vagas em projetos</a>
+                <a class="nav-link" id="vagas-tab" data-toggle="tab" href="#vagas" role="tab" aria-controls="vagas" aria-selected="false">Vagas <!--<span class="badge badge-pill badge-primary">2</span>--></a>
             </li>
         </ul>
       </div>
     </div>
-
     <div class="row">
       <div class="col-12 text-left">
         <div class="tab-content" id="sectionsTabContent">
-
             <!-- noticias -->
             <div class="tab-pane fade show active" id="noticias" role="tabpanel" aria-labelledby="noticias-tab">
                 {% for post in site.categories.noticias %}
@@ -64,34 +54,17 @@ wide:
                         {% include post-row.html %}
                     {% endif %}
                 {% endfor %}
-
                 <p class="text-center"><a href="/noticias" class="btn btn-sm btn-outline-secondary">Ver mais notícias</a></p>
             </div>
-            
-            <!-- artigos -->
-            <div class="tab-pane fade" id="artigos" role="tabpanel" aria-labelledby="artigos-tab">
-                {% for post in site.categories.artigos %}
+            <!-- postagens -->
+            <div class="tab-pane fade" id="postagens" role="tabpanel" aria-labelledby="postagens-tab">
+                {% for post in site.categories.postagens %}
                     {% include post-row.html %}
                 {% endfor %}
             </div>
-            
-            <!-- empregos -->
-            <div class="tab-pane fade" id="empregos" role="tabpanel" aria-labelledby="empregos-tab">
-                {% for post in site.categories.empregos %}
-                    {% include post-row.html %}
-                {% endfor %}
-            </div>
-            
-            <!-- estagios -->
-            <div class="tab-pane fade" id="estagios" role="tabpanel" aria-labelledby="estagios-tab">
-                {% for post in site.categories.estagios %}
-                    {% include post-row.html %}
-                {% endfor %}
-            </div>
-            
             <!-- vagas -->
             <div class="tab-pane fade" id="vagas" role="tabpanel" aria-labelledby="vagas-tab">
-                {% for post in site.categories.empregos %}
+                {% for post in site.categories.vagas %}
                     {% include post-row.html %}
                 {% endfor %}
             </div>
