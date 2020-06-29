@@ -21,14 +21,20 @@ layout: default
         {% endif %}
 
         {% if video_background_url %}
-            <video poster="" autoplay muted loop>
+            <video poster="" autoplay muted loop style="z-index: 0;">
                 <source src="{{ video_background_url }}" type="video/mp4">
             </video>
         {% endif %}            
-        
-        <div class="row text-center">
-            <div class="col-12 text-white" style="z-index: 10000;"><h1>{{ page.wide.title }}</h1><p class="lead">{{ page.wide.message }}</p></div>
-        </div>
+
+        {% if page.wide.file != nil %}
+            {% include {{ page.wide.file }} %}
+        {% endif %}
+
+        {% if page.wide.title != nil or page.wide.message != nil %}
+            <div class="row text-center">
+                <div class="col-12 text-white" style="z-index: 10000;"><h1>{{ page.wide.title }}</h1><p class="lead">{{ page.wide.message }}</p></div>
+            </div>
+        {% endif %}
     </section>
 {% endif %}
 
