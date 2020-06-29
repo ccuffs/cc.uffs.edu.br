@@ -36,6 +36,44 @@ img {
     -ms-interpolation-mode: bicubic;
 }
 
+.img-thumbnail-specific {
+    width: 120px;
+    height: 120px;
+    margin: 0 auto;
+}
+
+.img-thumbnail {
+    width: 100%;
+    max-height: 10rem;
+}
+
+.btn.vaga {
+    padding: .25rem .4rem;
+    font-size: .875rem;
+    line-height: 1.2;
+    border-radius: .2rem;
+}
+
+.btn.vaga.extensao {
+    border-color: #F0556B;
+    color: #F0556B;
+}
+
+.btn.vaga.pesquisa {
+    border-color: #71C9B8;
+    color: #71C9B8;
+}
+
+.btn.vaga.ensino {
+    border-color: #FCAE17;
+    color: #FCAE17;
+}
+
+.btn.vaga.emprego {
+    border-color: #C267FF;
+    color: #C267FF;
+}
+
 #map_canvas img, .google-maps img {
     max-width: none;
 }
@@ -847,6 +885,11 @@ footer div.social-links a:active {
 footer div.social-links i {
     font-size: 2em;
     padding-top: 0.5em;
+}
+
+footer div.text-tiny {
+    font-size: 0.8em;
+    opacity: 0.5;
 }
 
 /**

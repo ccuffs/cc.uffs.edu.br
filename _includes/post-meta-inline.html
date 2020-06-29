@@ -24,6 +24,14 @@
         {% if post.modified %}({{ site.data.messages.locales[site.locale].updated }}: <time datetime="{{ post.modified | date: "%Y-%m-%dT%H:%M:%SZ" }}" itemprop="dateModified">{{ pagposte.modified | date: "%B %d, %Y" }}</time>){% endif %}
     </li>
 
+    {% if post.type contains "position" %}
+        <li>
+            {% for name in post.categories offset:1 %}
+                <span class="btn btn-sm btn-outline-info vaga {{ name }} ml-3">{{ name }}</span>
+            {% endfor %}
+        </li>
+    {% endif %}      
+
     {% if post.tags.size > 0 %}
         <li>
             <i class="fa fa-tag"></i>

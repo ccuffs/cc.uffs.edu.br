@@ -1,26 +1,44 @@
 <div class="row">
-  <div class="col-3 align-self-center">
-      <a href="{{ post.url }}"><img alt="image" class="img-thumbnail" style="width: 100%; max-height: 10rem;" src="{% if post.image.teaser and post.image.teaser contains '://' %}{{ post.image.teaser }}{% elsif post.image.teaser %}{{ site.url }}/images/{{ post.image.teaser }}{% else %}{{ site.url }}/images/{{ site.teaser }}{% endif %}"></a>
+  <div class="col-{% if post.type contains "project-" or post.type contains "position" %}2{% else %}3{% endif %} align-self-center">
+      <a href="{{ post.url }}">
+          {% if post.type contains "project-" or post.type contains "position" %}
+            <img alt="image" class="img-thumbnail-specific" src="{% if post.image.teaser and post.image.teaser contains '://' %}{{ post.image.teaser }}{% elsif post.image.teaser %}{{ site.url }}/images/{{ post.image.teaser }}{% else %}{{ site.url }}/images/{{ site.teaser }}{% endif %}">
+          {% else %}
+            <img alt="image" class="img-thumbnail" style="width: 100%; max-height: 10rem;" src="{% if post.image.teaser and post.image.teaser contains '://' %}{{ post.image.teaser }}{% elsif post.image.teaser %}{{ site.url }}/images/{{ post.image.teaser }}{% else %}{{ site.url }}/images/{{ site.teaser }}{% endif %}">
+          {% endif %}
+      </a>
   </div>
-  <div class="col-9">
+  <div class="col-{% if post.type contains "project-" or post.type contains "position" %}10{% else %}9{% endif %}">
     <h4>{% if post.url %} <a href="{{ post.url }}">{{ post.title }}</a> {% else %} {{ post.title }} {% endif %}</h4>
     
     {% include post-meta-inline.html %}
     
-    {% if post.type contains "project-" %}
-      <!-- Research or extension project -->
-      {% if post.excerpt %}
-        {% assign text = post.excerpt %}
-      {% else %}
-        {% assign text = post.description %}
-      {% endif %}
-      <p>{{ text | strip_html | strip_newlines | truncate: 250 }} <!-- <a href="{{ post.url }}">[ler mais]</a>--></p> 
-      <p class="meta">
-        <i class="fa fa-user-circle-o"></i> {{ post.author }} 
-        <i class="fa fa-calendar"></i> {{ post.date_start }} {% if post.date_end %} a {{ post.date_end }} {% endif %} 
-        {% if post.funding %}<i class="fa fa-money"></i> {{ post.funding }}{% endif %} 
-        {% if post.tags %}<i class="fa fa-tags"></i> {{ post.tags | join: "," }}{% endif %} 
-      </p>
+    {% if post.type contains "project-" or post.type contains "position" %}
+        <!-- Vaga em algo -->
+        {% if post.excerpt %}
+            {% assign text = post.excerpt %}
+        {% else %}
+            {% assign text = post.description %}
+        {% endif %}
+
+        <p class="mt-3">{{ text | strip_html | strip_newlines | truncate: 250 }} <!-- <a href="{{ post.url }}">[ler mais]</a>--></p> 
+
+    {% elsif post.type contains "project-" or post.type contains "position" %}
+        <!-- Projeto ou vaga em algo -->
+        {% if post.excerpt %}
+            {% assign text = post.excerpt %}
+        {% else %}
+            {% assign text = post.description %}
+        {% endif %}
+
+        <p>{{ text | strip_html | strip_newlines | truncate: 250 }} <!-- <a href="{{ post.url }}">[ler mais]</a>--></p> 
+        
+        <p class="meta">
+            <i class="fa fa-user-circle-o"></i> {{ post.author }} 
+            <i class="fa fa-calendar"></i> {{ post.date_start }} {% if post.date_end %} a {{ post.date_end }} {% endif %} 
+            {% if post.funding %}<i class="fa fa-money"></i> {{ post.funding }}{% endif %} 
+            {% if post.tags %}<i class="fa fa-tags"></i> {{ post.tags | join: "," }}{% endif %} 
+        </p>
     {% else %}
       <!-- Qualquer item de noticia -->
       {% if post.excerpt %}
