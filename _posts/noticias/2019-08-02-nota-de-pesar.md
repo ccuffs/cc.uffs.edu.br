@@ -5,7 +5,8 @@ categories: noticias
 last_modified_at: 2019-04-11T08:06:00-05:00
 highlight: false
 highlight_order: 1
-share: false
+active: true
+permalink: /:categories/:title/
 image:
   teaser: posts/teaser-luto-400x250.jpg
   feature: /images/posts/teaser-luto-400x250.jpg

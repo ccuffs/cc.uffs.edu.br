@@ -3,9 +3,10 @@ title: "Pesquisa mede estresse e tédio de jogadores de jogos digitais"
 layout: post
 categories: noticias
 last_modified_at: 2019-04-11T08:06:00-05:00
-highlight: true
+highlight: false
 highlight_order: 2
-share: false
+active: true
+permalink: /:categories/:title/
 image:
   teaser: posts/pesquisa-stress-teaser-400x250.jpg
   feature: /images/posts/pesquisa-stress-teaser-400x250.jpg

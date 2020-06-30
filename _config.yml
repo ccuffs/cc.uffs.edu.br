@@ -13,7 +13,7 @@ feed:
 dark: false
 
 # Jekyll configuration
-permalink: /:categories/:title/
+permalink: pretty
 kramdown:
   toc_levels: 1..2
 highlighter: rouge

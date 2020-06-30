@@ -1,4 +1,4 @@
-<div class="card" style="width: 18rem;" itemscope itemtype="http://schema.org/Article">
+<div class="card post-card" itemscope itemtype="http://schema.org/Article">
     <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
         <img class="card-img-top" alt="{{ post.title }}" itemprop="image" src="{% if post.image.teaser and post.image.teaser contains '://' %}{{ post.image.teaser }}{% elsif post.image.teaser %}{{ site.url }}/images/{{ post.image.teaser }}{% else %}{{ site.url }}/images/{{ site.teaser }}{% endif %}" />
     </a>

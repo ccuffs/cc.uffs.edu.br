@@ -4,8 +4,9 @@ layout: post
 categories: noticias
 last_modified_at: 2019-11-05T15:30:00-05:00
 highlight: true
-highlight_order: 1
-share: false
+highlight_order: 2
+active: true
+permalink: /:categories/:title/
 image:
   teaser: posts/palestra-visao-computacional-sacc.jpg
   feature: /images/posts/palestra-visao-computacional-sacc.jpg

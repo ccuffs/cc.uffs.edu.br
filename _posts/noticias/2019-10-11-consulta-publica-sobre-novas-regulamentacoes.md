@@ -5,7 +5,8 @@ categories: noticias
 last_modified_at: 2019-10-11T22:07:00-05:00
 highlight: false
 highlight_order: 2
-share: false
+active: true
+permalink: /:categories/:title/
 image:
   teaser: posts/teaser-feedback-1600x800.jpg
   feature: /images/posts/teaser-feedback-1600x800.jpg

@@ -4,9 +4,9 @@ layout: post
 categories: postagens
 tags: [pensamentos]
 last_modified_at: 2020-06-27T20:10:00-03:00
-highlight: true
+highlight: false
 highlight_order: 1
-share: false
+active: true
 image:
   teaser: posts/compartilhe-experiencias-1600x800.png
   feature: /images/posts/compartilhe-experiencias-1600x800.png

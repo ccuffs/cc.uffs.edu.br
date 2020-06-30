@@ -5,7 +5,8 @@ categories: noticias
 last_modified_at: 2019-08-08T08:06:00-05:00
 highlight: false
 highlight_order: 1
-share: false
+active: true
+permalink: /:categories/:title/
 image:
   teaser: posts/teaser-aviso-400x250.png
   feature: /images/posts/teaser-aviso-400x250.png

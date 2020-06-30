@@ -3,9 +3,10 @@ title: "Monitorias disponíveis para 2019/2"
 layout: post
 categories: noticias
 last_modified_at: 2019-08-14T08:06:00-05:00
-highlight: true
+highlight: false
 highlight_order: 3
-share: false
+active: true
+permalink: /:categories/:title/
 image:
   teaser: posts/teaser-monitoria-400x250.png
   feature: /images/posts/teaser-monitoria-400x250.png

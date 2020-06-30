@@ -632,6 +632,15 @@ div.card-footer .post-meta li.date {
     float: right;
 }
 
+div.card.post-card {
+    width: 18rem;
+}
+
+div.card.post-card img.card-img-top {
+    height: 160px;
+    width: 100%;
+}
+
 .post-meta i {
    opacity: 0.5;
    display: inline;
