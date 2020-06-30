@@ -13,7 +13,7 @@
     
     {% include post-meta-inline.html %}
     
-    {% if post.type contains "project-" or post.type contains "position" %}
+    {% if post.type contains "position" %}
         <!-- Vaga em algo -->
         {% if post.excerpt %}
             {% assign text = post.excerpt %}
@@ -23,8 +23,8 @@
 
         <p class="mt-3">{{ text | strip_html | strip_newlines | truncate: 250 }} <!-- <a href="{{ post.url }}">[ler mais]</a>--></p> 
 
-    {% elsif post.type contains "project-" or post.type contains "position" %}
-        <!-- Projeto ou vaga em algo -->
+    {% elsif post.type contains "project-" %}
+        <!-- Projeto -->
         {% if post.excerpt %}
             {% assign text = post.excerpt %}
         {% else %}

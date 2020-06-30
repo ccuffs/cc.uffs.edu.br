@@ -27,7 +27,7 @@
     {% if post.type contains "position" %}
         <li>
             {% for name in post.categories offset:1 %}
-                <span class="btn btn-sm btn-outline-info vaga {{ name }} ml-3">{{ name }}</span>
+                <span class="btn btn-sm vaga {{ name }} ml-3">{{ name }}</span>
             {% endfor %}
         </li>
     {% endif %}      
