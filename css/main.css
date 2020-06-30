@@ -290,6 +290,7 @@ a.dropdown-toggle:hover {
 .navbar-nav li {
     margin-right: 1.5em;
     margin-top: 0.3em;
+    list-style-type: none;
 }
 
 /**
@@ -969,4 +970,29 @@ section.hero {
 
 div[role="main"] {
     margin: 3em 0 0 0;
+}
+
+/*
+ * Filtros
+ */
+
+.filter-black-to-primary {
+    filter: invert(78%) sepia(35%) saturate(404%) hue-rotate(118deg) brightness(88%) contrast(89%);
+}
+
+.filter-black-to-blue {
+    filter: invert(30%) sepia(54%) saturate(4044%) hue-rotate(201deg) brightness(104%) contrast(105%);
+}
+
+.filter-black-to-yellow {
+    filter: invert(81%) sepia(65%) saturate(3230%) hue-rotate(353deg) brightness(109%) contrast(103%);
+}
+
+/*
+ * Listas
+ */
+
+li {
+    list-style-type: disc;
+    margin-left: 1em;
 }
