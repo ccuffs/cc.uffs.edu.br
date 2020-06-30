@@ -258,6 +258,20 @@ hr.separator {
     pointer-events: none;
 }
 
+.dropdown-toggle::after {
+    color: var(--color-primary);
+}
+
+.dropdown-toggle:hover:after {
+    color: var(--color-primary);
+}
+
+a.dropdown-toggle:hover {
+    text-decoration: none;
+    color: var(--color-primary);
+    font-weight: 300;
+}
+
 .navbar-nav li {
     margin-right: 1.5em;
     margin-top: 0.3em;
