@@ -4,8 +4,7 @@ title: "Notícias"
 permalink: /noticias
 wide:
     size: small
-    image: lock-1600x800.jpg
-    video_url: https://cdn.uffs.cc/cc.uffs.edu.br/videos/wide/cc-bw-15fps.mp4
+    image: cc-bw-15fps-complete.jpg
 ---
 
 <section class="mt-5">

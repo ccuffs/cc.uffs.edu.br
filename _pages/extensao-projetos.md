@@ -20,7 +20,7 @@ permalink: /extensao/projetos/
 
 {% assign projects = site.data.projects | where: "type","project-extension" %}
 
-<section>
+<section class="mt-4 mb-4">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 text-left">

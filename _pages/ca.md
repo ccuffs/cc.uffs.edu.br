@@ -4,7 +4,7 @@ title: "Centro Acadêmico"
 permalink: /ca/
 ---
 
-<div class="row align-items-center pt-2 pt-lg-5">
+<div class="row align-items-center pt-2 pt-lg-5 mb-5">
     <div class="col-md-6">
     <h2>Centro Acadêmico</h2>
     <p class="lead">O Centro Acadêmico de Ciência da Computação (CACC) organiza atividades em prol dos estudantes do curso, e também os representa nas reuniões de colegiado. Se você tem alguma demanda estudantil (sugestão, crítica, elogio, etc), fale com um representante do CACC.</p>
@@ -20,7 +20,7 @@ permalink: /ca/
 
 ---
 
-<div class="row breath-top">
+<div class="row mt-5">
   <div class="col-1 text-right">
     <a href="https://www.instagram.com/cacomputacaouffs/" target="_blank"><i class="fa fa-instagram fa-3x"></i></a>
   </div>

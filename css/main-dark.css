@@ -76,3 +76,7 @@ hr:before {
 .nav-tabs .nav-link:hover {
     background-color: transparent;
 }
+
+.post-grid-mini p {
+    color: #b0b9c5;
+ }
