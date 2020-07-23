@@ -27,11 +27,11 @@
     {% if site.dark %}
     <link href="{{ site.url }}/css/bootstrap-vanilla.css" type="text/css" rel="stylesheet">
     <link href="{{ site.url }}/css/bootstrap-dark.css" type="text/css" rel="stylesheet">
-    <link href="{{ site.url }}/css/main.css" rel="stylesheet" >
-    <link href="{{ site.url }}/css/main-dark.css" rel="stylesheet" >
+    <link href="{{ site.url }}/css/main.css?{{ site.cache_tag}}" rel="stylesheet" >
+    <link href="{{ site.url }}/css/main-dark.css?{{ site.cache_tag}}" rel="stylesheet" >
     {% else %}
     <link href="{{ site.url }}/css/bootstrap.min.css" type="text/css" rel="stylesheet">
-    <link href="{{ site.url }}/css/main.css" rel="stylesheet" >
+    <link href="{{ site.url }}/css/main.css?{{ site.cache_tag}}" rel="stylesheet" >
     {% endif %}
 
     <!-- HTML5 Shiv and Media Query Support for IE -->
