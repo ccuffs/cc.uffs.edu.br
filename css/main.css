@@ -997,7 +997,10 @@ li {
     margin-left: 1em;
 }
 
-li.nav-item {
+div.post-meta li,
+li.nav-item,
+li.breadcrumb-item,
+ul.related-posts li {
     list-style-type: none;
     margin-left: 0;
 }
