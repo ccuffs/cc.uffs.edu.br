@@ -1,11 +1,12 @@
 ---
 title: "CC Bit Party"
-layout: article
+layout: post
 categories: noticias
 last_modified_at: 2019-08-23T08:33:00-05:00
-highlight: true
+highlight: false
 highlight_order: 3
-share: false
+active: true
+permalink: /:categories/:title/
 image:
   teaser: posts/teaser-cc-bit-party.png
   feature: /images/posts/feature-cc-bit-party.png

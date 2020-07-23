@@ -13,7 +13,7 @@
   twitter: as3gamegears
 
 - person:
-  name: Tiago Braga
+  name: Tiago de Braga
   email: tiago.braga@uffs.edu.br 
   position: tae
   avatar: /images/bio-photo.jpg
@@ -84,6 +84,7 @@
 
 - person:
   name: José Carlos Bins Filho
+  note: (in memorian)
   title: Dr
   email: jose.binsfilho@uffs.edu.br
   position: professor
@@ -92,7 +93,7 @@
 
 - person:
   name: Luciano Lores Caimi
-  title: Me
+  title: Dr
   email: lcaimi@uffs.edu.br
   position: professor
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4790813H0

@@ -9,8 +9,11 @@ url: https://cc.uffs.edu.br
 feed:
   path: atom.xml
 
+# Dark mode
+dark: true
+
 # Jekyll configuration
-permalink: /:categories/:title/
+permalink: pretty
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
@@ -54,14 +57,14 @@ collections: # Collections of content
 
 # Site owner
 owner:
-  name: Coordenação CC
+  name: Coordenação
   email: computacao.ch@uffs.edu.br
   twitter:
   google:
     ad-client:
     ad-slot:
   bio: Coordenação do Curso de Ciência da Computação
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  avatar: avatars/coordenacao.png
   disqus-shortname:
 
 include:

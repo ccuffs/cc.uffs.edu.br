@@ -4,14 +4,15 @@ title: "Ensino de empreendedorismo"
 permalink: /empreendedorismo/ensino/
 ---
 
-<div class="row align-items-center pt-2 pt-lg-5">
+<div class="row align-items-center pt-2 pt-lg-5 mb-5">
     <div class="col-md-6">
-    <h2>Ensino de empreendedorismo</h2>
-    <p class="lead">O empreendedorismo é peça fundamental para o desenvolvimento da sociedade. Em sala de aula, os alunos do curso tem contato com empreendedorismo de diversas formas.</p>
+        <h2>Ensino de empreendedorismo</h2>
+        <p class="lead">
+            O empreendedorismo é peça fundamental para o desenvolvimento da sociedade. Em sala de aula, os alunos do curso tem contato com empreendedorismo de diversas formas.
+        </p>
     </div>
-
     <div class="col-md-6">
-    <p><img alt="image" class="img-fluid" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//draws/mobile-marketing.svg"></p>
+        <p><img alt="image" class="img-fluid" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//draws/mobile-marketing.svg"></p>
     </div>
 </div>
 
@@ -28,6 +29,21 @@ permalink: /empreendedorismo/ensino/
     <p class="meta">
         <i class="fa fa-user-circle-o"></i> Raquel Aparecida Pegoraro
         <i class="fa fa-info-circle"></i> Componente curricular
+    </p>
+  </div>
+</div>
+
+
+<div class="row post-grid-mini">
+  <div class="col-2 image">
+      <img alt="image" class="img-thumbnail" src="{{ site.url }}/images/posts/teaser-github-heart-400x250.jpg">
+  </div>
+  <div class="col-10">
+    <h3>Hacktoberfest</h3>
+    <p>Incentivo à contribuição com os projetos open-source do curso durante o mês de outubro. Alunos podem colaborar com código, ideias e documentação. Contribuições rendem brindes.</p> 
+    <p class="meta">
+        <i class="fa fa-user-circle-o"></i> Coordenação do Curso
+        <i class="fa fa-info-circle"></i> Evento
     </p>
   </div>
 </div>

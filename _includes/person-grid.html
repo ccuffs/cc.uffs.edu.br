@@ -4,7 +4,7 @@
             <p><img alt="image" class="img-fluid rounded" src="{{ person.avatar }}"></p>
         </div>
         <div class="col-8">
-            <h3><strong>{{ person.name }}</strong></h3>
+            <h3>{{ person.name }} {% if person.note %}<small>{{person.note}}</small>{% endif %}</h3>
             <p class="lead">{{ person.position }}</p>
             <p>{{ person.bio_academic }}</p>
             <p class="mt-4"><a class="btn btn-info" href="{{person.lattes}}">Curriculo Lattes</a></p>

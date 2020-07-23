@@ -1,11 +1,12 @@
 ---
 title: "CC tem disciplina ministrada em inglês"
-layout: article
+layout: post
 categories: noticias
 last_modified_at: 2019-04-11T08:06:00-05:00
-highlight: true
+highlight: false
 highlight_order: 3
-share: false
+active: true
+permalink: /:categories/:title/
 image:
   teaser: posts/teaser-ingles-400x250.jpg
   feature: https://www.uffs.edu.br/campi/chapeco/noticias/imagens/aula-ministrada-em-ingles-e-um-desafio-para-os-estudantes-de-ciencia-da-computacao/@@images/fdcfb605-2364-45a0-a76c-f8bd38d47643.jpeg

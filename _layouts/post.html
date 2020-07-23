@@ -1,0 +1,54 @@
+---
+layout: simple
+---
+
+<div id="main" role="main">
+	<article class="wrap" itemscope itemtype="http://schema.org/Article">
+		{% if page.image.feature %}
+		<div class="page-feature">
+			<div class="page-image">
+				<img src="{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
+			</div>
+		</div>
+        {% endif %}
+        
+        {% include breadcrumbs.html %}
+        
+		<div class="post-title mt-5 mb-3">
+			<h1>{{ page.title }}</h1>
+        </div>
+        
+        {% include post-meta.html %}
+
+        <div id="content" class="post-content mt-5" itemprop="articleBody">
+            {{ content }}
+
+            <div class="post-footer">
+                {% if post.share == true %}{% include share-this.html %}{% endif %}
+            </div>
+        </div>
+    </article>
+    
+    <div class="related wrap">
+        <div class="card border-secondary">
+            <div class="card-header">
+                <i class="fa fa-list-alt"></i> Conteúdo relacionado
+            </div>
+            <div class="card-body">
+              <ul class="related-posts">
+                {% for post in site.related_posts limit:3 %}
+                  <li>
+                    <i class="fa fa-chevron-right"></i> <a href="{{ post.url }}">{{ post.title }}</a>
+                    <p class="post-meta">
+                      <i class="fa fa-calendar"></i> {{ post.date | date: "%Y-%m-%d" }}
+                      {% if post.tags.size > 0 %}<i class="fa fa-tags"></i> {{ post.tags | join: "," }} {% endif %}
+                    </p>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+        </div>
+    </div>
+</div>
+  

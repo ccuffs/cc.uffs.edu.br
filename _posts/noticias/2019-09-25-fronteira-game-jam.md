@@ -1,11 +1,12 @@
 ---
 title: "Fronteira Game Jam"
-layout: article
+layout: post
 categories: noticias
 last_modified_at: 2019-09-25T22:07:00-05:00
 highlight: false
 highlight_order: 1
-share: false
+active: true
+permalink: /:categories/:title/
 image:
   teaser: posts/fronteira-game-jam.jpg
   feature: /images/posts/fronteira-game-jam.jpg

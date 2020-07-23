@@ -13,8 +13,8 @@
   web: https://inside-project.github.io
   description: Os portadores de deficiência visual enfrentam inúmeros obstáculos em seu processo de inclusão na sociedade. A visão computacional pode ser usada para uma maior qualidade de vida aos portadores de deficiência visual, contribuindo com a acessibilidade dos locais onde eles frequentam, além de auxiliar na resolução de dificuldades encontradas em seu cotidiano. Este projeto propõe a utilização de visão computacional e reconhecimento de imagens para auxiliar a navegação de pessoas com deficiência visual em ambientes fechados utilizando metadados previamente coletados. A finalidade é criar um sistema-guia que possa auxiliar o deficiente visual a se locomover informando localizações de salas, escadas, elevadores, entre outros.
   image:
-    teaser: https://picsum.photos/400/250.jpg
-    feature: https://picsum.photos/1600/800.jpg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -27,8 +27,8 @@
   date_end: 2013
   description:  Em Computação Gráfica uma forma tridimensional é descrita, geralmente, através de uma malha de triângulos, a qual é comumente construída manualmente num processo conhecido por modelagem geométrica. O aspecto principal da modelagem geométrica consiste em definir a posição dos vértices que formam os triângulos da malha. Atualmente o dispositivo de interface Humano-Computador mais utilizado para esse fim é o mouse. Também é comum o uso de mesas de digitalização e mais recentemente as telas sensíveis ao toque. Porém, esses dispositivos operam num espaço definido em R2 (plano) com entradas convertidas para R3 (espaço virtual). Essa diferença entre o espaço de entrada de dados e o espaço virtual gera diversas facilidades e dificuldades para o usuário. Por outro lado, existe uma classe de dispositivos que operam com entradas em R3, tais como o Microsoft Kinect, Leap Motion e Sony Move. O objetivo desta pesquisa é desenvolver um novo paradigma de modelagem geométrica utilizando entradas de dados já em R3, dessa forma, maximizar o processo criativo envolvido na modelagem através de uma interface mais natural.
   image:
-    teaser: https://picsum.photos/400/250.jpg
-    feature: https://picsum.photos/1600/800.jpg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -41,8 +41,8 @@
   date_end: 2012
   description: Muitas das máquinas utilizadas no plantio e colheita são equipadas com dispositivos de posicionamento global (GPS). Com base nos dados de posicionamento coletados por esses equipamentos, pretende-se desenvolver um sistema capaz de apresentar tais informações de forma visual e direcionada ao agricultor de soja. O objetivo principal é fornecer um sistema capaz de otimizar as tarefas do agricultor que necessita de técnicas de agricultura de precisão. Tal sistema será desenvolvido para computadores móveis, como tablets (iPad) e smartphones (iPhone), pois esses sistemas podem ser levados ao campo com facilidade. Sistemas computacionais que visam auxiliar o agricultor com base em interfaces gráficas avançadas ainda são raros. Dada a pouca experiência dos agricultores com sistemas computacionais, o desenvolvimento de sistemas ricamente gráficos pode facilitar a penetração de tais ferramentas no campo e maximizar a produção.
   image:
-    teaser: https://picsum.photos/400/250.jpg
-    feature: https://picsum.photos/1600/800.jpg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-extension
@@ -55,8 +55,8 @@
   date_end: 2013
   description: Criação e desenvolvimento de materiais multimídia (jogos, objetos educacionais, etc) pelos alunos do curso de Ciência da Computação, utilizando como base textos e ilustrações produzidos por alunos do ensino fundamental de escolas públicas. Os materiais são produzidos como resultados de oficinas educativas executadas por alunos e professores do curso de Pedagogia.
   image:
-    teaser: https://picsum.photos/400/250.jpg
-    feature: https://picsum.photos/1600/800.jpg
+    teaser: posts/thumbnail-extensao-512x512.png
+    feature: /images/posts/extensao-1600x800.png
 
 - project:
   type: project-research
@@ -64,13 +64,13 @@
   author: Fernando Bevilacqua
   role: Coordenador e colaborador
   title: Appification of Medical Reports - Distribuição de Laudos e Imagens por meio de Apps
-  funding: 17/2012 RHAE (FAIXA A, Projetos Iniciais) e edital MCT/SETEC/CNPq nº 17/2012 (RHAE - Pesquisador na Empresa).
+  funding: Edital MCT/SETEC/CNPq nº 17/2012 (RHAE - Pesquisador na Empresa). # e 17/2012 RHAE (FAIXA A, Projetos Iniciais)
   date_start: 2013
   date_end: 2015
   description: Pesquisa aplicada ao desenvolvimento de soluções para disponibilizar laudos e imagens médicas em dispositivos móveis. O projeto tornou a ferramenta comercial Animati PACS acessível em tablets e celulares, possibilitando a equipes médicas a fazerem diagnósticos em trânsito, o que é útil em casos emergenciais, por exemplo. O projeto foi desenvolvido por uma equipe multidisciplinar envolvendo o Núcleo de Pesquisas em Imagens Médicas (NIMED) da PUC-RS, Laboratório de Computação Aplicada (LACA) da UFSM, e a Universidade Federal da Fronteira Sul (UFFS).
   image:
-    teaser: https://picsum.photos/400/250.jpg
-    feature: https://picsum.photos/1600/800.jpg    
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png    
 
 # Marco
 
@@ -82,8 +82,8 @@
   date_start: 2018
   date_end: 
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -93,8 +93,8 @@
   date_start: 2017
   date_end: 2018
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -104,8 +104,8 @@
   date_start: 2017
   date_end: 2018
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -115,8 +115,8 @@
   date_start: 2016
   date_end: 2017
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -126,8 +126,8 @@
   date_start: 2016
   date_end: 2017
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -137,8 +137,8 @@
   date_start: 2015
   date_end: 2018
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -148,8 +148,8 @@
   date_start: 2015
   date_end: 2016
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -159,8 +159,8 @@
   date_start: 2015
   date_end: 2016
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -170,8 +170,8 @@
   date_start: 2014
   date_end: 2018
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -181,8 +181,8 @@
   date_start: 2012
   date_end: 2014
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -192,8 +192,8 @@
   date_start: 2010
   date_end: 2012
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -203,8 +203,8 @@
   date_start: 2010
   date_end: 2012
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -214,8 +214,8 @@
   date_start: 2009
   date_end: 2012
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -225,8 +225,8 @@
   date_start: 2009
   date_end: 2011
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -236,8 +236,8 @@
   date_start: 2007
   date_end: 2013
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -247,8 +247,8 @@
   date_start: 2006
   date_end: 2011
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -258,8 +258,8 @@
   date_start: 2006
   date_end: 2008
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -269,8 +269,8 @@
   date_start: 2007
   date_end: 2009
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 # Braulio
 
@@ -283,8 +283,8 @@
   date_start: 2017
   date_end: 
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 # Pavan
 
@@ -298,8 +298,8 @@
   date_start: 2018
   date_end: 2019
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -311,8 +311,8 @@
   date_start: 2018
   date_end: 2022
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -324,8 +324,8 @@
   date_start: 2017
   date_end: 2020
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 
 - project:
@@ -338,8 +338,8 @@
   date_start: 2015
   date_end: 2017
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -351,8 +351,8 @@
   date_start: 2012
   date_end: 2016
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -364,8 +364,8 @@
   date_start: 2012
   date_end: 2013
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -376,8 +376,8 @@
   date_start: 2007
   date_end: 2008
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -388,8 +388,8 @@
   date_start: 2005
   date_end: 2008
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-extension
@@ -401,8 +401,8 @@
   date_start: 2017
   date_end: 
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-extensao-512x512.png
+    feature: /images/posts/extensao-1600x800.png
 
 # Bins
 
@@ -416,8 +416,8 @@
   date_start: 2016
   date_end: 2018
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -429,8 +429,8 @@
   date_start: 2017
   date_end: 2018
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 # Raquel
 
@@ -443,8 +443,8 @@
   date_start: 2018
   date_end: 
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -455,8 +455,8 @@
   date_start: 2018
   date_end: 
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -467,8 +467,8 @@
   date_start: 2018
   date_end: 2018
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
 
 - project:
   type: project-research
@@ -479,5 +479,5 @@
   date_start: 2018
   date_end: 2018
   image:
-    teaser: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
-    feature: https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs/draws/chat.svg
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png

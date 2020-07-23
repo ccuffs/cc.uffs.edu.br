@@ -10,7 +10,7 @@ permalink: /pesquisa/projetos/
       <div class="col-12 col-md-8 col-lg-7">
         <h2>Projetos de pesquisa</h2>
         <p class="lead">O curso de Ciência da Computação e seus integrantes estão constantemente envolvidos em projetos de pesquisa nas mais diversas áreas.</p>
-        <p class="mt-4"><a class="btn btn-primary" href="/pesquisa/grupos">Ver grupos de pesquisa</a></p>
+        <p class="mt-4"><a class="btn btn-info" href="/pesquisa/grupos">Ver grupos de pesquisa</a></p>
       </div>
 
       <div class="col-8 col-md-4 m-auto m-md-0 ml-md-auto pt-5">
@@ -22,7 +22,7 @@ permalink: /pesquisa/projetos/
 
 {% assign projects = site.data.projects | where: "type","project-research" %}
 
-<section>
+<section class="mt-4 mb-4">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 text-left">

@@ -1,11 +1,13 @@
 ---
 title: "Apresentações de TCC 2019.2"
-layout: article
+layout: post
 categories: noticias
 last_modified_at: 2019-12-02T17:27:00-03:00
 highlight: false
-highlight_order: 1
-share: false
+highlight_order: 3
+active: true
+permalink: /:categories/:title/
+tags: [tcc]
 image:
   teaser: posts/teaser-defesa-tcc-1600x800.png
   feature: /images/posts/teaser-defesa-tcc-1600x800.png
@@ -17,9 +19,10 @@ No segundo semestre de 2019, um total de 9 alunos defenderão o TCC I e 19 o TCC
 
 Confira abaixo a programação com os acadêmicos, orientadores(as) e sua respectiva banca.
 
+
 ## TCC 1 (sala 105B)
 
-||||||||
+{:.table}
 |--- |--- |--- |--- |--- |--- |--- |
 |#|Data|Hora|Acadêmico|Titulo|Orientador(a)|Banca|
 |1|03/dez|14:05|Natan Artini Ferrandin|Sistema Eletrônico Para Pequenas Eleições|Emilio Wuerges|Denio Duarte, Marco Aurélio Spohn|
@@ -35,7 +38,7 @@ Confira abaixo a programação com os acadêmicos, orientadores(as) e sua respec
 
 ## TCC 2  (sala 106B)
 
-||||||||
+{:.table}
 |--- |--- |--- |--- |--- |--- |--- |
 |#|Data|Hora|Acadêmico|Titulo|Orientador(a)|Banca|
 |1|02/dez|18:00|Rodrigo Miguel Tomazi|Análise do impacto da reprogramação do microcontrolador ATmega328P na previsibilidade do FreeRTOS no Arduino Uno|Marco Aurélio Spohn|Emilio Wuerges, Adriano Sanick Padilha|
