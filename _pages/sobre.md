@@ -1,8 +1,10 @@
 ---
-layout: hero
+layout: simple
 title: "Sobre o curso"
-image:
-  feature: wood-texture-1600x800.jpg
+wide:
+    size: small
+    image: cc-bw-15fps-complete.jpg
+    video_url: https://cdn.uffs.cc/cc.uffs.edu.br/videos/wide/cc-bw-15fps-complete.mp4
 permalink: /sobre/
 ---
 

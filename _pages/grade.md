@@ -4,7 +4,6 @@ title: "Grade curricular"
 permalink: /grade/
 ---
 
-
 <div class="container">
     <div class="row align-items-center pt-2 pt-lg-5 mb-5">
         <div class="col-md-10">
@@ -12,9 +11,8 @@ permalink: /grade/
             <p class="lead">Duração mínima de 8 semestres.</p>
             <p class="mt-4"><a class="btn btn-info" href="https://www.uffs.edu.br/campi/chapeco/cursos/graduacao/ciencia-da-computacao/documentos">Ver projeto pedagógico</a></p>
         </div>
-
         <div class="col-md-2">
-            <p><img alt="image" class="img-fluid" src="../../images/illustrations/matutino.svg"></p>
+            <p><img alt="Sol" class="object-scale-down h-auto w-40 filter-black-to-yellow mx-auto d-block" src="{{ site.url }}/images/icons/sun.svg"></p>
         </div>
     </div>
 </div>
@@ -75,9 +73,8 @@ permalink: /grade/
             <p class="lead">Duração mínima de 10 semestres.</p>
             <p class="mt-4"><a class="btn btn-info" href="https://www.uffs.edu.br/campi/chapeco/cursos/graduacao/ciencia-da-computacao/documentos">Ver projeto pedagógico</a></p>
         </div>
-
         <div class="col-md-2">
-            <p><img alt="image" class="img-fluid" src="../../images/illustrations/noturno.svg"></p>
+            <p><img alt="Lua" class="object-scale-down h-auto w-40 filter-black-to-blue mx-auto d-block" src="{{ site.url }}/images/icons/moon.svg"></p>
         </div>
     </div>
 </div>
