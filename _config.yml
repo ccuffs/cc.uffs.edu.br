@@ -8,6 +8,7 @@ locale: en
 url: https://cc.uffs.edu.br
 feed:
   path: atom.xml
+cache_tag: 20200723
 
 # Dark mode
 dark: true
