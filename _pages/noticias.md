@@ -1,7 +1,7 @@
 ---
 layout: simple
 title: "Notícias"
-permalink: /noticias
+permalink: /noticias/
 wide:
     size: small
     image: cc-bw-15fps-complete.jpg

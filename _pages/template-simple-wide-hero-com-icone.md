@@ -2,7 +2,7 @@
 layout: simple
 title: "layout:simple + wide + hero com ícone"
 wide:
-    size: big
+    size: big # small, mid, big, huge
     image: lock-1600x800.jpg
     image_url: https://via.placeholder.com/1600x250
     video: snow.mp4
