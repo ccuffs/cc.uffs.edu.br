@@ -10,7 +10,7 @@ feed:
   path: atom.xml
 
 # Dark mode
-dark: false
+dark: true
 
 # Jekyll configuration
 permalink: pretty
