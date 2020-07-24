@@ -595,6 +595,16 @@ nav[aria-label="breadcrumb"] {
    margin: 1.5em 0 1.0em 0;
 }
 
+.post-content iframe {
+    margin-top: 1em;
+    margin-top: 1em;
+}
+
+.post-content iframe.full-with {
+    width: 100%;
+    height: auto;
+}
+
 .post-meta {
    display: block;
    color: #9a9a9a;
