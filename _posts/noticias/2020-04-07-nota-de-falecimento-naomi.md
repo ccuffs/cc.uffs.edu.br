@@ -3,7 +3,7 @@ title: "Nota de falecimento"
 layout: post
 categories: noticias
 last_modified_at: 2020-04-07T20:10:00-03:00
-highlight: true
+highlight: false
 highlight_order: 3
 active: true
 permalink: /:categories/:title/
