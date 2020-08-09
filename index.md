@@ -61,12 +61,14 @@ wide:
                 {% for post in site.categories.postagens %}
                     {% include post-row.html %}
                 {% endfor %}
+                <p class="text-center"><a href="/postagens" class="btn btn-sm btn-outline-secondary">Ver mais postagens</a></p>
             </div>
             <!-- vagas -->
             <div class="tab-pane fade" id="vagas" role="tabpanel" aria-labelledby="vagas-tab">
                 {% for post in site.categories.vagas %}
                     {% include post-row.html %}
                 {% endfor %}
+                <p class="text-center"><a href="/vagas" class="btn btn-sm btn-outline-secondary">Ver mais vagas</a></p>
             </div>
         </div>
       </div>
