@@ -15,7 +15,7 @@ Todas as disciplinas do curso de Ciência da Computação terão suas aulas reto
 
 Além disso, as aulas serão uma mescla de atividades síncronas (você precisa estar na reunião online no horário da aula) e assíncronas (você faz atividades a hora que quiser, e elas contam como aula). As atividades síncronas acontecerão nos horários já anunciados em [https://cc.uffs.edu.br/horario](https://cc.uffs.edu.br/horario). Não haverá alteração no horário das disciplinas.
 
-Precisamos deixar claro que nossa preocupação máxima é com o bem-estar e aprendizado de nossa comunidade. Por isso escolhemos ter aulas 100% online. Segundo, temos um comprometimento em não deixar ninguém para trás. Temos articulada ajuda do Setor de Acessibilidade para auxiliar com as aulas. Além disso, a UFFS disponibilizará um [edital para auxílio à Internet e empréstimo de notebooks](https://www.uffs.edu.br/atos-normativos/edital/gr/2020-0479). Isso não está sob o controle da Coordenação do curso, logo não temos como ajudar em relação a isso, apenas orientar. Pedimos que cada aluno(a), se julgar necessário, faça a solicitação de auxílio internet/computador no edital publicado pela UFFS para esse assunto. Sabemos que há uma previsão para tal assistência para meados do início de Outubro, porém o edital pode ser publicado antes disso.
+Precisamos deixar claro que nossa preocupação máxima é com o bem-estar e aprendizado de nossa comunidade. Por isso escolhemos ter aulas 100% online. Segundo, temos um comprometimento em não deixar ninguém para trás. Temos articulada ajuda do Setor de Acessibilidade para auxiliar com as aulas. Além disso, a UFFS disponibilizará um [edital para auxílio à Internet e empréstimo de notebooks](https://www.uffs.edu.br/atos-normativos/edital/gr/2020-0479). Isso não está sob o controle da Coordenação do curso, logo não temos como ajudar em relação a isso, apenas orientar. Pedimos que cada aluno(a), se julgar necessário, faça a solicitação de auxílio internet/computador no edital publicado pela UFFS para esse assunto. Sabemos que há uma previsão para tal assistência para meados do início de Outubro, porém o edital [foi publicado antes disso](https://www.uffs.edu.br/atos-normativos/edital/gr/2020-0479).
 
 Haverá um período de ajuste onde você poderá sair das disciplinas [0] que está matriculado(a) atualmente e/ou entrar em novas disciplinas. Inclusive em outros horários que julgar conveniente. 
 
@@ -59,7 +59,7 @@ Em princípio, essas são as datas importantes:
 
 Entendemos perfeitamente que o contexto é difícil e único para todos. Se você está em dificuldade, fique firme e não desista do curso. Estamos aqui para ajudar no que for preciso.
 
-Se você não consegue mais acompanhar as disciplinas nos horários atuais, verifique disciplinas do curso em outros turnos (noturno, vespertino). Mesmo que você se matricule em poucas disciplinas, isso ajudará a manter um rotina com o curso. Verifique no site do curso, na página sobre a grade curricular, quais disciplinas são disciplinas que são pré-requisitos para outras futuras. Tente priorizar essas, se possível.
+Se você não consegue mais acompanhar as disciplinas nos horários atuais, verifique disciplinas do curso em outros turnos (noturno, vespertino). Mesmo que você se matricule em poucas disciplinas, isso ajudará a manter uma rotina com o curso. Verifique no [site do curso](https://cc.uffs.edu.br), na [página sobre a grade curricular](https://cc.uffs.edu.br/grade/), quais disciplinas são pré-requisitos para outras disciplinas futuras. Tente priorizar essas, se possível.
 
 ### Posso perder minha matrícula por alguma razão relacionada a faltas, notas, etc, ou ser jubilado, etc?
 
@@ -91,7 +91,7 @@ E-mail do Setor de Assuntos Estudantis do Campus Chapecó: [sae.ch@uffs.edu.br](
 
 ### Porque o curso está retomando aulas só agora? Porque não fez isso antes?
 
-Conforme [explicados anteriormente](https://cc.uffs.edu.br/noticias/atualizacao-sobre-a-situacao-atual-covid-19), seguimos todas as normas da UFFS para oferecer aulas. Agora, houve uma decisão do órgão máximo, o Consuni, referente à retomada sem as restrições de antes (como aceitação de 100% dos alunos para as disciplinas).
+Conforme [explicado anteriormente](https://cc.uffs.edu.br/noticias/atualizacao-sobre-a-situacao-atual-covid-19), seguimos todas as normas da UFFS para oferecer aulas. Agora, houve uma decisão do órgão máximo, o Consuni, referente à retomada sem as restrições de antes (como aceitação de 100% dos alunos para as disciplinas).
 
 O curso de Ciência da Computação está ativo nos trabalhos para ajudar a retomada de todos os outros cursos, inclusive através de [programas](https://practice.uffs.cc) para viabilizar gravação de materiais educacionais com a máxima qualidade que nossos alunos merecem.
 
