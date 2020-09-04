@@ -3,7 +3,7 @@ title: "Ferramentas de Visão Computacional pelos Governos"
 layout: post
 categories: noticias
 last_modified_at: 2019-11-05T15:30:00-05:00
-highlight: true
+highlight: false
 highlight_order: 3
 active: true
 permalink: /:categories/:title/

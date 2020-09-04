@@ -3,7 +3,7 @@ title: "Programa PRACTICE"
 layout: post
 categories: noticias
 highlight: true
-highlight_order: 1
+highlight_order: 2
 active: true
 permalink: /:categories/:title/
 image:
