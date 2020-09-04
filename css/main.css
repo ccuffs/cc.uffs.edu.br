@@ -643,12 +643,27 @@ nav[aria-label="breadcrumb"] {
    float:left;
 }
 
+.post-meta.inline {
+    padding-top: 0;
+    padding-bottom: 25px;
+}
+
 .post-meta.inline li {
     margin-right: 1.5em;
 }
 
-.post-meta li:last-child {
+.post-meta.inline li.date {
+    clear: right;
 }
+
+.post-meta.inline li:first-child {
+    margin-left: -1.2em;
+}
+
+div.post-row div.post-row-content p {
+    clear: left;
+}
+
 
 div.card-footer .post-meta li.date {
     margin-right: 0;

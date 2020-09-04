@@ -1,5 +1,5 @@
-<div class="row">
-  <div class="col-{% if post.type contains "project-" or post.type contains "position" %}2{% else %}3{% endif %} align-self-center">
+<div class="row post-row">
+  <div class="col-{% if post.type contains "project-" or post.type contains "position" %}2{% else %}3{% endif %} align-self-center post-row-thumb">
       <a href="{{ post.url }}">
           {% if post.type contains "project-" or post.type contains "position" %}
             <img alt="image" class="img-thumbnail-specific" src="{% if post.image.teaser and post.image.teaser contains '://' %}{{ post.image.teaser }}{% elsif post.image.teaser %}{{ site.url }}/images/{{ post.image.teaser }}{% else %}{{ site.url }}/images/{{ site.teaser }}{% endif %}">
@@ -8,7 +8,7 @@
           {% endif %}
       </a>
   </div>
-  <div class="col-{% if post.type contains "project-" or post.type contains "position" %}10{% else %}9{% endif %}">
+  <div class="col-{% if post.type contains "project-" or post.type contains "position" %}10{% else %}9{% endif %} post-row-content">
     <h4>{% if post.url %} <a href="{{ post.url }}">{{ post.title }}</a> {% else %} {{ post.title }} {% endif %}</h4>
     
     {% include post-meta-inline.html %}
