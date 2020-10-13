@@ -13,13 +13,13 @@ image:
 
 É hora do HacktoberFest! Contribua com os projetos de código aberto do curso no [Github](https://github.com) durante o mês de outubro e ganhe prêmios por isso! Convide seus amigos e colegas para contribuir compartilhando o link [https://uffs.cc/hf](uffs.cc/hf).
 
-Se você é novo com git, não problema! O hacktoberfest é uma excelente oportuniade para aprender sobre algo novo e ganhar prêmios por isso. Para começar, dê uma olhada nesse [tutorial rápido](docs/tutorial-git-basico.md) ou nesse [guia básico](https://github.com/mateusKoppe/git-guia-basico).
+Se você é novo com git, não há problema! O hacktoberfest é uma excelente oportuniade para aprender sobre algo novo e ganhar prêmios por isso. Para começar, dê uma olhada nesse [tutorial rápido](docs/tutorial-git-basico.md) ou nesse [guia básico](https://github.com/mateusKoppe/git-guia-basico).
 
 ## Premiação
 
-Cada contribuição que você fizer durante o mês de outubro rederá um prêmio. Esse ano, temos mais premiações! Você pode ganhar adesivos dev geek, quer ficam lindos no seu notebook, ou até uma camiseta única do evento.
+Cada contribuição que você fizer durante o mês de outubro rederá um prêmio. Esse ano, temos mais premiações! Você pode ganhar adesivos dev geek, que ficam lindos no seu notebook, ou até uma camiseta única do evento.
 
-Você ganha esses prêmios por cada novo _issue_ ou _pull request_ emitido em seu nome para qualquer um dos repositórios do curso listados em [https://github.com/ccuffs](github.com/ccuffs). Para  garantir  que  todos  tenham  chance  de  ganhar  algo,  os  prêmios  serão  dados da seguinte forma: 
+Você ganha esses prêmios por cada nova _issue_ ou _pull request_ emitidos em seu nome para qualquer um dos repositórios do curso listados em [https://github.com/ccuffs](github.com/ccuffs). Para  garantir  que  todos  tenham  chance  de  ganhar  algo,  os  prêmios  serão  dados da seguinte forma: 
 
 {:.table}
 | AÇÃO  | PREMIAÇÃO * |
@@ -56,4 +56,4 @@ Não tem ideia ou criatividade sobre o que fazer? Nós te damos algumas dicas:
 
 ## Divulgue
 
-Convide seus amigos para participar do hacktoberfest! Aprender sobre git (e github), open-source e contribuição nessa comuinidade é importante para nossa área. Espalhe o link [https://uffs.cc/hf](uffs.cc/hf), ganhe prêmios e ainda ajude o curso.
+Convide seus amigos para participar do hacktoberfest! Aprender sobre git (e github), open-source e contribuição é importante para nossa área. Espalhe o link [https://uffs.cc/hf](uffs.cc/hf), ganhe prêmios e ainda ajude o curso.
