@@ -25,7 +25,7 @@ permalink: /pessoas/
         </div>
     </div>
     <div class="row text-left">
-      {% assign professors = site.data.people | where:"position","professor" | sort:"name" %}
+      {% assign professors = site.data.people | where:"position","Docente" | sort:"name" %}
       {% for person in professors %}
         {% include person-grid.html %}
       {% endfor %}
@@ -38,7 +38,7 @@ permalink: /pessoas/
         </div>
     </div>
     <div class="row">
-      {% assign professors = site.data.people | where:"position","tae" | sort:"name" %}
+      {% assign professors = site.data.people | where:"position","Tecnico" | sort:"name" %}
       {% for person in professors  %}
         {% include person-grid.html %}
       {% endfor %}
