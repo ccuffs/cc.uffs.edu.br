@@ -71,4 +71,4 @@ Além disso, no [canal do Youtube do curso](http://uffs.cc/youtube), você tem a
 
 ## Agora é com você!
 
-Use sem medo todos os materiais visuais do curso. Além de termos um side em _dark mode_, agora também temos slides assim ❤. Nosso [repositório de identidade visual](https://github.com/ccuffs/identidade-visual) será atualizado conforme novos materiais sejam criados. Fique ligado!
+Use sem medo todos os materiais visuais do curso. Além de termos um site com estética em _dark mode_, agora também temos slides assim ❤. Nosso [repositório de identidade visual](https://github.com/ccuffs/identidade-visual) será atualizado conforme novos materiais forem criados e adicionados. Fique ligado!
