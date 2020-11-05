@@ -1,7 +1,7 @@
 <div class="col-sm-6" style="float: left;">
     <div class="row">
         <div class="col-4">
-            <p><img alt="image" class="img-fluid rounded" src="{{ person.avatar }}"></p>
+            <p><img alt="image" class="img-fluid rounded" src="{{ site.url }}/images/{{ person.avatar }}"></p>
         </div>
         <div class="col-8">
             <h3>{{ person.name }} {% if person.note %}<small>{{person.note}}</small>{% endif %}</h3>
