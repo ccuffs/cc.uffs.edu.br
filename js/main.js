@@ -16,3 +16,8 @@ $('body').on('mouseenter', '.dropdown', function (e) {
         $(this).removeClass('show')
     });
 });
+
+tippy('.tippy', {
+    content: 'My tooltip!',
+    theme: 'light-border',
+});
