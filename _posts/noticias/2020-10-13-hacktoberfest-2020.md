@@ -3,7 +3,7 @@ title: "Hacktoberfest 2020"
 layout: post
 categories: noticias
 last_modified_at: 2020-10-13T11:52:00-03:00
-highlight: true
+highlight: false
 highlight_order: 1
 active: true
 image:
