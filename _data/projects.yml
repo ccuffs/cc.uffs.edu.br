@@ -5,6 +5,7 @@
   type: project-research
   active: false
   author: Fernando Bevilacqua
+  author_id: fernando.bevilacqua
   role: Coordenador
   title: Utilização de visão computacional e detecção de características para auxiliar na navegação de pessoas com deficiência visual em ambientes internos
   funding: Universal FAPESC Nº 01/2014
@@ -20,6 +21,7 @@
   type: project-research
   active: false
   author: Fernando Bevilacqua
+  author_id: fernando.bevilacqua
   role: Colaborador
   title: Modelagem geométrica restrita guiada por interação 3D
   funding: UFFS
@@ -34,6 +36,7 @@
   type: project-research
   active: false
   author: Fernando Bevilacqua
+  author_id: fernando.bevilacqua
   role: Colaborador
   title: Visualização de dados geoespaciais voltados a agricultura de precisão utilizando computação móvel e computação gráfica
   funding: UFFS
@@ -48,6 +51,7 @@
   type: project-extension
   active: false
   author: Fernando Bevilacqua
+  author_id: fernando.bevilacqua
   role: Coordenador
   title: Educação Ambiental e produção de material multimídia com caráter pedagógico e educativo
   funding: 01/PROEC/UFFS/2010, 09/PROEC/UFFS/2011 e 284/UFFS/2012.
@@ -62,6 +66,7 @@
   type: project-research
   active: false
   author: Fernando Bevilacqua
+  author_id: fernando.bevilacqua
   role: Coordenador e colaborador
   title: Appification of Medical Reports - Distribuição de Laudos e Imagens por meio de Apps
   funding: Edital MCT/SETEC/CNPq nº 17/2012 (RHAE - Pesquisador na Empresa). # e 17/2012 RHAE (FAIXA A, Projetos Iniciais)
@@ -78,6 +83,7 @@
   type: project-research
   active: true
   author: Marco Aurelio Spohn
+  author_id: marco.spohn
   title: Avaliação do sistema operacional FreeRTOs na plataforma Arduino Due
   date_start: 2018
   date_end: 
@@ -89,6 +95,7 @@
   type: project-research
   active: false
   author: Marco Aurelio Spohn
+  author_id: marco.spohn
   title: Viabilidade e parametrização de uma meta-plataforma de código livre para Internet das Coisas
   date_start: 2017
   date_end: 2018
@@ -100,6 +107,7 @@
   type: project-research
   active: false
   author: Marco Aurelio Spohn
+  author_id: marco.spohn
   title: Avaliação de desempenho de um sistema operacional de tempo real na plataforma Arduino Uno
   date_start: 2017
   date_end: 2018
@@ -111,6 +119,7 @@
   type: project-research
   active: false
   author: Marco Aurelio Spohn
+  author_id: marco.spohn
   title: Explorando a funcionalidade Software Guard Extension via emulação
   date_start: 2016
   date_end: 2017
@@ -122,6 +131,7 @@
   type: project-research
   active: false
   author: Marco Aurelio Spohn
+  author_id: marco.spohn
   title: Avaliação de mecanismos de comunicação entre processos em sistemas operacionais de tempo real
   date_start: 2016
   date_end: 2017
@@ -133,6 +143,7 @@
   type: project-research
   active: false
   author: Marco Aurelio Spohn
+  author_id: marco.spohn
   title: Validação e aplicação de métricas de mobilidade em redes móveis sem fio (CNPq, PQ)
   date_start: 2015
   date_end: 2018
@@ -144,6 +155,7 @@
   type: project-research
   active: false
   author: Marco Aurelio Spohn
+  author_id: marco.spohn
   title: Análise de escalonadores de processos em tempo real em uma plataforma aberta
   date_start: 2015
   date_end: 2016
@@ -155,6 +167,7 @@
   type: project-research
   active: false
   author: Marco Aurelio Spohn
+  author_id: marco.spohn
   title: Análise do perfil de mobilidade dos usuários das redes locais sem fio no Campus Chapecó
   date_start: 2015
   date_end: 2016
@@ -166,6 +179,7 @@
   type: project-research
   active: false
   author: Marco Aurelio Spohn
+  author_id: marco.spohn
   title: Definição e desenvolvimento de um framework de avaliação e análise de modelos de mobilidade em redes móveis sem fio guiada por métricas de mobilidade (CNPq, Universal)
   date_start: 2014
   date_end: 2018
@@ -177,6 +191,7 @@
   type: project-research
   active: false
   author: Marco Aurelio Spohn
+  author_id: marco.spohn
   title: Investigando as Especificidades e Impacto da Mobilidade em Redes ad hoc Sem Fio (CNPq, PQ)
   date_start: 2012
   date_end: 2014
@@ -188,6 +203,7 @@
   type: project-research
   active: false
   author: Marco Aurelio Spohn
+  author_id: marco.spohn
   title: Análise Comparativa de Redes Locais Sem Fio IEEE 802.11 em 2.4 GHz e 900 MHz
   date_start: 2010
   date_end: 2012
@@ -199,6 +215,7 @@
   type: project-research
   active: false
   author: Marco Aurelio Spohn
+  author_id: marco.spohn
   title: Análise de Simuladores de Redes de Sensores Sem Fio no Quesito Modelo de Energia e Bateria
   date_start: 2010
   date_end: 2012
@@ -210,6 +227,7 @@
   type: project-research
   active: false
   author: Marco Aurelio Spohn
+  author_id: marco.spohn
   title: Explorando sinergias entre redes móveis sem fio, redes entre-pares e grades computacionais (CNPq, PQ)
   date_start: 2009
   date_end: 2012
@@ -221,6 +239,7 @@
   type: project-research
   active: false
   author: Marco Aurelio Spohn
+  author_id: marco.spohn
   title: Análise de Protocolos de Roteamento em Redes Móveis Sem Fio Baseada em um Modelo Realístico de Bateria
   date_start: 2009
   date_end: 2011
@@ -232,6 +251,7 @@
   type: project-research
   active: false
   author: Marco Aurelio Spohn
+  author_id: marco.spohn
   title: Distribuição de Conteúdo Entre-Pares em Redes Ad Hoc Sem Fio
   date_start: 2007
   date_end: 2013
@@ -243,6 +263,7 @@
   type: project-research
   active: false
   author: Marco Aurelio Spohn
+  author_id: marco.spohn
   title: Controle de Topologia em Redes de Sensores Sem Fio
   date_start: 2006
   date_end: 2011
@@ -254,6 +275,7 @@
   type: project-research
   active: false
   author: Marco Aurelio Spohn
+  author_id: marco.spohn
   title: AutoMan - Gerência Automática no OurGrid
   date_start: 2006
   date_end: 2008
@@ -265,6 +287,7 @@
   type: project-research
   active: false
   author: Marco Aurelio Spohn
+  author_id: marco.spohn
   title: Gerenciamento Dinâmico de Energia em Redes de Sensores Sem Fio (CNPq, Universal)
   date_start: 2007
   date_end: 2009
@@ -278,6 +301,7 @@
   type: project-research
   active: true
   author: Braulio Adriano de Mello
+  author_id: braulio
   title: Coordenação entre técnicas de simulação para interoperabilidade de componentes em modelos heterogêneos
   description: Em comparação com modelos tradicionais, a construção e execução de modelos de simulação que combinam características variadas em termos de controle do tempo, dados, método e tecnologia de construção, ditos heterogêneos, é tarefa de elevada complexidade. Na representação desse tipo de sistemas, as arquiteturas e ambientes de simulação precisam incorporar estratégias que permitam garantir correção e validação dos modelos cujas partes não são compatíveis. Esforços para gerar contribuições em simulação geralmente atuam dentro de uma abrangência delimitada de metas e, por esse motivo, avançam pouco nas soluções que contribuam com a coordenação entre técnicas de simulação para controle de modelos heterogêneos. Embora estudos têm apresentado avanços nesse escopo, tais avanços também são voltados para contextos específicos e delimitados resultando em certo grau de fragmentação entre as contribuições. Esta proposta de estudos tem como objetivo gerar soluções que, a partir das técnicas atuais de simulação, agregam habilidades para gerenciar a cooperação entre funcionalidades distintas. Por exemplo, no escopo da sincronização híbrida, coordenar funções de controle do intervalo de lookahead com funções de identificação de estados seguros para prevenir violação de tempo nos componentes conservadores. A arquitetura alvo desta proposta é o Distributed Cosimulation Backbone (DCB). Esta arquitetura tem sido campo de estudos do proponente e foi inicialmente concebida com o propósito de garantir independência entre componentes de um modelo e as funcionalidades de controle de simulação, característica relevante para os objetivos relacinados nesta proposta.
   date_start: 2017
@@ -292,6 +316,7 @@
   type: project-research
   active: true
   author: Claunir Pavan
+  author_id: claunir.pavan
   role: Coordenador
   title: Desenvolvimento de uma Plataforma web para gestão de base de dados de topologias de redes de telecomunicações
   funding: EDITAL Nº 1010/GR/UFFS/2018
@@ -305,6 +330,7 @@
   type: project-research
   active: true
   author: Claunir Pavan
+  author_id: claunir.pavan
   role: Colaborador
   title: Núcleo de Excelência em Tecnologias para Internet das Coisas (IoT-A)
   funding: FAPES/CNPq Nº 06/2017
@@ -318,6 +344,7 @@
   type: project-research
   active: true
   author: Claunir Pavan
+  author_id: claunir.pavan
   role: Coordenador
   title: CAGETOTE - CAracterização e GEração de TOpologias físicas para redes de transporte de TElecomunicações
   funding: Universal MCTI/CNPq Nº 01/2016 - Processo 406924/2016-3
@@ -327,11 +354,11 @@
     teaser: posts/thumbnail-pesquisa-512x512.png
     feature: /images/posts/pesquisa-1600x800.png
 
-
 - project:
   type: project-research
   active: false
   author: Claunir Pavan
+  author_id: claunir.pavan
   role: Coordenador
   title: Monitoramento Digital em Tempo Real de Aspectos Operacionais e de Qualidade e de Segurança do Trabalho em Serviços da Distribuição de Energia Elétrica
   funding: Chamada P&D 001/2013 - CELESC Distribuição
@@ -345,6 +372,7 @@
   type: project-research
   active: false
   author: Claunir Pavan
+  author_id: claunir.pavan
   role: Coordenador
   title: Desenvolvimento de uma ferramenta computacional para a geração de topologias de redes de telecomunicações
   funding: 168/UFFS/2011, 218/UFFS/2013, 308/UFFS/2014, 281/UFFS/2015
@@ -358,6 +386,7 @@
   type: project-research
   active: false
   author: Claunir Pavan
+  author_id: claunir.pavan
   role: Coordenador
   title: Caracterização e geração de topologias realísticas para simulação de redes ópticas de transporte de telecomunicações
   funding: 227/GR/UFFS/2012
@@ -371,6 +400,7 @@
   type: project-research
   active: false
   author: Claunir Pavan
+  author_id: claunir.pavan
   role: Colaborador
   title: Dimensionamento de Redes Ópticas Multi-Camadas, FCT Portugal
   date_start: 2007
@@ -383,6 +413,7 @@
   type: project-research
   active: false
   author: Claunir Pavan
+  author_id: claunir.pavan
   role: Colaborador
   title: Estratégias de Integração de IP sobre WDM, FCT Portugal
   date_start: 2005
@@ -395,6 +426,7 @@
   type: project-extension
   active: true
   author: Claunir Pavan
+  author_id: claunir.pavan
   role: Coordenador
   title: Projeto de Inclusão Profissional da Secretaria Especial de Tecnologia e Informação
   funding: Demanda contínua UFFS
@@ -410,6 +442,7 @@
   type: project-research
   active: false
   author: Jose Carlos Bins Filho
+  author_id: jose.binsfilho
   role: Coordenador
   title: Aplicativo para reconhecimento de pontos turísticos
   description: Desenvolvimento de um  aplicativo para identificação de pontos turísticos que utiliza a posição do GPS e da câmera do celular para restringir a busca e comparação de imagens o que possibilita o uso de técnicas de recuperação de imagens em um ambiente mais controlado, com isto permitindo implementação de métodos de reconhecimento de imagens e rotulagem de imagens que não seriam possíveis num ambiente com menos restrições como a busca de imagens na internet.
@@ -423,6 +456,7 @@
   type: project-research
   active: false
   author: Jose Carlos Bins Filho
+  author_id: jose.binsfilho
   role: Colaborador
   title: Contagem de pequenos objetos em movimento em grandes volumes utilizando visão computacional
   description: As atividades de contagem e inspeção de pequenos objetos em grandes volumes são tarefas essenciais em alguns setores da indústria.   Atualmente,  tais atividades são realizadas de maneira manual, ou com equipamentos de baixo desempenho.  Desta forma, a utilização de Visão Computacional têm apresentado resultados que motivam o seu uso na solução destes problemas.  Sendo assim, a proposta deste trabalho é desenvolver um Sistema de Visão computacional para a detecção e o contagem de grandes volumes de pequenos objetos.
@@ -438,6 +472,7 @@
   type: project-research
   active: true
   author: Raquel Aparecida Pegoraro
+  author_id: raquel.pegoraro
   role: Coordenadora
   title: Análise de Fatores de sucesso da adoção de métodos ágeis em micro e pequenas empresas de software e métricas que auxiliem no seu monitoramento
   date_start: 2018
@@ -450,6 +485,7 @@
   type: project-research
   active: true
   author: Raquel Aparecida Pegoraro
+  author_id: raquel.pegoraro
   role: Coordenadora
   title: Melhoria do processo de refatoração de arquiteturas de software que utilizam métodos ágeis
   date_start: 2018
@@ -462,6 +498,7 @@
   type: project-research
   active: false
   author: Raquel Aparecida Pegoraro
+  author_id: raquel.pegoraro
   role: Coordenadora
   title: Desenvolvimento de uma ferramenta de visualização de software para análise de rastreabilidade de requisitos nos métodos ágeis	
   date_start: 2018
@@ -474,6 +511,7 @@
   type: project-research
   active: false
   author: Raquel Aparecida Pegoraro
+  author_id: raquel.pegoraro
   role: Coordenadora
   title: Melhoria do processo de refatoração de arquiteturas de software que utilizam métodos ágeis
   date_start: 2018

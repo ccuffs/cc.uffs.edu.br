@@ -26,12 +26,12 @@
         {% assign text = post.description %}
       {% endif %}
       <p>{{ text | strip_html | strip_newlines | truncate: 250 }} <!-- <a href="{{ post.url }}">[ler mais]</a>--></p> 
-      <p class="meta">
-        <i class="fa fa-user-circle-o"></i> {{ post.author }} 
-        <i class="fa fa-calendar"></i> {{ post.date_start }} {% if post.date_end %} a {{ post.date_end }} {% endif %} 
-        {% if post.funding %}<i class="fa fa-money"></i> {{ post.funding }}{% endif %} 
-        {% if post.tags %}<i class="fa fa-tags"></i> {{ post.tags | join: "," }}{% endif %} 
-      </p>
+      <div class="meta">
+        {% include person-inline.html name=post.author id=post.author_id %}
+        <i class="fa fa-calendar ml-3 mr-1"></i> {{ post.date_start }} {% if post.date_end %} a {{ post.date_end }} {% endif %} 
+        {% if post.funding %}<i class="fa fa-money-bill ml-3 mr-1"></i> {{ post.funding }}{% endif %} 
+        {% if post.tags %}<i class="fa fa-tags ml-3 mr-1"></i> {{ post.tags | join: "," }}{% endif %} 
+      </div>
     {% else %}
       <!-- Qualquer item de noticia -->
       {% if post.excerpt %}
