@@ -4,13 +4,20 @@
     {% assign person = site.owner %}
 {% endif %}
 
-<span data-person-id="{{ person.id }}">
+<span data-person-id="{{ person.id }}" data-tooltip-from="tt-{{ person.id }}">
     <div class="person inline">
         <img src="{{ site.url }}/images/{{ person.avatar }}" alt="{{ person.name }}" class="img-responsive rounded-circle">
-        {% if person.web %}
-            <a href="{{ person.web }}" itemprop="author">{{ person.name }}</a>
-        {% else %}
-            <span itemprop="author">{{ person.name }}</span>
-        {% endif %}
+        <span itemprop="author">{{ person.name }}</span>
+    </div>
+    <div style="display: none;">
+        <div id="tt-{{ person.id }}" class="md:flex bg-white rounded-lg p-6">
+            <img class="h-16 w-16 md:h-24 md:w-24 rounded-full mx-auto md:mx-0 md:mr-6" src="{{ site.url }}/images/{{ person.avatar }}" alt="{{ person.name }}" >
+            <div class="text-center md:text-left">
+                <h2 class="text-lg">{{ person.name }}</h2>
+                <div class="text-gray-500">{{ person.position }}</div>
+                <div class="text-gray-500">{{ person.email }}</div>
+            </div>
+        </div>
     </div>
 </span>
+

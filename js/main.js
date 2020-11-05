@@ -17,7 +17,18 @@ $('body').on('mouseenter', '.dropdown', function (e) {
     });
 });
 
-tippy('.tippy', {
-    content: 'My tooltip!',
+tippy('[data-tooltip],[data-tooltip-from]', {
     theme: 'light-border',
+    content(reference) {
+        const id = reference.getAttribute('data-tooltip-from');
+        const text = reference.getAttribute('data-tooltip');
+        
+        if(!id) {
+            return text;
+        }
+
+        const template = document.getElementById(id);
+        return template.innerHTML;
+    },
+    allowHTML: true,
 });
