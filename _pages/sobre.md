@@ -69,6 +69,16 @@ permalink: /sobre/
 
 <p class="text-justify">Esse perfil dos professores faz com que os estudantes tenham contato com assuntos de ponta da computação. Os estudantes têm acesso aos projetos de pesquisa e de extensão do curso, experiência profissional através do projeto FronteiraTec, além de várias opções de estágios em empresas da região.</p>
 
+Conheça um pouco mais sobre o curso no vídeo abaixo:
+
+<div class="embed-responsive embed-responsive-16by9 mb-4">
+  <iframe src="https://www.youtube.com/embed/0UyMnW4qg9k" class="embed-responsive-item" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+</div>
+
+Gosta de podcast? Então ouça o episódio do [DNA UFFS](https://open.spotify.com/show/5bYRJIqbLcBk0GOP9FTY1f) onde professores, alunos e egressos falam sobre curso:
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/34C87z7ftvZ0jU42JUQYsd" width="100%" height="232" class="mt-3 mb-5" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 ### Perfil do egresso
 
 <p class="text-justify">O egresso do Bacharelado em Ciência da Computação da UFFS deverá possuir um conjunto de competências, habilidades e atitudes adquiridas durante a realização do curso. Por definição, o bacharel em Ciência da Computação deve ser um profissional qualificado para a pesquisa e o desenvolvimento na área de computação, para o projeto e construção de software básico e também para o uso de sistemas computadorizados em outras áreas da atividade humana, a fim de viabilizar ou aumentar a produtividade e a qualidade de todos os tipos de procedimentos.</p>
