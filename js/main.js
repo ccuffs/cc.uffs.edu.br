@@ -18,7 +18,7 @@ $('body').on('mouseenter', '.dropdown', function (e) {
 });
 
 tippy('[data-tooltip],[data-tooltip-from]', {
-    theme: 'light-border',
+    theme: 'carbon',
     content(reference) {
         const id = reference.getAttribute('data-tooltip-from');
         const text = reference.getAttribute('data-tooltip');
@@ -31,4 +31,6 @@ tippy('[data-tooltip],[data-tooltip-from]', {
         return template.innerHTML;
     },
     allowHTML: true,
+    interactive: true,
+    maxWidth: 400
 });
