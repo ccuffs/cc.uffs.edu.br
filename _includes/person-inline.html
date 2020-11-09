@@ -12,12 +12,9 @@
     <div style="display: none;">
         <div id="tt-{{ person.id }}" class="md:text-left p-1">
             <div class="overflow-hidden my-2">
-                <img class="w-full h-55 object-cover object-center" src="{{ site.url }}/images/{{ person.avatar }}" alt="{{ person.name }}" >
-                <div class="flex items-center px-1 py-1 bg-gray-900">
-                    <span class="mx-2 mt-1 pb-1 text-white font-medium">{{ person.position | capitalize }} {{ person.title }}</span>
-                </div>
                 <div class="py-1 px-2">
                     <span class="font-bold text-black pt-2 block">{{ person.name }}</span>
+                    <span class="font-thing text-gray-500 pt-2 block">{{ person.position | capitalize }} {{ person.title }}</span>
                     <span class="py-1 text-xs text-gray-700 mt-2 block">{{ person.bio_academic }}</span>
                     <div class="flex items-center mt-2 text-gray-700">
                         <svg class="h-6 w-6 fill-current" viewBox="0 0 512 512">
