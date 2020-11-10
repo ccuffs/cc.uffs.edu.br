@@ -310,6 +310,19 @@
     teaser: posts/thumbnail-pesquisa-512x512.png
     feature: /images/posts/pesquisa-1600x800.png
 
+- project:
+  type: project-research
+  active: true
+  author: Braulio Adriano de Mello
+  author_id: braulio
+  title: Simulação computacional distribuída na perspectiva de Arquitetura Orientada a Serviço
+  description: O conceito de Modelagem e Simulação computacional como Serviço (MSaaS) pode ser interpretado como uma abordagem organizacional ou arquitetural com impacto tanto nas fases de desenvolvimento de modelos, que combinam partes (ou componentes) que interagem com uma finalidade comum, bem como na operação de aplicações distribuídas de Modelagem e Simulação (M&S). Nessa abordagem, é possível alcançar maior eficiência em reusabilidade, interoperabilidade, composição de componentes díspares (composability) e gestão de aplicações de simulação. Métodos e técnicas que contribuam com o acoplamento de componentes construídos para finalidades diferentes (reusabilidade), mesmo que adotem tecnologias ou interfaces distintas (composability), gerando modelos aptos a serem executados em plataformas distribuídas eficientemente e corretamente (interoperabilidade), são temas de interesse em pesquisas. Nesse campo de estudos, a definição de arquiteturas para simulação como serviço capazes de preservar a independência de componentes e a disponibilidade de técnicas que garantam agilidade e facilidade de operação de simulações, são vistas como desafios correntes. Nesse contexto, o objetivo geral desta proposta esta centrado na redefinição de uma arquitetura de simulação distribuída (Distributed Cosimulation Backbone) para incorporar princípios de MSaaS.
+  date_start: 2020
+  date_end: 2023
+  image:
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png    
+
 # Pavan
 
 - project:
