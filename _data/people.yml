@@ -6,10 +6,12 @@
   email: fernando.bevilacqua@uffs.edu.br
   lattes: http://lattes.cnpq.br/7744662926303212
   position: professor
-  #bio: "What do you want, jewels? I am a very extravagant man."
+  bio: "Doutor em Computação pela Universidade de Skövde (HiS), Suécia. Mestre em Computação pela UFSM. Bacharel em Ciência da Computação pela UFSM. Professor adjunto do curso de Ciência da Computação, atuando principalmente nas áreas de Interação Humano-Computador (IHC), Visão Computacional e Computação Gráfica focados em jogos digitais."
   bio_academic: "Doutor em Ciência da Computação pelo programa de PhD em Tecnologia da Informação da Universidade de Skövde (HiS), Suécia. Mestre em Computação pelo Programa de Pós-Graduação em Informática da Universidade Federal de Santa Maria (UFSM). Bacharel em Ciência da Computação pela Universidade Federal de Santa Maria (UFSM). Professor adjunto do curso de Ciência da Computação na Universidade Federal da Fronteira Sul (UFFS), campus Chapecó, atuando principalmente nas áreas de Interação Humano-Computador (IHC), Visão Computacional e Computação Gráfica focados em jogos digitais."
   avatar: avatars/fernando.bevilacqua.jpg
+  github: Dovyski
   twitter: as3gamegears
+  google_scholar: https://scholar.google.se/citations?user=GOWYhzwAAAAJ&hl=en&oi=ao
 
 - id: tiago.braga
   name: Tiago de Braga
@@ -23,6 +25,7 @@
   email: padilha@uffs.edu.br
   position: professor
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4592683E6
+  bio: ""
   bio_academic: "Possui graduação em Engenharia Elétrica pela Universidade Federal de Santa Maria (1998), graduação em Programa Especial de Formação Pedagógica pela Universidade do Sul de Santa Catarina (2005) e mestrado em Engenharia Elétrica pela Universidade Federal de Santa Maria (2001). Atualmente é professor assistente da Universidade Federal da Fronteira Sul (UFFS)"
   avatar: avatars/default.jpg
 
@@ -32,6 +35,7 @@
   email: asebben@uffs.edu.br
   position: professor
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4753896U6
+  bio: "Bacharel em Sistemas de Informação, especialista e mestre em Ciência da Computação. Ministra disciplinas nas áreas de programação e introdução à informática. Atua no grupo de estudos CCGirls e no projeto GRINTEX."
   bio_academic: "Possui graduação em Sistemas de Informação (FACIPAL - 2002), especialização em Ciência da Computação (UFSC - 2005) com Habilitação em Magistério Superior (UNOESC - SMO - 2005) e mestrado em Ciência da Computação (UFSC - 2007). Tem experiência na área de Ciência da Computação, atuando principalmente nos seguintes temas: sistemas de informação, programação para a web, banco de dados e lógica formal para computação. Atualmente é professora Adjunta e Diretora de Registro Acadêmico da Universidade Federal da Fronteira Sul, em Chapecó-SC."
   avatar: avatars/asebben.png
 
@@ -41,6 +45,7 @@
   email: braulio@uffs.edu.br
   position: professor
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4707362Y6
+  bio: "Possui graduação em Ciência da Computação pela UPF, mestrado em Ciência da Computação pela UFSC e doutorado em Ciência da Computação pela UFRGS. Estágio pós doutorado na Carleton University, Canada. Interesse nos temas: modelagem e simulação computacional, simulação heterogênea e distribuída, simulação como serviço."
   bio_academic: "Possui graduação em Ciência da Computação pela Universidade de Passo Fundo (1993), mestrado em Ciências da Computação pela Universidade Federal de Santa Catarina (1997) e doutorado em Ciências da Computação pela Universidade Federal do Rio Grande do Sul (2005). Pós-Doutorado na Carleton University, Canada, entre 08/2014 e 07/2015. Atualmente é professor efetivo da Universidade Federal da Fronteira Sul com sede em Chapecó-SC. Tem experiência na área de Ciência da Computação, com ênfase em Modelagem e Simulação, atuando principalmente nos seguintes temas: modelagem e simulação, simulação heterogênea e distribuída."
   avatar: avatars/braulio.png
 
@@ -50,7 +55,9 @@
   email: claunir.pavan@uffs.edu.br
   position: professor
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4706941A9
+  bio: "Doutor em Eng. Eletrotécnica pela Universidade de Aveiro – Portugal, atua na área de redes de computadores. Seu principal interesse em pesquisa é no dimensionamento e otimização de redes ópticas de telecomunicações."
   bio_academic: "Doutor em Engenharia Eletrotécnica pelo Departamento de Eletrônica, Telecomunicações e Informática da Universidade de Aveiro - UA (Portugal). Mestre em Ciência da Computação pela Universidade Federal de Santa Catarina - UFSC e Tecnólogo em Informática pela Universidade do Oeste de Santa Catarina. Seu interesse em pesquisa inclui o dimensionamento de redes ópticas de transporte multicamadas. Atualmente é docente na Universidade Federal da Fronteira Sul - UFFS."
+  orcid: https://orcid.org/0000-0003-3055-0399
   avatar: avatars/claunir.pavan.jpg
 
 - id: duarte
@@ -59,8 +66,11 @@
   email: duarte@uffs.edu.br
   position: professor
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4709589E5
+  bio: "Professor associado da Universidade Federal da Fronteira Sul (UFFS), Brasil. Possui doutorado em Ciência da Computação (Université François-Rabelais de Tours - França). Ele passou 2017 na Universidade de Skövde como professor convidado, trabalhando no Skövde Artificial Inteligence Laboratory (SAIL). Seus interesses de pesquisa são banco de dados, banco de dados em nuvem e aprendizado de máquina."
   bio_academic: "Doutor em Ciência da Computação pela Université François-Rabelais Tours (validado pela UFRGS) em 2005, mestre em informática pela Universidade Federal do Paraná em 2001 e graduado em Ciência da Computação pela Universidade Regional de Blumenau em 1993. Atualmente é professor associado da Universidade Federal da Fronteira Sul - UFFS. Atua nas áreas de banco de dados com ênfase em dados semiestruturados e cloud-databases, e aprendizado de máquina. Participa também em projetos na área de engenharia de software."
+  orcid: https://orcid.org/0000-0003-4936-4748
   avatar: avatars/duarte.png
+  google_scholar: https://scholar.google.com.br/citations?user=c_rARW4AAAAJ&hl=en&oi=ao
 
 - id: emilio.wuerges
   name: Emílio Wuerges
@@ -68,8 +78,11 @@
   email: emilio.wuerges@uffs.edu.br
   position: professor 
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4716165D0
+  bio: "Atualmente professor efetivo na UFFS, Campus Chapecó. Doutor em Eng. de Automação pelo DAS/UFSC. Graduação e Mestrado em Ciência da Computação pelo INE/UFSC. É o treinador da UFFS para Maratona SBC de Programação e Olimpíada Brasileira de Informática. Ministra, entre outras, as disciplinas de Segurança e de Computação Distribuída. Inicialmente, atuou pesquisando sobre suporte de compilação para sistemas de tempo real (WCET Analysis). Entretanto, seu foco de pesquisa atual é em ferramentas de automação de projeto de eletrônicos (EDA), com foco principal nos problemas do ICCAD Contest, sobretudo os problemas de roteamento. Seus hobbies são programação funcional (Haskell), RPG (de mesa), jogo de tabuleiro (GO/Weiqi) e jogos de estratégia (RTS)."
   bio_academic: "Evangelhista do Software Livre, Cripto-Moedas, Programação Funcional e da Maratona de Programação. Possui graduação em Ciencia da Computacao pela Universidade Federal de Santa Catarina (2005), mestrado em Ciências da Computação pela Universidade Federal de Santa Catarina (2008) e doutorado em Engenharia de Automação e Sistemas pela Universidade Federal de Santa Catarina (2015). Atualmente é professor da Universidade Federal da Fronteira Sul."
   avatar: avatars/emilio.wuerges.png
+  linkedin: https://www.linkedin.com/in/emiliowuerges/
+  github: wuerges
 
 - id: graziela.tonin
   name: Graziela Simone Tonin
@@ -77,6 +90,7 @@
   email: graziela.tonin@uffs.edu.br
   position: professor
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4138361P7
+  bio: "Doutora em Ciência da Computação pelo IME-USP (com sanduíche) nos EUAs, na área de Engenharia de Software e Métodos Ágeis. Fez Mestrado em Ciência da Computação na UFPE/Recife-PE e Graduação em Ciência da Computação na URI/Erechim - RS.  Ganhou o prêmio mundial da IBM em 2013 (IBM Fellowship 2013), por seu projeto de doutorado. Foi Chair do maior evento do Brasil em pesquisa na área de Metodologias Ágeis: Workshop Brasileiro de Métodos Ágeis (WBMA - 2018). Palestrou nas maiores conferências de Agilidade do Brasil como: Agile Brasil e Agile Trends (várias edições). Atua como consultora há mais de 10 anos na área de Métodos Ágeis, performance de times (KPIs) e Engenharia de Software. Alguns dos seus clientes mais recentes foram PagSeguro e Nubank A professora Graziela atua na área de Engenharia de Software, Engenharia de Software Inteligente, Métodos Ágeis, Indicadores de Performance de Times, Gestão de Projetos, Empreendedorismo, Inovação, Ecossistema e Indústria 4.0.  É membro, e esteve na coordenação da rede dos Núcleos de Inovação de Santa Catarina, faz parte da Incubadora de Negócios do Curso de Administração da UFFS, faz parte do Movimento Desbravalley, UFFS Empreende, mentora do CocreationLab, e desenvolve e lidera  projetos sociais pelo Grupo Mulheres do Brasil. Está sempre aberta a novas áreas, projetos e descobertas. Se você tem um projeto em que acredita, entre em contato comigo."
   bio_academic: "Professora da Universidade Federal Fronteira Sul, Campus Chapecó/SC departamento de Ciência da Computação. Recentemente foi convidada a participar de um Seminário na Alemanha com alguns dos principais cientistas da área, para discutir durante 5 dias o futuro da ciência em dívida técnica (Maiores detalhes em: http://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=16162). Recebeu o prêmio IBM Ph.D.Fellowship, prêmio mundial concedido pela IBM, no Brasil apenas dois alunos foram contemplados, esse prêmio é conhecido pelo alto nível dos competidores e grande concorrência. Doutora em ciências, na área de Engenharia de Software, Dívida Técnica e Metodologias Ágeis, pela Universidade de São Paulo - IME/USP (2012-2018). Mestre em Ciência da Computação, na área de Engenharia de Software, pela Universidade Federal de Pernambuco, Brasil, . (2009 - 2011). Graduada em Ciências da Computação, pela Universidade Regional Integrada do Alto Uruguai e das Missões (URI) - Campus de Erechim/Rio Grande do Sul (2004-2008). - Trabalhou como Coordenadora do Projeto Mobiestro A.P.I.: A.P.I. de Controle Touschscreen e por Acelerômetro de Celulares para Conteúdo Interativo (CNPQ 555595/2010-2) e Gerente de Projetos na empresa I2Mobile Solutions. Possui experiência em Agile Methodology (Foco em SCRUM), Certificada Scrum Product Owner e Scrum Master , também tem conhecimento em Rational Unified Process/Unified Modeling Language (RUP/UML), em Microsoft Project, em BI, com Oracle OWB e a ferramenta Pentaho e em modelagem de processos com a técnica ATDD. Trabalhou como pesquisadora em um projeto Samsung/UFPE, em um estudo de caso exploratório na busca por decisões que podem ou não levar a Débito/Técnico. Trabalhou pela empresa Soccol Barbieri e Cia Ltda, na área de análise e desenvolvimento de sistemas, utilizando tecnologias Oracle. Treinamentos e suporte para os sistemas utilizados pela empresa. Modelagem de software com UML e desenvolvimento de um projeto de Business Intelligence com tecnologias Oracle e a tecnologia Open Source Pentaho (2006 - 2009). Atuo como Coordenadora de TI, onde dentre as melhorias implementadas, estão, implantação da metodologia ágil Scrum e controle de alteração de arquivos, definição dos requisitos e projeto de implantação de um ERP, e um Servidor Web. Trabalhou como pesquisadora da Universidade Regional Integrada do Alto Uruguai e das Missões na cidade de Erechim, RS, no Projeto RPGEDU (FINEP 1925/2004-0), onde atuou como Bolsista CNPq, exercendo atividades voltadas para a área de banco de dados e desenvolvimento web (2005 - 2006)"
   avatar: avatars/graziela.tonin.jpg
 
@@ -86,6 +100,7 @@
   email: guilherme.dalbianco@uffs.edu.br
   position: professor
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4138098P8
+  bio: "Professor na UFFS onde desempenha atividades de pesquisa e de ensino. É doutor em Ciência da Computação pela UFRGS (2014). Sua pesquisa concentra-se nas áreas de integração e recuperação de informações."
   bio_academic: "Guilherme Dal bianco é professor na Universidade Federal da Fronteira Sul (UFFS) onde desempenha atividades de pesquisa e de ensino. Completou o doutorado em Ciência da Computação na Universidade Federal do Rio Grande do Sul (2014) e graduação em Engenharia de computação pela Universidade Federal do Rio Grande (2007). Sua pesquisa concentra-se nas áreas de Banco de dados, Mineração e integração de informações."
   avatar: avatars/guilherme.dalbianco.jpg
 
@@ -96,8 +111,9 @@
   email: jose.binsfilho@uffs.edu.br
   position: professor
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4782175D9
+  bio: ""
   bio_academic: "Possui doutorado em Computer Science pela Colorado State University - EUA (2000), mestrado em Computação pela Universidade Federal do Rio Grande do Sul - Brasil (1990) , e Pós-Doutorado pela Universidade de Edimburgo - Reino Unido (2005). Pesquisador nas áreas de Inteligência Artificial e Visão Computacional. Atualmente Professor Associado da Universidade Federal da Fronteira Sul (SC)"
-  avatar: avatars/default.jpg
+  avatar: avatars/jose.binsfilho.jpg
 
 - id: lcaimi
   name: Luciano Lores Caimi
@@ -105,8 +121,10 @@
   email: lcaimi@uffs.edu.br
   position: professor
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4790813H0
+  bio: "Professor adjunto do curso de Ciência da Computação da UFFS, Campus Chapecó. Doutor em Ciência da Computação pela PUC/RS. Graduação em Engenharia Elétrica pela Unijui. Mestrado em Engenharia Elétrica pela UFSC. Ministra, entre outras, as disciplinas de Circuitos Digitais, Sistemas Digitais e Organização de Computadores. Áreas de interesse em pesquisa incluem redes intra-chip, System on Chip, segurança em sistemas many-core e projeto digital."
   bio_academic: "Possui graduação em Engenharia Elétrica pela Universidade Regional do Noroeste do Estado do Rio Grande do Sul (1995) e mestrado em Engenharia Elétrica pela Universidade Federal de Santa Catarina (1998) e doutorado junto ao programa de pós-graduação em Ciência da Computação da Pontifícia Universidade Católica do Rio Grande do Sul (2019). Atualmente é professor adjunto na Universidade Federal da Fronteira Sul vinculado ao Curso de Ciência da Computação. Tem experiência na área de Ciência da Computação, com ênfase em Arquitetura de Sistemas de Computação, atuando principalmente nos seguintes temas: redes intra-chip, segurança em sistemas many-core e projeto digital."
   avatar: avatars/lcaimi.jpg
+  github: lcaimi
 
 - id: marco.spohn
   name: Marco Aurélio Spohn
@@ -114,8 +132,10 @@
   email: marco.spohn@uffs.edu.br
   position: professor
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4790248U1
-  bio_academic: "possui graduação em Ciência da Computação pela Universidade Federal do Rio Grande do Sul (1995), mestrado em Ciência da Computação pela Universidade Federal do Rio Grande do Sul (1997) e doutorado (PhD) em Computer Science pela University of California at Santa Cruz (2005). Foi bolsista de Produtividade em Pesquisa (PQ) do CNPq de 2009 a 2018. Atualmente é Professor Associado III da Universidade Federal da Fronteira Sul (UFFS) em Chapecó-SC, atuando no curso de Ciência da Computação. Anteriormente esteve associado à Universidade Federal de Campina Grande (UFCG) onde atuou no Departamento de Sistemas e Computação (DSC). Tem experiência na área de Ciência da Computação, atuando principalmente nos seguintes temas: redes de computadores, internet das coisas, redes ad hoc sem fio (Mobile Ad Hoc Networks) e redes de sensores sem fio (wireless sensor networks)."
+  bio: "Marco Aurélio Spohn possui graduação em Ciência da Computação pela Universidade Federal do Rio Grande do Sul (UFRGS, 1995), mestrado em Ciência da Computação pela Universidade Federal do Rio Grande do Sul (UFRGSD, 1997) e doutorado (PhD) em Computer Science pela University of California at Santa Cruz (UCSC, 2005). Foi bolsista de Produtividade em Pesquisa (PQ) do CNPq de 2009 a 2018. Atualmente é Professor Associado IV da Universidade Federal da Fronteira Sul (UFFS) em Chapecó-SC, atuando no curso de Ciência da Computação. De 2006 a 2011 esteve associado à Universidade Federal de Campina Grande (UFCG) onde atuou no Departamento de Sistemas e Computação (DSC). De 1997 a 2000 atuou como docente na Universidade de Cruz Alta (UNICRUZ). Tem experiência na área de Ciência da Computação, atuando principalmente nos seguintes temas: redes de computadores, internet das coisas, redes ad hoc sem fio (Mobile Ad Hoc Networks) e redes de sensores sem fio (wireless sensor networks)."
+  bio_academic: "Possui graduação em Ciência da Computação pela Universidade Federal do Rio Grande do Sul (1995), mestrado em Ciência da Computação pela Universidade Federal do Rio Grande do Sul (1997) e doutorado (PhD) em Computer Science pela University of California at Santa Cruz (2005). Foi bolsista de Produtividade em Pesquisa (PQ) do CNPq de 2009 a 2018. Atualmente é Professor Associado III da Universidade Federal da Fronteira Sul (UFFS) em Chapecó-SC, atuando no curso de Ciência da Computação. Anteriormente esteve associado à Universidade Federal de Campina Grande (UFCG) onde atuou no Departamento de Sistemas e Computação (DSC). Tem experiência na área de Ciência da Computação, atuando principalmente nos seguintes temas: redes de computadores, internet das coisas, redes ad hoc sem fio (Mobile Ad Hoc Networks) e redes de sensores sem fio (wireless sensor networks)."
   avatar: avatars/marco.spohn.jpg
+  web: https://sites.google.com/site/marcospohn/home
 
 - id: raquel.pegoraro
   name: Raquel Aparecida Pegoraro
@@ -123,5 +143,7 @@
   email: raquel.pegoraro@uffs.edu.br
   position: professor
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4776788T1
+  bio: "Possui graduação em Ciência da Computação pela UPF - Universidade de Passo Fundo , mestrado em Ciências da Computação pela UFSC - Universidade Federal de Santa Catarina (2002) e doutorado em Engenharia da Produção pela UFRGS - Universidade Federal do Rio Grande do Sul. Professora e pesquisadora na UFFS (Universidade Federal da Fronteira Sul) nas áreas de Engenharia de Software, Planejamento e Gestão de Projetos, com ênfase em projetos de software ágeis. Coordenadora do núcleo de Empreendedorismo e Inovação do curso de Computação. Membro do Empreende UFFS e AGIITEC (Agência de Internacionalização e Inovação Tecnológica). Áreas de pesquisa de interesse: Engenharia de Software; Gestão de Projetos; Métodos ágeis; Empreendedorismo e Inovação; Startups."
   bio_academic: "Possui graduação em Ciência da Computação pela UPF - Universidade de Passo Fundo (1996), mestrado em Ciências da Computação pela UFSC - Universidade Federal de Santa Catarina (2002) e doutorado em Engenharia da Produção pela UFRGS - Universidade Federal do Rio Grande do Sul."
+  linkedin: https://www.linkedin.com/in/raquel-pegoraro-5297367b/
   avatar: avatars/raquel.pegoraro.jpg
