@@ -4,7 +4,7 @@ layout: post
 categories: noticias
 last_modified_at: 2020-11-05T14:18:00-03:00
 highlight: true
-highlight_order: 1
+highlight_order: 2
 active: true
 image:
   teaser: posts/identidade-visual-1600x800.png
