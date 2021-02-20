@@ -57,7 +57,7 @@ permalink: /ensino/grupos-estudo/
         Processamento de linguagem natural (NLP) é uma área que vem ganhando cada vez mais destaque, tanto na academia quanto na indústria. A discussão de temas correlatos, desde de técnicas tradicionais até métodos estado-da-arte, integra o objetivo central do grupo de estudo UFFSNLP, proporcionando à comunidade acadêmica ferrementais suficientes para uma autonomia nas diversas modalidades possíveis. Mais informações em <a href="https://uffsnlp.github.io" target="_blank">uffsnlp.github.io</a>.
     </p> 
     <p class="meta">
-        <i class="fa fa-user"></i> Prof. Dênio Duarte <small>(coordenador)</small>
+        <i class="fa fa-user"></i> Prof. Denio Duarte <small>(coordenador)</small>
         <i class="fa fa-user"></i> Jean Carlo Hilger <small>(aluno coordenador)</small>
         <i class="fa fa-user"></i> Junior Vitor Ramisch <small>(aluno coordenador)</small>
     </p>
