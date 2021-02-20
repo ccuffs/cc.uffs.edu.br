@@ -133,7 +133,17 @@ formas de contribuir:
 - Viu alguma discussão que te interessa e onde você pode acrescentar mesmo sem
   conhecimento técnico? Não se acanhe e participe também nas issues do GitHub.
 
-Pensou em alguma outra forma de contribuir? Compartilha com a gente! 
+Pensou em alguma outra forma de contribuir? Compartilha com a gente!
+
+#### Crie postagens
+
+Postagens são formas de compartilhar seu conhecimento com a comunidade. Esta é 
+uma ótima forma de contribuir e não é necessário entender muito de código!! basta
+criar um arquivo no formato `AAAA-MM-DD-título.md` (ex.: 
+`2020-06-29-minha-experiencia-em-x-y-z.md`) dentro da pasta `_posts/postagens` 
+do repositório do site, fazer um pull request, e pronto.
+Seu texto estará disponível no site assim que for aprovado. Para mais informações
+verifique [este link](https://cc.uffs.edu.br/postagens/2020/06/27/compartilhe-suas-experiencias/).
 
 # Créditos
 
