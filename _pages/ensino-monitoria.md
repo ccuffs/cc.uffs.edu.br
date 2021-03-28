@@ -47,7 +47,7 @@ permalink: /ensino/monitoria/
                 <div class="row text-left">
                     <div class="col-12">
                         <p>
-                            Prof. Guilherme dal Bianco - guilherme.dalbianco@uffs.edu.br
+                            <b>Prof.</b> Guilherme dal Bianco - guilherme.dalbianco@uffs.edu.br
                             <span class="badge bg-red-500 text-light">remoto</span>
                         </p>
                         <p>
@@ -92,7 +92,7 @@ permalink: /ensino/monitoria/
   </div>
 </section>
 
-<h3>Horários de atendimento 2020/1</h3>
+<h3>Horários de atendimento 2020/2</h3>
 
 {:.table}
 |  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira   | Quinta-Feira |   Sexta-Feira  |
@@ -112,6 +112,9 @@ permalink: /ensino/monitoria/
     <div class="row justify-content-center">
       <div class="col-12 text-left">
         <h2>Monitoria de Circuitos Digitais e Hardware</h2>
+        <div class="alert text-danger border-danger" role="alert">
+            <b>Importante:</b> Infelizmente, neste semestre não houveram candidatos à monitores, e por tanto não há monitoria para esta modalidade
+        </div>
         <hr/>
         <p>
             O projeto de monitoria de hardware visa contribuir para o desempenho dos discentes nos componentes curriculares ligados à area de sistemas eletrônicos. A evolução tecnológica da area é rápida, portantando são necessárias ferramentas para acompanhar essa evolução, e a monitoria é uma delas.
@@ -127,12 +130,10 @@ permalink: /ensino/monitoria/
             <div class="card-body">
                 <div class="row text-left">
                     <div class="col-12 col-sm-6 col-md-7">
-                        <p>Prof. Luciano L. Caimi - lcaimi@uffs.edu.br</p>
-                        <p>Monitor: Renan Babinski - renan.babinski@estudante.uffs.edu.br</p>
-                    </div>
-                    <div class="col-12 col-sm-6 col-md-5">
-                        <p>Sala 219 - Bloco dos Professores</p>
-                        <p>Laboratorio 409 - Bloco B</p>
+                        <p>
+                            <b>Prof.</b> Luciano L. Caimi - lcaimi@uffs.edu.br
+                            <span class="badge bg-red-500 text-light">remoto</span>
+                        </p>
                     </div>
                 </div> 
             </div> 
@@ -142,18 +143,7 @@ permalink: /ensino/monitoria/
   </div>
 </section>
 
-<h3>Horários de atendimento 2019/2</h3>
-
-{:.table}
-|  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira | Quinta-Feira |   Sexta-Feira  |
-|:-------------:|:--------------:|:--------------:|:------------:|:------------:|:--------------:|
-| 7:30 - 12:00  | -              | -              | -            |  -           | -              |
-|**Vespertino** |                |                |              |              |                |
-| 13:30 - 15:50 | -              | Presencial     | Presencial   |  Presencial  | -              |
-| 16:10 - 17:50 | -              | Presencial     | Presencial   |  Presencial  | -              |
-| **Noturno**   |                |                |              |              |                |
-| 19:00 - 20:40 | -              | -              | -            |  -           | Presencial     |
-| 21:00 - 22:40 | -              | -              | -            |  Presencial  | -              |
+<!-- <h3>Horários de atendimento 2020/2</h3> -->
 
 
 <section class="mt-4 mb-4">
@@ -178,14 +168,10 @@ permalink: /ensino/monitoria/
             <div class="card-body">
                 <div class="row text-left">
                     <div class="col-12 col-sm-6 col-md-7">
-                        <p>Prof. Milton Kist - milton.kist@uffs.edu.br</p>
-                        <p>Monitor: Marcos V. F. Cavalli  - marcos.farfus@gmail.com</p>
-                        <p>Monitoria Online: WhatsApp: (49)99172-5393</p>
-                    </div>
-                    <div class="col-12 col-sm-6 col-md-5">
-                        <p>Sala 335 - Bloco dos Professores</p>
-                        <p>Laboratorio 207 - Bloco B</p>
-                        <p>Facebook: marcos.cavalli.7</p>
+                        <p>
+                            <b>Prof.</b> Milton Kist - milton.kist@uffs.edu.br
+                            <span class="badge bg-red-500 text-light">remoto</span>
+                        </p>
                     </div>
                 </div> 
             </div> 
@@ -195,7 +181,7 @@ permalink: /ensino/monitoria/
   </div>
 </section>
 
-<h3>Horários de atendimento 2019/2</h3>
+<!-- <h3>Horários de atendimento 2020/2</h3>
 
 {:.table}
 |  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira | Quinta-Feira |   Sexta-Feira  |
@@ -208,4 +194,4 @@ permalink: /ensino/monitoria/
 | 16:20 - 17:10 | -              | -              | Presencial   |  -           | Presencial     |
 | 17:10 - 18:00 | Online         | Online         | Presencial   |  -           | Presencial     |
 | **Noturno**   |                |                |              |              |                |
-| 19:00 - 22:40 | -              | -              | -            |  -           | -              |
+| 19:00 - 22:40 | -              | -              | -            |  -           | -              | -->
