@@ -129,7 +129,7 @@ permalink: /ensino/monitoria/
             </div>
             <div class="card-body">
                 <div class="row text-left">
-                    <div class="col-12 col-sm-6 col-md-7">
+                    <div class="col-12">
                         <p>
                             <b>Prof.</b> Luciano L. Caimi - lcaimi@uffs.edu.br
                             <span class="badge bg-red-500 text-light">remoto</span>
@@ -153,7 +153,8 @@ permalink: /ensino/monitoria/
         <h2>Monitoria de Cálculo</h2>
         <hr/>
         <p>
-            A monitoria de cálculo tem como objetivo auxiliar aqueles alunos que sentem dificuldade no raciocínio matemático, por ser uma área que geralmente apresenta maiores desafios. O programa tem a modalidade online, onde o aluno pode enviar suas duvidas para o monitor atráves das redes sociais e ter um atendimento mais rápido.
+            A monitoria de cálculo tem como objetivo auxiliar aqueles alunos que sentem dificuldade no raciocínio matemático, por ser uma área que geralmente apresenta maiores desafios. 
+            <!-- O programa tem a modalidade online, onde o aluno pode enviar suas duvidas para o monitor atráves das redes sociais e ter um atendimento mais rápido. -->
         </p>
         <p>Componentes Curriculares Atendidos:</p>
         <li>Cáculo A</li>
@@ -167,9 +168,13 @@ permalink: /ensino/monitoria/
             </div>
             <div class="card-body">
                 <div class="row text-left">
-                    <div class="col-12 col-sm-6 col-md-7">
+                    <div class="col-12">
                         <p>
                             <b>Prof.</b> Milton Kist - milton.kist@uffs.edu.br
+                            <span class="badge bg-red-500 text-light">remoto</span>
+                        </p>
+                        <p>
+                            <b>Monitor:</b> Marcos Vinícius Farfus Cavalli - marcos.farfus@gmail.com - (49) 9 9172-5393
                             <span class="badge bg-red-500 text-light">remoto</span>
                         </p>
                     </div>
@@ -181,17 +186,19 @@ permalink: /ensino/monitoria/
   </div>
 </section>
 
-<!-- <h3>Horários de atendimento 2020/2</h3>
+<h3>Horários de atendimento 2020/2</h3>
 
 {:.table}
 |  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira | Quinta-Feira |   Sexta-Feira  |
 |:-------------:|:--------------:|:--------------:|:------------:|:------------:|:--------------:|
-| 7:30 - 12:00  | -              | -              | -            |  -           | -              |
+| 10:10 - 11:00 | Monitoria      | Monitoria      | -            |  -           | -              |
+| 11:00 - 11:50 | Monitoria      | Monitoria      | -            |  -           | -              |
 |**Vespertino** |                |                |              |              |                |
-| 13:30 - 14:20 | Presencial     | Presencial     | -            |  -           | -              |
-| 14:20 - 15:10 | Presencial     | Presencial     | -            |  -           | Online         |
-| 15:10 - 16:00 | -              | -              | Online       | Online       | Presencial     |
-| 16:20 - 17:10 | -              | -              | Presencial   |  -           | Presencial     |
-| 17:10 - 18:00 | Online         | Online         | Presencial   |  -           | Presencial     |
+| 13:30 - 14:20 | -              | -              | Monitoria    | Monitoria    | -              |
+| 14:20 - 15:10 | -              | -              | Monitoria    | Monitoria    | -              |
+| 15:10 - 16:00 | -              | -              |  -           |  -           | -              |
+| 16:20 - 17:10 | -              | -              |  -           |  -           | -              |
+| 17:10 - 18:00 | -              | -              | -            |  -           | -              |
 | **Noturno**   |                |                |              |              |                |
-| 19:00 - 22:40 | -              | -              | -            |  -           | -              | -->
+| 18:00 - 19:00 | Monitoria      | -              | Monitoria    | Monitoria    | -              |
+| 19:00 - 19:50 | Monitoria      | -              | Monitoria    | Monitoria    | -              |
