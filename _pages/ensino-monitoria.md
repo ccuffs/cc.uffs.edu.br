@@ -28,8 +28,12 @@ permalink: /ensino/monitoria/
         <h2>Monitoria de Algoritmos e Programação</h2>
         <hr/>
         <p>
-            A aprendizagem de uma linguagem de programação apresenta um dos maiores desafios para curso de
-            computação. Nesse sentido, o objetivo do programa de monitoria de Algoritmos e Programação é desenvolver atividades junto ao curso envolvendo diversas disciplinas de programação. Procura-se auxiliar os alunos e complementar as tarefas disponibilizadas em sala de aula através da resolução assistida de exercícios e outras atividades complementares.
+            A aprendizagem de uma linguagem de programação apresenta um dos maiores 
+            desafios para curso de computação. Nesse sentido, o objetivo do programa 
+            de monitoria de Algoritmos e Programação é desenvolver atividades junto 
+            ao curso envolvendo diversas disciplinas de programação. Procura-se
+            auxiliar os alunos e complementar as tarefas disponibilizadas em sala
+            de aula através da resolução assistida de exercícios e outras atividades complementares.
         </p>
         <p>Componentes Curriculares Atendidos:</p>
         <li>Algoritmos e Programação</li>
@@ -41,17 +45,44 @@ permalink: /ensino/monitoria/
             </div>
             <div class="card-body">
                 <div class="row text-left">
-                    <div class="col-12 col-sm-6 col-md-7">
-                        <p>Prof. Guilherme dal Bianco - guilherme.dalbianco@uffs.edu.br</p>
-                        <p>Monitor: Jean Carlo Higler - hilgerjeancarlo@gmail.com</p>
-                        <p>Monitor: Matheus F. Miotto - matheusf.miotto@gmail.com</p>
-                        <p>Monitor: Maicon Brandão - maincon.brandao@gmail.com</p>       
-                    </div>
-                    <div class="col-12 col-sm-6 col-md-5">
-                        <p>Sala 221 - Bloco dos Professores</p>
-                        <p>Laboratorio 402 e Laboratório 307 - Bloco B</p>
-                        <p>Laboratorio 402 - Bloco B</p>
-                        <p>Laboratório 307 - Bloco B</p>
+                    <div class="col-12">
+                        <p>
+                            <b>Prof.</b> Guilherme dal Bianco - guilherme.dalbianco@uffs.edu.br
+                            <span class="badge bg-red-500 text-light">remoto</span>
+                        </p>
+                        <p>
+                            <b>Monitor:</b> Alisson Luan de Lima Peloso - alisson.luan2000@gmail.com
+                            <span class="badge bg-indigo-500">
+                                <a
+                                    href="https://discord.gg/knABxNp"
+                                    class="text-indigo-50 hover:text-indigo-50"
+                                >
+                                    discord
+                                </a>
+                            </span>
+                        </p>
+                        <p>
+                            <b>Monitor:</b> Bruno Ribeiro - brunoribeiroinf@gmail.com
+                            <span class="badge bg-indigo-500">
+                                <a
+                                    href="https://discord.gg/knABxNp"
+                                    class="text-indigo-50 hover:text-indigo-50"
+                                >
+                                    discord
+                                </a>
+                            </span>
+                        </p>
+                        <p>
+                            <b>Monitor:</b> Gustavo Costella Barbosa - gustavocostellabarbosa@hotmail.com
+                            <span class="badge bg-indigo-500">
+                                <a
+                                    href="https://discord.gg/knABxNp"
+                                    class="text-indigo-50 hover:text-indigo-50"
+                                >
+                                    discord
+                                </a>
+                            </span>
+                        </p>
                     </div>
                 </div> 
             </div> 
@@ -61,22 +92,19 @@ permalink: /ensino/monitoria/
   </div>
 </section>
 
-<h3>Horários de atendimento 2019/2</h3>
+<h3>Horários de atendimento 2020/2</h3>
 
 {:.table}
-|  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira | Quinta-Feira |   Sexta-Feira  |
-|:-------------:|:--------------:|:--------------:|:------------:|:------------:|:--------------:|
-| 08:30 - 09:30 |        -       |   -            |       -      |      -       | Jean (lab 307) |
-| 09:30 - 11:30 | Jean (lab 307) | Jean (lab 307) | Matheus      |       -      | Jean (lab 307) |
-|**Vespertino** |                |                |              |              |                |
-| 13:00 - 16:00 | Maicon         |     -          | Maicon       | Maicon       | Maicon         |
-| 16:00 - 16:30 | Maicon         |     -          | Maicon       | Maicon       |    -           |
-| 16:30 - 17:30 | Maicon         | Maicon         | Maicon       | Maicon       |    -           |
-| 17:30 - 18:00 |          -     | Maicon         |    -         |      -       |                |
+|  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira   | Quinta-Feira |   Sexta-Feira  |
+|:-------------:|:--------------:|:--------------:|:--------------:|:------------:|:--------------:|
+| 07:30 - 10:20 |       -        |   Alisson      |   Alisson      |  Alisson     | Alisson/Bruno/Gustavo |
+| 10:20 - 12:00 |       -        | Alisson/Gustavo| Alisson/Gustavo| Alisson/Gustavo | Alisson/Gustavo |
+|**Vespertino** |       -        |                |              |              |                |
+| 13:30 - 16:00 |       -        | Gustavo        |      -       |   Gustavo    |    -           |
+| 16:00 - 18:00 |       -        |       -        |    -         |      -       |    -           |
 | **Noturno**   |                |                |              |              |                |
-| 18:00 - 19:00 |              - | Jean/Matheus   | Matheus      | Jean/Matheus | Jean           |
-| 19:00 - 20:00 | Jean/Matheus   | Jean/Matheus   | Matheus      | Jean         | Jean           |
-| 20:00 - 22:00 | Jean           | Jean/Matheus   | Matheus      | Jean         | Jean           |
+| 19:10 - 21:00 | Alisson        |        Bruno   | Bruno        | Bruno        | Bruno          |
+| 21:00 - 22:30 | Alisson        |        Bruno   | Bruno/Gustavo| Bruno        | Bruno          |
 
 
 <section class="mt-4 mb-4">
@@ -84,6 +112,9 @@ permalink: /ensino/monitoria/
     <div class="row justify-content-center">
       <div class="col-12 text-left">
         <h2>Monitoria de Circuitos Digitais e Hardware</h2>
+        <div class="alert text-danger border-danger" role="alert">
+            <b>Importante:</b> Infelizmente, neste semestre não houveram candidatos à monitores, e por tanto não há monitoria para esta modalidade
+        </div>
         <hr/>
         <p>
             O projeto de monitoria de hardware visa contribuir para o desempenho dos discentes nos componentes curriculares ligados à area de sistemas eletrônicos. A evolução tecnológica da area é rápida, portantando são necessárias ferramentas para acompanhar essa evolução, e a monitoria é uma delas.
@@ -98,13 +129,11 @@ permalink: /ensino/monitoria/
             </div>
             <div class="card-body">
                 <div class="row text-left">
-                    <div class="col-12 col-sm-6 col-md-7">
-                        <p>Prof. Luciano L. Caimi - lcaimi@uffs.edu.br</p>
-                        <p>Monitor: Renan Babinski - renan.babinski@estudante.uffs.edu.br</p>
-                    </div>
-                    <div class="col-12 col-sm-6 col-md-5">
-                        <p>Sala 219 - Bloco dos Professores</p>
-                        <p>Laboratorio 409 - Bloco B</p>
+                    <div class="col-12">
+                        <p>
+                            <b>Prof.</b> Luciano L. Caimi - lcaimi@uffs.edu.br
+                            <span class="badge bg-red-500 text-light">remoto</span>
+                        </p>
                     </div>
                 </div> 
             </div> 
@@ -114,18 +143,7 @@ permalink: /ensino/monitoria/
   </div>
 </section>
 
-<h3>Horários de atendimento 2019/2</h3>
-
-{:.table}
-|  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira | Quinta-Feira |   Sexta-Feira  |
-|:-------------:|:--------------:|:--------------:|:------------:|:------------:|:--------------:|
-| 7:30 - 12:00  | -              | -              | -            |  -           | -              |
-|**Vespertino** |                |                |              |              |                |
-| 13:30 - 15:50 | -              | Presencial     | Presencial   |  Presencial  | -              |
-| 16:10 - 17:50 | -              | Presencial     | Presencial   |  Presencial  | -              |
-| **Noturno**   |                |                |              |              |                |
-| 19:00 - 20:40 | -              | -              | -            |  -           | Presencial     |
-| 21:00 - 22:40 | -              | -              | -            |  Presencial  | -              |
+<!-- <h3>Horários de atendimento 2020/2</h3> -->
 
 
 <section class="mt-4 mb-4">
@@ -135,7 +153,8 @@ permalink: /ensino/monitoria/
         <h2>Monitoria de Cálculo</h2>
         <hr/>
         <p>
-            A monitoria de cálculo tem como objetivo auxiliar aqueles alunos que sentem dificuldade no raciocínio matemático, por ser uma área que geralmente apresenta maiores desafios. O programa tem a modalidade online, onde o aluno pode enviar suas duvidas para o monitor atráves das redes sociais e ter um atendimento mais rápido.
+            A monitoria de cálculo tem como objetivo auxiliar aqueles alunos que sentem dificuldade no raciocínio matemático, por ser uma área que geralmente apresenta maiores desafios. 
+            <!-- O programa tem a modalidade online, onde o aluno pode enviar suas duvidas para o monitor atráves das redes sociais e ter um atendimento mais rápido. -->
         </p>
         <p>Componentes Curriculares Atendidos:</p>
         <li>Cáculo A</li>
@@ -149,15 +168,15 @@ permalink: /ensino/monitoria/
             </div>
             <div class="card-body">
                 <div class="row text-left">
-                    <div class="col-12 col-sm-6 col-md-7">
-                        <p>Prof. Milton Kist - milton.kist@uffs.edu.br</p>
-                        <p>Monitor: Marcos V. F. Cavalli  - marcos.farfus@gmail.com</p>
-                        <p>Monitoria Online: WhatsApp: (49)99172-5393</p>
-                    </div>
-                    <div class="col-12 col-sm-6 col-md-5">
-                        <p>Sala 335 - Bloco dos Professores</p>
-                        <p>Laboratorio 207 - Bloco B</p>
-                        <p>Facebook: marcos.cavalli.7</p>
+                    <div class="col-12">
+                        <p>
+                            <b>Prof.</b> Milton Kist - milton.kist@uffs.edu.br
+                            <span class="badge bg-red-500 text-light">remoto</span>
+                        </p>
+                        <p>
+                            <b>Monitor:</b> Marcos Vinícius Farfus Cavalli - marcos.farfus@gmail.com - (49) 9 9172-5393
+                            <span class="badge bg-red-500 text-light">remoto</span>
+                        </p>
                     </div>
                 </div> 
             </div> 
@@ -167,17 +186,19 @@ permalink: /ensino/monitoria/
   </div>
 </section>
 
-<h3>Horários de atendimento 2019/2</h3>
+<h3>Horários de atendimento 2020/2</h3>
 
 {:.table}
 |  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira | Quinta-Feira |   Sexta-Feira  |
 |:-------------:|:--------------:|:--------------:|:------------:|:------------:|:--------------:|
-| 7:30 - 12:00  | -              | -              | -            |  -           | -              |
+| 10:10 - 11:00 | Monitoria      | Monitoria      | -            |  -           | -              |
+| 11:00 - 11:50 | Monitoria      | Monitoria      | -            |  -           | -              |
 |**Vespertino** |                |                |              |              |                |
-| 13:30 - 14:20 | Presencial     | Presencial     | -            |  -           | -              |
-| 14:20 - 15:10 | Presencial     | Presencial     | -            |  -           | Online         |
-| 15:10 - 16:00 | -              | -              | Online       | Online       | Presencial     |
-| 16:20 - 17:10 | -              | -              | Presencial   |  -           | Presencial     |
-| 17:10 - 18:00 | Online         | Online         | Presencial   |  -           | Presencial     |
+| 13:30 - 14:20 | -              | -              | Monitoria    | Monitoria    | -              |
+| 14:20 - 15:10 | -              | -              | Monitoria    | Monitoria    | -              |
+| 15:10 - 16:00 | -              | -              |  -           |  -           | -              |
+| 16:20 - 17:10 | -              | -              |  -           |  -           | -              |
+| 17:10 - 18:00 | -              | -              | -            |  -           | -              |
 | **Noturno**   |                |                |              |              |                |
-| 19:00 - 22:40 | -              | -              | -            |  -           | -              |
+| 18:00 - 19:00 | Monitoria      | -              | Monitoria    | Monitoria    | -              |
+| 19:00 - 19:50 | Monitoria      | -              | Monitoria    | Monitoria    | -              |
