@@ -23,5 +23,6 @@ Eleição para a escolha de Coordenador e Coordenador Ajunto do curso para os pe
 {:.table.mt-5}
 | Descrição  | Data  |
 |---|:---:|
-| Publicação do [Edital 001/2021 - ELEIÇÃO PARA COORDENAÇÃO DO CURSO DE CIÊNCIA DA COMPUTAÇÃO](https://cdn.uffs.cc/computacao.ch/editais/edital-CCCC-CH-001-2021.pdf) | 27/04/2021  |
+| Publicação da [Lista de docentes elegíveis](https://cdn.uffs.cc/computacao.ch/editais/CCCC-CH-001-2021/edital-CCCC-CH-001-2021-docentes-elegiveis.pdf) | 03/05/2021  |
+| Publicação do [Edital 001/2021 - ELEIÇÃO PARA COORDENAÇÃO DO CURSO DE CIÊNCIA DA COMPUTAÇÃO](https://cdn.uffs.cc/computacao.ch/editais/CCCC-CH-001-2021/edital-CCCC-CH-001-2021.pdf) | 27/04/2021  |
 |||
