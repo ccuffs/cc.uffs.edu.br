@@ -4,7 +4,7 @@ layout: post
 categories: noticias
 last_modified_at: 2021-03-31T20:20:00-03:00
 highlight: true
-highlight_order: 1
+highlight_order: 3
 active: true
 image:
   teaser: posts/practice-dev-1600x800.png
