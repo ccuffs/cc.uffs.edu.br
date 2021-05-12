@@ -3,7 +3,7 @@ title: "Vaga para Desenvolvimento de Software (PRACTICE UFFS)"
 layout: post
 categories: noticias
 last_modified_at: 2021-03-31T20:20:00-03:00
-highlight: true
+highlight: false
 highlight_order: 3
 active: true
 image:
