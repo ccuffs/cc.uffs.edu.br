@@ -38,11 +38,11 @@ Cleiton Puttlitz | Braulio Adriano de Mello | Intervalo adaptativo entre checkpo
 {:.table}
 |--- |--- |--- |--- |--- |--- |
 Discente | Orientador(a) | Título | Banca |	Data e horário | Link de acesso |
-MAIKON DOUGLAS DE SOUZA PEREIRA | Braulio Adriano de Mello | Uso de Simulação na solução de Problemas no Transporte Coletivo Urbano | Adriano Padilha; Emílio Wuerges; | 14/05/2021 08:00 | [meet.google.com/xjy-hktu-tyn](https://meet.google.com/xjy-hktu-tyn) |
-MARCOS ALEXANDRE ZORNITTA FERREIRA | Adriano Sanick Padilha | Análise Comparativa de Desempenho de Controladores Industriais Comerciais e Raspberry Utilizando Plataforma CodeSYS | Luciano L. Caimi; Braulio A. Mello | 14/05/2021 20:00 | [meet.google.com/fsi-fexh-eyn](https://meet.google.com/fsi-fexh-eyn) |
-RENAN GROTH PERSZEL | Fernando Bevilacqua | A realidade aumentada como facilitador para ensino-aprendizagem de medicina na UFFS | Andressa Sebben; Thais Nascimento Helou | 19/05/2021 19:00 | [http://meet.google.com/pfz-awmi-hbf](https://meet.google.com/pfz-awmi-hbf) |
-VITOR ANTONIO APOLINARIO | Guilherme Dal Bianco | Predição de defeitos de código via Machine Learning | Denio Duarte; Braulio A. Mello | 20/05/2021 10:00 | |
-OTÁVIO AUGUSTO DELLAY SECCO | Fernando Bevilacqua | Geração Procedural de Conteúdo Utilizando Algoritmos de Ruídos | Adriano Padilha; Emílio Wuerges | 20/05/2021 13:00 | [meet.google.com/yoa-mdim-kdi](https://meet.google.com/yoa-mdim-kdi) |
-TATIANE ARNDT BARBOSA | Andressa Sebben | O uso da tecnologia no processo de aprendizagem de crianças com o Transtorno do Espectro Autista | Raquel A. Pegoraro; Fernando Bevilacqua | 21/05/2021 10:30 | [meet.google.com/qyn-ybci-vgo](https://meet.google.com/qyn-ybci-vgo) |
-FABIO ALECSANDRO BACIN | Emílio Wuerges | Provas de Conhecimento Zero(ZKP) Discrição na Identificação do Eleitor Utilizando o Algoritmo ZKSNARKS | Braulio A. Mello; Marco A. Spohn; | 21/05/2021 20:00 | [meet.google.com/swt-ssdy-isw](https://meet.google.com/swt-ssdy-isw) |
+Maikon Douglas De Souza Pereira | Braulio Adriano de Mello | Uso de Simulação na solução de Problemas no Transporte Coletivo Urbano | Adriano Padilha; Emílio Wuerges; | 14/05/2021 08:00 | [meet.google.com/xjy-hktu-tyn](https://meet.google.com/xjy-hktu-tyn) |
+Marcos Alexandre Zornitta Ferreira | Adriano Sanick Padilha | Análise Comparativa de Desempenho de Controladores Industriais Comerciais e Raspberry Utilizando Plataforma CodeSYS | Luciano L. Caimi; Braulio A. Mello | 14/05/2021 20:00 | [meet.google.com/fsi-fexh-eyn](https://meet.google.com/fsi-fexh-eyn) |
+Renan Groth Perszel | Fernando Bevilacqua | A realidade aumentada como facilitador para ensino-aprendizagem de medicina na UFFS | Andressa Sebben; Thais Nascimento Helou | 19/05/2021 19:00 | [http://meet.google.com/pfz-awmi-hbf](https://meet.google.com/pfz-awmi-hbf) |
+Vitor Antonio Apolinario | Guilherme Dal Bianco | Predição de defeitos de código via Machine Learning | Denio Duarte; Braulio A. Mello | 20/05/2021 10:00 | |
+Otávio Augusto Dellay Secco | Fernando Bevilacqua | Geração Procedural de Conteúdo Utilizando Algoritmos de Ruídos | Adriano Padilha; Emílio Wuerges | 20/05/2021 13:00 | [meet.google.com/yoa-mdim-kdi](https://meet.google.com/yoa-mdim-kdi) |
+Tatiane Arndt Barbosa | Andressa Sebben | O uso da tecnologia no processo de aprendizagem de crianças com o Transtorno do Espectro Autista | Raquel A. Pegoraro; Fernando Bevilacqua | 21/05/2021 10:30 | [meet.google.com/qyn-ybci-vgo](https://meet.google.com/qyn-ybci-vgo) |
+Fabio Alecsandro Bacin | Emílio Wuerges | Provas de Conhecimento Zero(ZKP) Discrição na Identificação do Eleitor Utilizando o Algoritmo ZKSNARKS | Braulio A. Mello; Marco A. Spohn; | 21/05/2021 20:00 | [meet.google.com/swt-ssdy-isw](https://meet.google.com/swt-ssdy-isw) |
 
