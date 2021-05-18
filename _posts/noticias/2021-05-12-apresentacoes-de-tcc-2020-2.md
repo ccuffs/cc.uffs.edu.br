@@ -30,6 +30,7 @@ Dayan Roberto Weber | Claunir Pavan | Modelo para integração de Sistema de Ges
 Raquel Hengen Ribeiro | Guilherme Dal Bianco | Identificação de bugs em código-fonte usando aprendizagem de máquina |  Denio Duarte; Geomar Schreiner | 19/05/2021 16:00 | [meet.google.com/ckw-sunp-xny](https://meet.google.com/ckw-sunp-xny) |
 Andrew Malta Silva | Denio Duarte | An exploratory analysis using topic modeling: tracking evolution and loyalty from Stack Overflow users’ interests | Fernando Bevilacqua; Guilherme Dal Bianco | 19/05/2021 17:30 | [meet.google.com/oie-xzgm-kfj](https://meet.google.com/oie-xzgm-kfj) (em inglês) |
 Murillo André Maleski | Fernando Bevilacqua | Desenvolvimento de um jogo com Realidade Aumentada para auxiliar na aprendizagem de piano |  Emilio Wuerges; Andressa Sebben | 20/05/2021 16:00 | [meet.google.com/oha-jnrw-ujo](https://meet.google.com/oha-jnrw-ujo) |
+Watson Vieira Costa Junior | Fernando Bevilacqua | Aplicativo para Realidade Aumentada para o uso do curso de Medicina da UFFS |  Emilio Wuerges; Andressa Sebben | 20/05/2021 14:00 | [meet.google.com/bei-tmsx-gxc](https://meet.google.com/bei-tmsx-gxc) |
 Cleiton Puttlitz | Braulio Adriano de Mello | Intervalo adaptativo entre checkpoints  em simulação distribuída | Claunir Pavan; Emílio Wuerges | 21/05/2021 08:00 | [meet.google.com/fkj-cicq-gce](https://meet.google.com/fkj-cicq-gce) |
 
 
