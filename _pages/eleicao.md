@@ -23,6 +23,7 @@ Eleição para a escolha de Coordenador e Coordenador Ajunto do curso para os pe
 {:.table.mt-5}
 | Descrição  | Data  |
 |---|:---:|
+| [Comunicado referência à votação](https://cdn.uffs.cc/computacao.ch/editais/CCCC-CH-001-2021/edital-CCCC-CH-001-2021-comunicado-votacao.pdf) | 20/05/2021  |
 | [Lista Final de Votantes](https://cdn.uffs.cc/computacao.ch/editais/CCCC-CH-001-2021/edital-CCCC-CH-001-2021-lista-final-votantes.pdf) | 17/05/2021  |
 | [Homologação Final das Chapas](https://cdn.uffs.cc/computacao.ch/editais/CCCC-CH-001-2021/edital-CCCC-CH-001-2021-homologacao-final-chapas.pdf) | 13/05/2021  |
 | [Lista Provisória de Votantes](https://cdn.uffs.cc/computacao.ch/editais/CCCC-CH-001-2021/edital-CCCC-CH-001-2021-lista-provisoria-votantes.pdf) | 12/05/2021  |
