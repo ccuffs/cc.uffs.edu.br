@@ -3,7 +3,7 @@ title: "Identidade visual"
 layout: post
 categories: noticias
 last_modified_at: 2020-11-05T14:18:00-03:00
-highlight: true
+highlight: false
 highlight_order: 3
 active: true
 image:
