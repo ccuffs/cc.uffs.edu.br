@@ -51,7 +51,7 @@ permalink: /ensino/monitoria/
                             <span class="badge bg-red-500 text-light">remoto</span>
                         </p>
                         <p>
-                            <b>Monitor:</b> Alisson Luan de Lima Peloso - alisson.luan2000@gmail.com
+                            <b>Monitor:</b> Fabrício Romani - fabricioz.1.2@hotmail.com
                             <span class="badge bg-indigo-500">
                                 <a
                                     href="https://discord.gg/knABxNp"
@@ -62,7 +62,7 @@ permalink: /ensino/monitoria/
                             </span>
                         </p>
                         <p>
-                            <b>Monitor:</b> Bruno Ribeiro - brunoribeiroinf@gmail.com
+                            <b>Monitor:</b> Tiago
                             <span class="badge bg-indigo-500">
                                 <a
                                     href="https://discord.gg/knABxNp"
@@ -73,7 +73,7 @@ permalink: /ensino/monitoria/
                             </span>
                         </p>
                         <p>
-                            <b>Monitor:</b> Gustavo Costella Barbosa - gustavocostellabarbosa@hotmail.com
+                            <b>Monitor:</b> Philipe
                             <span class="badge bg-indigo-500">
                                 <a
                                     href="https://discord.gg/knABxNp"
@@ -83,6 +83,17 @@ permalink: /ensino/monitoria/
                                 </a>
                             </span>
                         </p>
+                        <p>
+                              <b>Monitor:</b> Rodrigo
+                              <span class="badge bg-indigo-500">
+                                  <a
+                                      href="https://discord.gg/knABxNp"
+                                      class="text-indigo-50 hover:text-indigo-50"
+                                  >
+                                      discord
+                                  </a>
+                              </span>
+                          </p>
                     </div>
                 </div> 
             </div> 
@@ -92,19 +103,19 @@ permalink: /ensino/monitoria/
   </div>
 </section>
 
-<h3>Horários de atendimento 2020/2</h3>
+<h3>Horários de atendimento 2021/1</h3>
 
 {:.table}
-|  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira   | Quinta-Feira |   Sexta-Feira  |
-|:-------------:|:--------------:|:--------------:|:--------------:|:------------:|:--------------:|
-| 07:30 - 10:20 |       -        |   Alisson      |   Alisson      |  Alisson     | Alisson/Bruno/Gustavo |
-| 10:20 - 12:00 |       -        | Alisson/Gustavo| Alisson/Gustavo| Alisson/Gustavo | Alisson/Gustavo |
-|**Vespertino** |       -        |                |              |              |                |
-| 13:30 - 16:00 |       -        | Gustavo        |      -       |   Gustavo    |    -           |
-| 16:00 - 18:00 |       -        |       -        |    -         |      -       |    -           |
-| **Noturno**   |                |                |              |              |                |
-| 19:10 - 21:00 | Alisson        |        Bruno   | Bruno        | Bruno        | Bruno          |
-| 21:00 - 22:30 | Alisson        |        Bruno   | Bruno/Gustavo| Bruno        | Bruno          |
+|  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira   | Quinta-Feira   |   Sexta-Feira  |
+|:-------------:|:--------------:|:--------------:|:--------------:|:------------:  |:--------------:|
+| 07:30 - 10:20 | Tiago          |                | Tiago          |                | Tiago          |
+| 10:20 - 12:00 | Philipe        | Tiago          | Tiago          | Philipe        | Tiago          |
+|**Vespertino** |       -        |       -        |       -        |       -        |        -       |
+| 13:30 - 16:00 | Philipe        |                | Philipe        | Philipe        |Fabricio/Philipe|
+| 16:00 - 18:00 | Fabrício       |                |Fabricio/Philipe|Fabricio/Philipe|Fabricio/Philipe|
+| **Noturno**   |     -          |        -       |       -        |       -        |       -        |
+| 19:10 - 21:00 | Rodrigo        |Fabrício/Rodrigo|Fabrício/Rodrigo| Rodrigo        | Rodrigo        |
+| 21:00 - 22:30 | Rodrigo        |Fabrício/Rodrigo|Fabrício/Rodrigo| Rodrigo        | Rodrigo        |
 
 
 <section class="mt-4 mb-4">
@@ -143,7 +154,7 @@ permalink: /ensino/monitoria/
   </div>
 </section>
 
-<!-- <h3>Horários de atendimento 2020/2</h3> -->
+<!-- <h3>Horários de atendimento 2021/1</h3> -->
 
 
 <section class="mt-4 mb-4">
@@ -186,7 +197,7 @@ permalink: /ensino/monitoria/
   </div>
 </section>
 
-<h3>Horários de atendimento 2020/2</h3>
+<h3>Horários de atendimento 2021/1</h3>
 
 {:.table}
 |  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira | Quinta-Feira |   Sexta-Feira  |
