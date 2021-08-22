@@ -9,14 +9,14 @@
   position: Docente
   #bio: "What do you want, jewels? I am a very extravagant man."
   #bio_academic: "Academic What do you want, jewels? I am a very extravagant man."
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/fernando.gif
   twitter: as3gamegears
 
 - person:
   name: Tiago Braga
   email: tiago.braga@uffs.edu.br 
-  position: tae
-  avatar: /images/bio-photo.jpg
+  position: Tecnico
+  avatar: /images/people/tiago.jpg
 
 - person:
   name: Adriano Sanick Padilha
@@ -24,7 +24,7 @@
   email: padilha@uffs.edu.br
   position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4592683E6
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/padilha.jfif
 
 - person:
   name: Andressa Sebben
@@ -32,7 +32,7 @@
   email: asebben@uffs.edu.br
   position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4753896U6
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/andressa.png
 
 - person:
   name: Braulio Adriano de Mello
@@ -40,7 +40,7 @@
   email: braulio@uffs.edu.br
   position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4707362Y6
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/braulio.jpg
 
 - person:
   name: Claunir Pavan
@@ -48,7 +48,7 @@
   email: claunir.pavan@uffs.edu.br
   position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4706941A9
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/pavan.gif
 
 - person:
   name: Denio Duarte
@@ -56,7 +56,7 @@
   email: duarte@uffs.edu.br
   position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4709589E5
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/denio.jpg
 
 - person:
   name: Emílio Wuerges
@@ -64,7 +64,7 @@
   email: emilio.wuerges@uffs.edu.br
   position: Docente 
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4716165D0
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/emilio.jpg
 
 - person:
   name: Graziela Simone Tonin
@@ -72,7 +72,7 @@
   email: graziela.tonin@uffs.edu.br
   position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4138361P7
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/graziela.gif
 
 - person:
   name: Guilherme Dal Bianco
@@ -80,7 +80,7 @@
   email: guilherme.dalbianco@uffs.edu.br
   position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4138098P8
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/guilherme.gif
 
 - person:
   name: José Carlos Bins Filho
@@ -88,7 +88,7 @@
   email: jose.binsfilho@uffs.edu.br
   position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4782175D9
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/bins.gif
 
 - person:
   name: Luciano Lores Caimi
@@ -96,7 +96,7 @@
   email: lcaimi@uffs.edu.br
   position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4790813H0
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/caimi.jfif
 
 - person:
   name: Marco Aurélio Spohn
@@ -104,7 +104,7 @@
   email: marco.spohn@uffs.edu.br
   position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4790248U1
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/marco.gif
 
 - person:
   name: Raquel Aparecida Pegoraro
@@ -112,4 +112,4 @@
   email: raquel.pegoraro@uffs.edu.br
   position: Docente
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4776788T1
-  avatar: /images/bio-photo.jpg
+  avatar: /images/people/raquel.jpg
