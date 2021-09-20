@@ -12,6 +12,6 @@ image:
   feature: /images/posts/teaser-luto-400x250.jpg
 ---
 
-O curso de Ciência da Computação, Campus Chapecó, comunica, com extrema tristeza e pesar, o falecimento de sua estudante Daniel Welter da Silva.
+O curso de Ciência da Computação, Campus Chapecó, comunica, com extrema tristeza e pesar, o falecimento de seu estudante Daniel Welter da Silva.
 
 Daniel estava nos últimos semestres do curso de Ciência da Computação.  A comunidade acadêmica solidariza-se com familiares e amigos neste momento de dor e tristeza.
