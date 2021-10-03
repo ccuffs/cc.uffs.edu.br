@@ -36,7 +36,8 @@ a {
     color: inherit;
 }
 
-.dropdown-item:hover, .dropdown-item.active {
+.dropdown-item:hover,
+.dropdown-item.active {
     color: inherit;
     background-color: #4b545c;
 }
@@ -58,7 +59,8 @@ a {
     background-color: #343a40;
 }
 
-.nav-tabs .nav-link:hover, .nav-tabs .nav-link.active {
+.nav-tabs .nav-link:hover,
+.nav-tabs .nav-link.active {
     color: inherit;
     background-color: #43494E;
     border-color: #454d55;
@@ -88,32 +90,44 @@ a {
     background-color: #212121;
 }
 
-.form-control, .form-control:active, .form-control:focus {
+.form-control,
+.form-control:active,
+.form-control:focus {
     border-color: #454d55;
     background-color: #343a40;
     color: #fff;
     /*Change text in autofill textbox */
 }
 
-.form-control:-webkit-autofill, .form-control:active:-webkit-autofill, .form-control:focus:-webkit-autofill {
+.form-control:-webkit-autofill,
+.form-control:active:-webkit-autofill,
+.form-control:focus:-webkit-autofill {
     -webkit-box-shadow: 0 0 0 50px #343a40 inset;
     /* Change the color to your own background color */
     -webkit-text-fill-color: #fff;
 }
 
-.form-control::-webkit-input-placeholder, .form-control:active::-webkit-input-placeholder, .form-control:focus::-webkit-input-placeholder {
+.form-control::-webkit-input-placeholder,
+.form-control:active::-webkit-input-placeholder,
+.form-control:focus::-webkit-input-placeholder {
     color: #888;
 }
 
-.form-control:-ms-input-placeholder, .form-control:active:-ms-input-placeholder, .form-control:focus:-ms-input-placeholder {
+.form-control:-ms-input-placeholder,
+.form-control:active:-ms-input-placeholder,
+.form-control:focus:-ms-input-placeholder {
     color: #888;
 }
 
-.form-control::-ms-input-placeholder, .form-control:active::-ms-input-placeholder, .form-control:focus::-ms-input-placeholder {
+.form-control::-ms-input-placeholder,
+.form-control:active::-ms-input-placeholder,
+.form-control:focus::-ms-input-placeholder {
     color: #888;
 }
 
-.form-control::placeholder, .form-control:active::placeholder, .form-control:focus::placeholder {
+.form-control::placeholder,
+.form-control:active::placeholder,
+.form-control:focus::placeholder {
     color: #888;
 }
 
@@ -169,5 +183,6 @@ a {
 .progress {
     background-color: #343a40;
 }
+
 
 /*# sourceMappingURL=bootstrap-dark.css.map */
