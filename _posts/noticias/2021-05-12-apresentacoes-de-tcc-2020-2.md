@@ -3,7 +3,7 @@ title: "Apresentações de TCC 2020.2"
 layout: post
 categories: noticias
 last_modified_at: 2021-05-12T12:00:00-03:00
-highlight: true
+highlight: false
 highlight_order: 2
 active: true
 tags: [tcc]
