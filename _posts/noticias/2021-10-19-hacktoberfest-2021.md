@@ -31,7 +31,7 @@ Você ganha esses prêmios por cada novo _comentário_, _issue_ ou _pull request
 |:---:|:---:|
 | Comentar issue ou pull request | 1 adesivo + concorre ao sorteio de uma camiseta |
 | Abrir issue nova  | 2 adesivos + concorre ao sorteio de uma camiseta |
-| Criar um pull request  | 1 adesivo + concorre ao sorteio de uma camiseta |
+| Criar um pull request  | 3 adesivos + concorre ao sorteio de uma camiseta |
 | Criar um pull request que resolve uma issue marcada como `hacktoberfest` | 1 camiseta personalizada Hacktoberfest 2021 CC UFFS |
 |||
 
