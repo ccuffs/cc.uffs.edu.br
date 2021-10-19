@@ -1,5 +1,5 @@
-{% if post.author %}
-  {% assign author = site.data.authors[post.author] %}{% else %}{% assign author = site.owner %}
+{% if page.author %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
 {% endif %}
 
 {% if post.date %}
