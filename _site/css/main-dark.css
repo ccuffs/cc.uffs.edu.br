@@ -1,0 +1,89 @@
+:root {
+    --blue: #ff0000;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-light: #bfbfbf;
+    --gray-dark: #343a40;
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --font-family-sans-serif: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+a {
+    color: var(--light);
+}
+
+a:hover {
+    color: var(--gray);
+}
+
+body {
+    font-family: system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    color: var(--gray-light);
+}
+
+table {
+    margin-top: 1em;
+    color: var(--gray-light) !important;
+}
+
+hr:before {
+    background: #8f8f8f;
+}
+
+/* Source: https://codepen.io/yourpalnurav/pen/LqNmzL */
+
+.post-content a {
+    color: var(--color-primary);
+    background: transparent;
+    text-decoration: none;
+    border-bottom: dotted 2px var(--color-primary);
+    padding-bottom: 0.15em;
+    box-sizing: border-box;
+    transition: 0.2s;
+}
+
+.post-content a:hover {
+    color: #222;
+    background: var(--color-primary);
+    transition: all 0.45s cubic-bezier(0.86, 0, 0.07, 1);
+}
+
+@media only screen and (max-width: 1130px) {
+    .post-content {
+        padding: 2em 1em 0em;
+    }
+}
+
+
+.dropdown-item {
+    color: var(--dark);
+}
+
+.nav-tabs .nav-link {
+    background-color: transparent;
+}
+
+.nav-tabs .nav-link:hover {
+    background-color: transparent;
+}
+
+.post-grid-mini p {
+    color: #b0b9c5;
+ }
