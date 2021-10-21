@@ -4,7 +4,7 @@ layout: post
 categories: noticias
 last_modified_at: 2021-10-19T10:34:00-03:00
 highlight: true
-highlight_order: 1
+highlight_order: 2
 active: true
 author: fernando_bevilacqua
 image:
