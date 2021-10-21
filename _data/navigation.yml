@@ -13,7 +13,9 @@
     - title: Infraestrutura
       url: /infra
     - title: Pessoas
-      url: /pessoas
+      url: /pessoas    
+    - title: Turmas
+      url: /turmas
     - title: ---
     - title: Horários
       url: /horario
