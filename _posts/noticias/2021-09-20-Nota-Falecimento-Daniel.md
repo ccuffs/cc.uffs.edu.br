@@ -3,7 +3,7 @@ title: "Nota de falecimento"
 layout: post
 categories: noticias
 last_modified_at: 2021-09-20T20:10:00-03:00
-highlight: true
+highlight: false
 highlight_order: 1
 active: true
 image:
