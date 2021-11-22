@@ -83,7 +83,17 @@ permalink: /ensino/monitoria/
                                 </a>
                             </span>
                         </p>
-                     
+                     <p>
+                            <b>Monitor:</b> Daniel
+                            <span class="badge bg-indigo-500">
+                                <a
+                                    href="https://discord.gg/knABxNp"
+                                    class="text-indigo-50 hover:text-indigo-50"
+                                >
+                                    discord
+                                </a>
+                            </span>
+                        </p>
                     </div>
                 </div> 
             </div> 
@@ -98,14 +108,14 @@ permalink: /ensino/monitoria/
 {:.table}
 |  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira   | Quinta-Feira   |   Sexta-Feira  |
 |:-------------:|:--------------:|:--------------:|:--------------:|:------------:  |:--------------:|
-| 07:30 - 10:20 | Fabricio       |Fabricio        |Fabricio        |                |                |
-| 10:20 - 12:00 | Fabricio       |Fabricio        |Fabricio        |                |                |
+| 07:30 - 10:20 |                |                |                |Daniel          |Daniel          |
+| 10:20 - 12:00 |                |                |                |Daniel          |Daniel          |
 |**Vespertino** |       -        |       -        |       -        |       -        |        -       |
-| 13:30 - 16:00 |                |Fabricio        |                |                |                |
-| 16:00 - 18:00 |Pedro           |                |Pedro           |Pedro           |                |
+| 13:30 - 16:00 |Fabricio        |Fabricio        |Fabricio        |Fabrício/Daniel |Daniel          |
+| 16:00 - 18:00 |                |Fabricio        |Fabrício        |Fabrício        |Daniel          |
 | **Noturno**   |     -          |        -       |       -        |       -        |       -        |
-| 19:10 - 21:00 |Pedro           |                |Pedro           |Pedro           |                |
-| 21:00 - 22:30 |Pedro           |                |Pedro           |Pedro           |                |
+| 19:10 - 21:00 |Pedro/Ryan      |Pedro/Ryan      |Ryan            |Pedro / Ryan    |Pedro           |
+| 21:00 - 22:30 |Pedro/Ryan      |Pedro/Ryan      |Pedro/Ryan      |Pedro           |Pedro           |
 
 
 <section class="mt-4 mb-4">
