@@ -14,7 +14,7 @@ image:
 
 O curso de Ciência da Computação, Campus Chapecó, comunica, com pesar, o falecimento de seu estudante Vinicius Cornelius, de 21 anos.
  
-Vinicius cursava Ciência da Computação (diurno) e estava na sétima fase. Infelizmente, o falecimento ocorreu em um acidente de carro retornando para Três Passos. 
+Vinicius cursava Ciência da Computação (diurno) e estava na sétima fase. Infelizmente, o falecimento ocorreu em um trágico acidente de carro, retornando para Três Passos. 
 
 A comunidade do curso expressa condolências à família e aos amigos.
 
