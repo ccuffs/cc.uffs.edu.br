@@ -47,7 +47,7 @@ permalink: /ensino/monitoria/
                 <div class="row text-left">
                     <div class="col-12">
                         <p>
-                            <b>Prof.</b> Guilherme dal Bianco - guilherme.dalbianco@uffs.edu.br
+                            <b>Prof.</b> Andressa Sebben - asebben@uffs.edu.br
                             <span class="badge bg-red-500 text-light">remoto</span>
                         </p>
                         <p>
@@ -62,7 +62,7 @@ permalink: /ensino/monitoria/
                             </span>
                         </p>
                         <p>
-                            <b>Monitor:</b> Tiago
+                            <b>Monitor:</b> Pedro
                             <span class="badge bg-indigo-500">
                                 <a
                                     href="https://discord.gg/knABxNp"
@@ -73,7 +73,7 @@ permalink: /ensino/monitoria/
                             </span>
                         </p>
                         <p>
-                            <b>Monitor:</b> Philipe
+                            <b>Monitor:</b> Ryan
                             <span class="badge bg-indigo-500">
                                 <a
                                     href="https://discord.gg/knABxNp"
@@ -83,17 +83,17 @@ permalink: /ensino/monitoria/
                                 </a>
                             </span>
                         </p>
-                        <p>
-                              <b>Monitor:</b> Rodrigo
-                              <span class="badge bg-indigo-500">
-                                  <a
-                                      href="https://discord.gg/knABxNp"
-                                      class="text-indigo-50 hover:text-indigo-50"
-                                  >
-                                      discord
-                                  </a>
-                              </span>
-                          </p>
+                     <p>
+                            <b>Monitor:</b> Daniel
+                            <span class="badge bg-indigo-500">
+                                <a
+                                    href="https://discord.gg/knABxNp"
+                                    class="text-indigo-50 hover:text-indigo-50"
+                                >
+                                    discord
+                                </a>
+                            </span>
+                        </p>
                     </div>
                 </div> 
             </div> 
@@ -108,14 +108,14 @@ permalink: /ensino/monitoria/
 {:.table}
 |  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira   | Quinta-Feira   |   Sexta-Feira  |
 |:-------------:|:--------------:|:--------------:|:--------------:|:------------:  |:--------------:|
-| 07:30 - 10:20 | Tiago          |                | Tiago          |                | Tiago          |
-| 10:20 - 12:00 | Philipe        | Tiago          | Tiago          | Philipe        | Tiago          |
+| 07:30 - 10:20 |                |                |                |Daniel          |Daniel          |
+| 10:20 - 12:00 |                |                |                |Daniel          |Daniel          |
 |**Vespertino** |       -        |       -        |       -        |       -        |        -       |
-| 13:30 - 16:00 | Philipe        |                | Philipe        | Philipe        |Fabricio/Philipe|
-| 16:00 - 18:00 | Fabrício       |                |Fabricio/Philipe|Fabricio/Philipe|Fabricio/Philipe|
+| 13:30 - 16:00 |Fabricio        |Fabricio        |Fabricio        |Fabrício/Daniel |Daniel          |
+| 16:00 - 18:00 |                |Fabricio        |Fabrício        |Fabrício        |Daniel          |
 | **Noturno**   |     -          |        -       |       -        |       -        |       -        |
-| 19:10 - 21:00 | Rodrigo        |Fabrício/Rodrigo|Fabrício/Rodrigo| Rodrigo        | Rodrigo        |
-| 21:00 - 22:30 | Rodrigo        |Fabrício/Rodrigo|Fabrício/Rodrigo| Rodrigo        | Rodrigo        |
+| 19:10 - 21:00 |Pedro/Ryan      |Pedro/Ryan      |Ryan            |Pedro / Ryan    |Pedro           |
+| 21:00 - 22:30 |Pedro/Ryan      |Pedro/Ryan      |Pedro/Ryan      |Pedro           |Pedro           |
 
 
 <section class="mt-4 mb-4">
