@@ -4,8 +4,8 @@ layout: post
 categories: noticias
 last_modified_at: 2021-09-20T20:10:00-03:00
 highlight: false
-highlight_order: 1
-active: true
+highlight_order: 2
+active: false
 image:
   teaser: posts/teaser-luto-400x250.jpg
   feature: /images/posts/teaser-luto-400x250.jpg

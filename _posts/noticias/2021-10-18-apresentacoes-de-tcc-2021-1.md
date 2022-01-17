@@ -3,8 +3,8 @@ title: "Apresentações de TCC 2021.1"
 layout: post
 categories: noticias
 last_modified_at: 2021-10-18T07:46:00-03:00
-highlight: true
-highlight_order: 2
+highlight: false
+highlight_order: 4
 active: true
 tags: [tcc]
 image:

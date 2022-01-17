@@ -4,7 +4,7 @@ layout: post
 categories: noticias
 last_modified_at: 2021-10-19T10:34:00-03:00
 highlight: true
-highlight_order: 1
+highlight_order: 3
 active: true
 author: fernando_bevilacqua
 image:
@@ -66,4 +66,4 @@ Não vai perder a chance de incrementar seu portifólio, aprender mais sobre git
 
 ## Divulgue
 
-Convide todo mundo que você conhece para participar do hacktoberfest! Alunos do curso, egressos, seu pet, quem for! Aprender sobre git (e github), open-source e contribuição é importante para nossa área. Espalhe o link [https://uffs.cc/hf](uffs.cc/hf), ganhe prêmios e ainda ajude o curso.
+Convide todo mundo que você conhece para participar do hacktoberfest! Alunos do curso, egressos, seu pet, quem for! Aprender sobre git (e github), open-source e contribuição é importante para nossa área. Espalhe o link [https://uffs.cc/hf](https://uffs.cc/hf), ganhe prêmios e ainda ajude o curso.
