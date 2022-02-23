@@ -83,6 +83,7 @@
   avatar: avatars/emilio.wuerges.png
   linkedin: https://www.linkedin.com/in/emiliowuerges/
   github: wuerges
+  inactive: true
 
 - id: graziela.tonin
   name: Graziela Simone Tonin
