@@ -158,3 +158,15 @@
   bio: "Possui graduação em Ciência da Computação pela Universidade Comunitária da Região de Chapecó - Unochapecó (2013), mestrado em Computação pela Universidade Federal do Rio Grande do Sul - UFRGS (2015) e doutorado em Computação pela Universidade Federal do Rio Grande do Sul - UFRGS (2018)."
   bio_academic: "Possui graduação em Ciência da Computação pela Universidade Comunitária da Região de Chapecó - Unochapecó (2013), mestrado em Computação pela Universidade Federal do Rio Grande do Sul - UFRGS (2015) e doutorado em Computação pela Universidade Federal do Rio Grande do Sul - UFRGS (2018). É professor do magistério superior na Universidade Federal da Fronteira Sul - UFFS no campus de Chapecó - SC desde 2021. Tem experiência no desenvolvimento, análise e implantação de sistemas Web assim como em pesquisas dentro da área de Inteligência Artificial."
   avatar: avatars/felipegrando.jpg
+
+- id: samuel.feitosa
+  name: Samuel da Silva Feitosa
+  title: Dr.
+  email: samuel.feitosa@uffs.edu.br
+  position: professor
+  lattes: http://lattes.cnpq.br/1075888485122711
+  bio: "Bacharel em Ciência da Computação, com especialização em Gestão Empresarial, especialização e licenciatura em Educação Profissional e Tecnológica, especialização em Gestão da Educação Profissional e Tecnológica, mestrado e doutorado em Ciência da Computação."
+  bio_academic: "Bacharel em Ciência da Computação, com especialização em Gestão Empresarial, especialização e licenciatura em Educação Profissional e Tecnológica, especialização em Gestão da Educação Profissional e Tecnológica, mestrado e doutorado em Ciência da Computação. Possui experiência com as linguagens de programação Haskell, Agda, Java, C/C++, Python, dentre outras. Atuou como analista/programador em sistemas de comunicação para transações eletrônicas, drivers para GNU/Linux, sistemas para gerência, controle e segurança de rede e internet e em sistemas de replicação/sincronização de dados. Foi co-autor de projetos selecionados pelos programas PRIME (Primeira Empresa Inovadora) e Sinapse da Inovação. Foi autor de projetos de pesquisa aprovados pelo CNPq, FAPESC e SETEC/MEC. É vice-líder do Grupo de Pesquisa em Informática, Lógica e Matemática do IFSC/CNPq. Trabalhou com pesquisas relacionando linguagens de programação e computação quântica. Atualmente trabalha com pesquisas na área de semântica e sistemas de tipos em linguagens de programação, utilizando testes baseados em propriedades e assistentes de prova interativos, e na área de aprendizagem de máquina aplicada à saúde. Foi professor da Unochapecó, da UFSM e do IFSC. Atualmente é professor na Universidade Federal da Fronteira Sul."
+  github: sfeitosa
+  google_scholar: https://scholar.google.com/citations?user=AP1v3ngAAAAJ
+  avatar: avatars/samuel.feitosa.jpg
