@@ -147,3 +147,13 @@
   bio_academic: "Possui graduação em Ciência da Computação pela UPF - Universidade de Passo Fundo , mestrado em Ciências da Computação pela UFSC - Universidade Federal de Santa Catarina (2002) e doutorado em Engenharia da Produção pela UFRGS - Universidade Federal do Rio Grande do Sul. Professora e pesquisadora na UFFS (Universidade Federal da Fronteira Sul) nas áreas de Engenharia de Software, Planejamento e Gestão de Projetos, com ênfase em projetos de software ágeis. Coordenadora do núcleo de Empreendedorismo e Inovação do curso de Computação. Membro do Empreende UFFS e AGIITEC (Agência de Internacionalização e Inovação Tecnológica). Áreas de pesquisa de interesse: Engenharia de Software; Gestão de Projetos; Métodos ágeis; Empreendedorismo e Inovação; Startups."
   linkedin: https://www.linkedin.com/in/raquel-pegoraro-5297367b/
   avatar: avatars/raquel.pegoraro.jpg
+
+- id: felipegrando
+  name: Felipe Grando
+  title: Dr.
+  email: felipegrando@uffs.edu.br
+  position: professor
+  lattes: http://lattes.cnpq.br/7213762074229435
+  bio: "Possui graduação em Ciência da Computação pela Universidade Comunitária da Região de Chapecó - Unochapecó (2013), mestrado em Computação pela Universidade Federal do Rio Grande do Sul - UFRGS (2015) e doutorado em Computação pela Universidade Federal do Rio Grande do Sul - UFRGS (2018)."
+  bio_academic: "Possui graduação em Ciência da Computação pela Universidade Comunitária da Região de Chapecó - Unochapecó (2013), mestrado em Computação pela Universidade Federal do Rio Grande do Sul - UFRGS (2015) e doutorado em Computação pela Universidade Federal do Rio Grande do Sul - UFRGS (2018). É professor do magistério superior na Universidade Federal da Fronteira Sul - UFFS no campus de Chapecó - SC desde 2021. Tem experiência no desenvolvimento, análise e implantação de sistemas Web assim como em pesquisas dentro da área de Inteligência Artificial."
+  avatar: avatars/felipegrando.jpg
