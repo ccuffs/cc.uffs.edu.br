@@ -106,16 +106,16 @@ permalink: /ensino/monitoria/
 <h3>Horários de atendimento 2021/1</h3>
 
 {:.table}
-|  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira   | Quinta-Feira   |   Sexta-Feira  |
-|:-------------:|:--------------:|:--------------:|:--------------:|:------------:  |:--------------:|
-| 07:30 - 10:20 |                |                |                |Daniel          |Daniel          |
-| 10:20 - 12:00 |                |                |                |Daniel          |Daniel          |
-|**Vespertino** |       -        |       -        |       -        |       -        |        -       |
-| 13:30 - 16:00 |Fabricio        |Fabricio        |Fabricio        |Fabrício/Daniel |Daniel          |
-| 16:00 - 18:00 |                |Fabricio        |Fabrício        |Fabrício        |Daniel          |
-| **Noturno**   |     -          |        -       |       -        |       -        |       -        |
-| 19:10 - 21:00 |Pedro/Ryan      |Pedro/Ryan      |Ryan            |Pedro / Ryan    |Pedro           |
-| 21:00 - 22:30 |Pedro/Ryan      |Pedro/Ryan      |Pedro/Ryan      |Pedro           |Pedro           |
+|  **Matutino** |  Segunda-Feira             |   Terça-Feira  | Quarta-Feira   | Quinta-Feira   |   Sexta-Feira  |
+|:-------------:|:--------------------------:|:--------------:|:--------------:|:------------:  |:--------------:|
+| 07:30 - 10:20 |                            |                |                |Daniel          |Daniel          |
+| 10:20 - 12:00 |                            |                |                |Daniel          |Daniel          |
+|**Vespertino** |       -                    |       -        |       -        |       -        |        -       |
+| 13:30 - 16:00 |Fabricio (presencial - 402B)|Fabricio        |Fabricio        |Fabrício/Daniel |Daniel          |
+| 16:00 - 18:00 |Fabricio (presencial - 402B)|Fabricio        |Fabrício        |                |Daniel          |
+| **Noturno**   |     -                      |        -       |       -        |       -        |       -        |
+| 19:10 - 21:00 |Pedro/Ryan                  |Pedro/Ryan      |Ryan            |Pedro / Ryan    |Pedro           |
+| 21:00 - 22:30 |Pedro/Ryan                  |Pedro/Ryan      |Pedro/Ryan      |Pedro           |Pedro           |
 
 
 <section class="mt-4 mb-4">
