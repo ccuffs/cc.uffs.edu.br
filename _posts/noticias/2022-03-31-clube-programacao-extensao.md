@@ -20,6 +20,6 @@ A seleção do bolsista será realizada através do seguinte [processo seletivo 
 
 ### Resultados 
 
-Os resultados serão apresentados aqui conforme o cronograma previsto.
+O resultado parcial pode ser acessado a partir deste [link](https://drive.google.com/file/d/19eZO7J66YH4EtS0fp1buMhuBnud3F9b4/view?usp=sharing).
 
 ---
