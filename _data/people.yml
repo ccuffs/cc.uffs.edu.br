@@ -39,6 +39,16 @@
   bio_academic: "Possui graduação em Sistemas de Informação (FACIPAL - 2002), especialização em Ciência da Computação (UFSC - 2005) com Habilitação em Magistério Superior (UNOESC - SMO - 2005) e mestrado em Ciência da Computação (UFSC - 2007). Tem experiência na área de Ciência da Computação, atuando principalmente nos seguintes temas: introdução à informática, programação, sistemas de informação e desenvolvimento web. Atualmente é professora Adjunta da Universidade Federal da Fronteira Sul, em Chapecó-SC."
   avatar: avatars/asebben.png
 
+- id: andrei.braga
+  name: Andrei De Almeida Sampaio Braga
+  title: Dr.
+  email: andrei.braga@uffs.edu.br
+  position: professor
+  lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4206643P0
+  bio: "Bacharel em Ciência da Computação (Universidade Federal do Ceará, 2007), mestre em Ciência da Computação (Universidade Estadual de Campinas, 2011) e doutor em Ciência da Computação (Universidade Estadual de Campinas, 2019). Professor adjunto do curso de Ciência da Computação da Universidade Federal da Fronteira Sul. Tem experiência na área de Ciência da Computação, com ênfase em Otimização Combinatória, atuando principalmente nos seguintes temas: programação linear inteira, análise de algoritmos e teoria dos grafos."
+  bio_academic: "Possui graduação em Ciência da Computação pela Universidade Federal do Ceará (2007), mestrado em Ciência da Computação pela Universidade Estadual de Campinas (2011) e doutorado em Ciência da Computação pela Universidade Estadual de Campinas (2019). Atuou como analista de software no Instituto de Pesquisas Eldorado (Campinas, 2015 - 2016). Atualmente é professor adjunto do curso de Ciência da Computação da Universidade Federal da Fronteira Sul. Tem experiência na área de Ciência da Computação, com ênfase em Otimização Combinatória, atuando principalmente nos seguintes temas: programação linear inteira, análise de algoritmos e teoria dos grafos."
+  avatar: avatars/andrei.braga.png
+
 - id: braulio
   name: Braulio Adriano de Mello
   title: Dr
