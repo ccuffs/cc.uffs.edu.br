@@ -2,7 +2,7 @@
 title: "Abertura do semestre 2022.1"
 layout: post
 categories: noticias
-last_modified_at:  2022-30-04T10:34:00-03:00
+last_modified_at:  2022-04-30T10:34:00-03:00
 highlight: true
 highlight_order: 1
 active: true 
