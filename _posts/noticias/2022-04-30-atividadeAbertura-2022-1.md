@@ -13,7 +13,7 @@ image:
 
 Convidamos a comunidade acadêmica do curso para acompanhar a aula inaugural do semestre 2022.1 nesta quarta-feira (04/05), com a seguinte atividade:
 
-Tema: Aplicações 5G
+Tema: Tudo o que não te  falaram sobre 5G
 
 Palestrante: Cleiton Paris
 
