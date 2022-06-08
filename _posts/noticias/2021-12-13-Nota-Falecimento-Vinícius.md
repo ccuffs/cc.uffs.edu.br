@@ -5,7 +5,7 @@ categories: noticias
 last_modified_at: 2021-12-13T08:06:00-05:00
 highlight: false
 highlight_order:5
-active: true
+active: false
 permalink: /:categories/:title/
 image:
   teaser: posts/teaser-luto-400x250.jpg
