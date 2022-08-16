@@ -28,4 +28,8 @@ Mais detalhes sobre as inscrições, etapas de seleção e requisitos no edital.
 Estão previstas 5 (cinco) vagas para bolsistas com carga horária de 20 (vinte) horas semanais.
 O valor da bolsa mensal será de R$1500,00 (um mil e quinhentos reais). 
 
+#### Resultados
+
+O resultado do processo seletivo realizado pode ser encontrado neste [link](https://www.uffs.edu.br/atos-normativos/edital/gr/2022-0879).
+
 ---
