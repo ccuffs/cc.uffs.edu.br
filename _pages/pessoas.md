@@ -40,6 +40,14 @@ permalink: /pessoas/
         </div>
     </div>  
       
+    <div class="row text-left">
+      {% assign in_memorian = site.data.people | where:"position","professor" | sort:"name" %}
+      {% assign in_memorian = professors | where:"in_memorian",true | sort:"name" %}
+      {% for person in in_memorian %}
+        {% include person-grid.html %}
+      {% endfor %}
+    </div>  
+      
     <div class="row-70 mt-5"></div>
     <div class="row">
         <div class="col-12">
