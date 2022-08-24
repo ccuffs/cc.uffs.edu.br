@@ -46,9 +46,9 @@ permalink: /ensino/monitoria/
             <div class="card-body">
                 <div class="row text-left">
                     <div class="col-12">
-                        <p>
+<!--                         <p>
                             <b>Prof.</b> Andressa Sebben - asebben@uffs.edu.br
-                            <span class="badge bg-red-500 text-light">remoto</span>
+                          
                         </p>
                         <p>
                             <b>Monitor:</b> Fabrício Romani - fabricioz.1.2@hotmail.com
@@ -93,7 +93,7 @@ permalink: /ensino/monitoria/
                                     discord
                                 </a>
                             </span>
-                        </p>
+                        </p> 
                     </div>
                 </div> 
             </div> 
@@ -101,9 +101,9 @@ permalink: /ensino/monitoria/
       </div>
     </div>
   </div>
-</section>
+</section>-->
 
-<h3>Horários de atendimento 2021/1</h3>
+<!-- <h3>Horários de atendimento 2021/1</h3>
 
 {:.table}
 |  **Matutino** |  Segunda-Feira             |   Terça-Feira  | Quarta-Feira   | Quinta-Feira   |   Sexta-Feira  |
@@ -117,7 +117,7 @@ permalink: /ensino/monitoria/
 | 19:10 - 21:00 |Pedro/Ryan                  |Pedro/Ryan      |Ryan            |Pedro / Ryan    |Pedro           |
 | 21:00 - 22:30 |Pedro/Ryan                  |Pedro/Ryan      |Pedro/Ryan      |Pedro           |Pedro           |
 
-
+ -->
 <section class="mt-4 mb-4">
   <div class="container">
     <div class="row justify-content-center">
@@ -143,7 +143,7 @@ permalink: /ensino/monitoria/
                     <div class="col-12">
                         <p>
                             <b>Prof.</b> Luciano L. Caimi - lcaimi@uffs.edu.br
-                            <span class="badge bg-red-500 text-light">remoto</span>
+                           
                         </p>
                     </div>
                 </div> 
@@ -157,7 +157,7 @@ permalink: /ensino/monitoria/
 <!-- <h3>Horários de atendimento 2021/1</h3> -->
 
 
-<section class="mt-4 mb-4">
+<!-- <section class="mt-4 mb-4">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 text-left">
@@ -165,10 +165,10 @@ permalink: /ensino/monitoria/
         <hr/>
         <p>
             A monitoria de cálculo tem como objetivo auxiliar aqueles alunos que sentem dificuldade no raciocínio matemático, por ser uma área que geralmente apresenta maiores desafios. 
-            <!-- O programa tem a modalidade online, onde o aluno pode enviar suas duvidas para o monitor atráves das redes sociais e ter um atendimento mais rápido. -->
+             O programa tem a modalidade online, onde o aluno pode enviar suas duvidas para o monitor atráves das redes sociais e ter um atendimento mais rápido. 
         </p>
         <p>Componentes Curriculares Atendidos:</p>
-        <li>Cáculo A</li>
+<!--         <li>Cáculo A</li>
         <li>Cáculo B</li>
         <li>Cáculo C</li>
         <li>Cáculo I</li>
@@ -182,11 +182,9 @@ permalink: /ensino/monitoria/
                     <div class="col-12">
                         <p>
                             <b>Prof.</b> Milton Kist - milton.kist@uffs.edu.br
-                            <span class="badge bg-red-500 text-light">remoto</span>
                         </p>
                         <p>
                             <b>Monitor:</b> Marcos Vinícius Farfus Cavalli - marcos.farfus@gmail.com - (49) 9 9172-5393
-                            <span class="badge bg-red-500 text-light">remoto</span>
                         </p>
                     </div>
                 </div> 
@@ -195,11 +193,11 @@ permalink: /ensino/monitoria/
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
-<h3>Horários de atendimento 2021/1</h3>
+<!-- <h3>Horários de atendimento 2021/1</h3> --> -->
 
-{:.table}
+<!-- {:.table}
 |  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira | Quinta-Feira |   Sexta-Feira  |
 |:-------------:|:--------------:|:--------------:|:------------:|:------------:|:--------------:|
 | 10:10 - 11:00 | Monitoria      | Monitoria      | -            |  -           | -              |
@@ -212,4 +210,4 @@ permalink: /ensino/monitoria/
 | 17:10 - 18:00 | -              | -              | -            |  -           | -              |
 | **Noturno**   |                |                |              |              |                |
 | 18:00 - 19:00 | Monitoria      | -              | Monitoria    | Monitoria    | -              |
-| 19:00 - 19:50 | Monitoria      | -              | Monitoria    | Monitoria    | -              |
+| 19:00 - 19:50 | Monitoria      | -              | Monitoria    | Monitoria    | -              | -->
