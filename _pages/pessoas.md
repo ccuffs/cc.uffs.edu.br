@@ -46,7 +46,7 @@ permalink: /pessoas/
     <div class="row text-left">
       {% assign ex = site.data.people | where:"position","professor" | sort:"name" %}
       {% assign ex = ex | where:"inactive",true | sort:"name" %}
-      {% for person in away %}
+      {% for person in ex %}
         {% include person-grid.html %}
       {% endfor %}
     </div>  
