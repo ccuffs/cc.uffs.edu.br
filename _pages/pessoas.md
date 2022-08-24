@@ -43,7 +43,7 @@ permalink: /pessoas/
       
     <div class="row text-left">
       {% assign in_memorian = site.data.people | where:"position","professor" | sort:"name" %}
-      {% assign in_memorian = professors | where:"in_memorian",true | sort:"name" %}
+      {% assign in_memorian = in_memorian | where:"in_memorian",true | sort:"name" %}
       {% for person in in_memorian %}
         {% include person-grid.html %}
       {% endfor %}
