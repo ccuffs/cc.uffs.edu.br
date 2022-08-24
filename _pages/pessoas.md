@@ -33,13 +33,6 @@ permalink: /pessoas/
       {% endfor %}
     </div>
      
-    <div class="row-50"></div>
-    <div class="row">
-        <div class="col-12">
-            <h2>In memorian</h2>
-            <hr />
-        </div>
-    </div>  
       
     <div class="row-50"></div>
     <div class="row">
@@ -56,6 +49,15 @@ permalink: /pessoas/
         {% include person-grid.html %}
       {% endfor %}
     </div>  
+      
+      
+    <div class="row-50"></div>
+    <div class="row">
+        <div class="col-12">
+            <h2>In memorian</h2>
+            <hr />
+        </div>
+    </div>    
       
     <div class="row text-left">
       {% assign in_memorian = site.data.people | where:"position","professor" | sort:"name" %}
