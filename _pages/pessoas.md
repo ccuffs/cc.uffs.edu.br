@@ -41,13 +41,29 @@ permalink: /pessoas/
         </div>
     </div>  
       
+    <div class="row-50"></div>
+    <div class="row">
+        <div class="col-12">
+            <h2>Afastados</h2>
+            <hr />
+        </div>
+    </div>  
+      
+    <div class="row text-left">
+      {% assign away = site.data.people | where:"position","professor" | sort:"name" %}
+      {% assign away = away | where:"away",true | sort:"name" %}
+      {% for person in away %}
+        {% include person-grid.html %}
+      {% endfor %}
+    </div>  
+      
     <div class="row text-left">
       {% assign in_memorian = site.data.people | where:"position","professor" | sort:"name" %}
       {% assign in_memorian = in_memorian | where:"in_memorian",true | sort:"name" %}
       {% for person in in_memorian %}
         {% include person-grid.html %}
       {% endfor %}
-    </div>  
+    </div>    
       
     <div class="row-70 mt-5"></div>
     <div class="row">
