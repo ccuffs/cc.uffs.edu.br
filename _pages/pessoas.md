@@ -38,6 +38,22 @@ permalink: /pessoas/
     <div class="row-50"></div>
     <div class="row">
         <div class="col-12">
+            <h2>Ex-Professores</h2>
+            <hr />
+        </div>
+    </div>  
+      
+    <div class="row text-left">
+      {% assign ex = site.data.people | where:"position","professor" | sort:"name" %}
+      {% assign ex = ex | where:"inactive",true | sort:"name" %}
+      {% for person in away %}
+        {% include person-grid.html %}
+      {% endfor %}
+    </div>  
+      
+    <div class="row-50"></div>
+    <div class="row">
+        <div class="col-12">
             <h2>Afastados</h2>
             <hr />
         </div>
