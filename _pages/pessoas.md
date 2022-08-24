@@ -27,7 +27,8 @@ permalink: /pessoas/
     <div class="row text-left">
       {% assign professors = site.data.people | where:"position","professor" | sort:"name" %}
       {% assign professors = professors | where:"inactive",nil | sort:"name" %}
-      {% assign professors = professors | where:"in_memorian",nil | sort:"name" %}  
+      {% assign professors = professors | where:"in_memorian",nil | sort:"name" %} 
+      {% assign professors = professors | where:"away",nil | sort:"name" %}   
       {% for person in professors %}
         {% include person-grid.html %}
       {% endfor %}
