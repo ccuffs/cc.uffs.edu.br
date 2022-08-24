@@ -31,6 +31,15 @@ permalink: /pessoas/
         {% include person-grid.html %}
       {% endfor %}
     </div>
+     
+    <div class="row-50"></div>
+    <div class="row">
+        <div class="col-12">
+            <h2>In memorian</h2>
+            <hr />
+        </div>
+    </div>  
+      
     <div class="row-70 mt-5"></div>
     <div class="row">
         <div class="col-12">
