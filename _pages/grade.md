@@ -9,7 +9,7 @@ permalink: /grade/
         <div class="col-md-10">
             <h2>Grade do bacharelado vespertino</h2>
             <p class="lead">Duração mínima de 8 semestres.</p>
-            <p class="mt-4"><a class="btn btn-info" href="https://www.uffs.edu.br/campi/chapeco/cursos/graduacao/ciencia-da-computacao/documentos">Ver projeto pedagógico</a></p>
+            <p class="mt-4"><a class="btn btn-info" href="https://www.uffs.edu.br/atos-normativos/ppc/ccccch/2017-0002/@@download/documento_historico">Ver PPC atual</a></p>
         </div>
         <div class="col-md-2">
             <p><img alt="Sol" class="object-scale-down h-auto w-40 filter-black-to-yellow mx-auto d-block" src="{{ site.url }}/images/icons/sun.svg"></p>
