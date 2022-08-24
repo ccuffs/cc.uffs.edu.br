@@ -7,7 +7,7 @@ permalink: /pessoas/
 <div class="row align-items-center pt-2 pt-lg-5">
     <div class="col-md-8">
         <h2>Pessoas</h2>
-        <p class="lead">O curso de Ciência da Computação é formado por 14 professores do domínio específico, 2 técnico-administrativos em educação (TAE) e aproximadamente 400 alunos.</p>
+        <p class="lead">O curso de Ciência da Computação é formado por 12 professores do domínio específico, 2 técnico-administrativos em educação (TAE) e aproximadamente 400 alunos.</p>
     </div>
     <div class="col-md-1"></div>
     <div class="col-md-3">
