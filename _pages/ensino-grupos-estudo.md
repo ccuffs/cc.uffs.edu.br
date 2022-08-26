@@ -31,7 +31,7 @@ permalink: /ensino/grupos-estudo/
   </div>
 </div>
 
-<div class="row post-grid-mini mt-4">
+<!-- <div class="row post-grid-mini mt-4">
   <div class="col-1">
       <img alt="image" src="../../images/illustrations/visao-illustration.svg">
   </div>
@@ -62,6 +62,6 @@ permalink: /ensino/grupos-estudo/
         <i class="fa fa-user"></i> Junior Vitor Ramisch <small>(aluno coordenador)</small>
     </p>
   </div>
-</div>
+</div> -->
 
 ---
