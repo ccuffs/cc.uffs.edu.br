@@ -39,13 +39,13 @@ permalink: /ensino/monitoria/
         <li>Algoritmos e Programação</li>
         <li>Estrutura de Dados</li>
         <li>Programação I</li>
-        <div class="card mt-5">
+<!--         <div class="card mt-5">
             <div class="card-header">
                 <h4>Contatos e Locais de Atendimento</h4>
             </div>
             <div class="card-body">
                 <div class="row text-left">
-                    <div class="col-12">
+                    <div class="col-12"> -->
 <!--                         <p>
                             <b>Prof.</b> Andressa Sebben - asebben@uffs.edu.br
                           
@@ -118,7 +118,7 @@ permalink: /ensino/monitoria/
 | 21:00 - 22:30 |Pedro/Ryan                  |Pedro/Ryan      |Pedro/Ryan      |Pedro           |Pedro           |
 
  -->
-<section class="mt-4 mb-4">
+<!-- <section class="mt-4 mb-4">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 text-left">
@@ -152,7 +152,7 @@ permalink: /ensino/monitoria/
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 <!-- <h3>Horários de atendimento 2021/1</h3> -->
 
