@@ -114,8 +114,9 @@
   position: professor
   lattes: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4138098P8
   bio: "Professor na UFFS onde desempenha atividades de pesquisa e de ensino. É doutor em Ciência da Computação pela UFRGS (2014). Sua pesquisa concentra-se nas áreas de integração e recuperação de informações."
-  bio_academic: "Guilherme Dal bianco é professor na Universidade Federal da Fronteira Sul (UFFS) onde desempenha atividades de pesquisa e de ensino. Completou o doutorado em Ciência da Computação na Universidade Federal do Rio Grande do Sul (2014) e graduação em Engenharia de computação pela Universidade Federal do Rio Grande (2007). Sua pesquisa concentra-se nas áreas de Banco de dados, Mineração e integração de informações."
+  bio_academic: "Guilherme Dal bianco é professor na Universidade Federal da Fronteira Sul (UFFS) onde desempenha atividades de pesquisa e de ensino. Completou o doutorado em Ciência da Computação na Universidade Federal do Rio Grande do Sul (2014) e a graduação em Engenharia de computação pela Universidade Federal do Rio Grande (2007). Sua pesquisa concentra-se nas áreas de Banco de dados, Mineração e integração de informações."
   avatar: avatars/guilherme.dalbianco.jpg
+  github: dbguilherme
 
 - id: jose.binsfilho
   name: José Carlos Bins Filho
