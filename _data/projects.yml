@@ -299,7 +299,7 @@
 
 - project:
   type: project-research
-  active: true
+  active: false
   author: Braulio Adriano de Mello
   author_id: braulio
   title: Coordenação entre técnicas de simulação para interoperabilidade de componentes em modelos heterogêneos
@@ -327,7 +327,7 @@
 
 - project:
   type: project-research
-  active: true
+  active: false
   author: Claunir Pavan
   author_id: claunir.pavan
   role: Coordenador
@@ -341,7 +341,7 @@
 
 - project:
   type: project-research
-  active: true
+  active: false
   author: Claunir Pavan
   author_id: claunir.pavan
   role: Colaborador
@@ -355,7 +355,7 @@
 
 - project:
   type: project-research
-  active: true
+  active: false
   author: Claunir Pavan
   author_id: claunir.pavan
   role: Coordenador
@@ -437,7 +437,7 @@
 
 - project:
   type: project-extension
-  active: true
+  active: false
   author: Claunir Pavan
   author_id: claunir.pavan
   role: Coordenador
@@ -483,7 +483,7 @@
 
 - project:
   type: project-research
-  active: true
+  active: false
   author: Raquel Aparecida Pegoraro
   author_id: raquel.pegoraro
   role: Coordenadora
@@ -496,7 +496,7 @@
 
 - project:
   type: project-research
-  active: true
+  active: false
   author: Raquel Aparecida Pegoraro
   author_id: raquel.pegoraro
   role: Coordenadora
