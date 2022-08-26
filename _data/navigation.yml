@@ -25,6 +25,9 @@
     - title: ---
     - title: Notícias
       url: /noticias
+    - title: ---
+    - title: FAQ
+      url: /faq
 
 - title: Ensino
   excerpt: "Ações voltadas ao ensino"

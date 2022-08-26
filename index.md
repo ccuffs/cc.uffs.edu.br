@@ -70,6 +70,13 @@ wide:
                 {% endfor %}
                 <p class="text-center"><a href="/vagas" class="btn btn-sm btn-outline-secondary">Ver mais vagas</a></p>
             </div>
+            <!-- faq -->
+            <div class="tab-pane fade" id="faq" role="tabpanel" aria-labelledby="faq-tab">
+                {% for post in site.categories.faq %}
+                    {% include post-row.html %}
+                {% endfor %}
+                <p class="text-center"><a href="/faq" class="btn btn-sm btn-outline-secondary">faq</a></p>
+            </div>
         </div>
       </div>
     </div>

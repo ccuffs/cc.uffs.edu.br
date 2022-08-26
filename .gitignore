@@ -9,3 +9,5 @@ _asset_bundler_cache
 .jekyll-metadata
 .jekyll-cache
 /_data/commit_info.yml
+Gemfile.lock
+Gemfile
