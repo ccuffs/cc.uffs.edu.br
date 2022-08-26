@@ -5,5 +5,3 @@ gem "jekyll"
 gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "jekyll-feed", "=0.5.1"
-
-gem "webrick", "~> 1.7"
