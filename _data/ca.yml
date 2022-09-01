@@ -1,0 +1,51 @@
+# CA People
+
+- id: andrew.gomes
+  name: Andrew Gabriel
+  email: andrew.gabrielgomes@gmail.com
+  position: Presidente
+  github: Andrewgaabriel
+
+- id: natalia.banhara
+  name: Natália Banhara
+  position: Vice-Presidente
+  email: natalia.banhara25@gmail.com
+  github: NathyBanhara
+
+- id: bruna.disner
+  name: Bruna Gabriela Disner
+  position: Secretária Geral
+  email: bruna.disner@gmail.com
+  github: Brunadisner
+
+- id: gustavo.sutil
+  name: Gustavo Sutil
+  position: Tesoureiro Geral
+  email: gustavosutil242@gmail.com
+  github: gustavoSutil
+
+- id: aline.morais
+  name: Aline Faria Morais
+  position: 1ª Secretária de Eventos
+  email: alinefmorais29@gmail.com
+  github: AlineFMorais
+
+- id: larissa.mones
+  name: Larissa Mones Bedin
+  position: 2ª Secretária de Eventos
+  email: larissamones12@gmail.com
+  github: larimones
+
+- id: guilherme.ribeiro
+  name: Guilherme Ribeiro
+  position: 1º Secretário de Marketing
+  email: ribeiroscortegagna3@gmail.com
+
+- id: thaila.roani
+  name: Thaila Roanni
+  position: 2ª Secretária de Marketing
+  email: thailaroani@gmail.com
+  github: smlltox
+
+
+
