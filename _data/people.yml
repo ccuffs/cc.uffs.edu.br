@@ -184,3 +184,26 @@
   github: sfeitosa
   google_scholar: https://scholar.google.com/citations?user=AP1v3ngAAAAJ
   avatar: avatars/samuel.feitosa.jpg
+ 
+ 
+ - id: marcelo.pinto
+  name: Marcelo Cezar Pinto
+  title: Msc.
+  email: 
+  position: professor
+  lattes: http://lattes.cnpq.br/8718342523147564 
+  inactive: true
+  
+  - id: rafael.torchelsen
+  name: Rafael Piccin Torchelsen
+  title: Dr.
+  email: 
+  position: professor
+  lattes: http://lattes.cnpq.br/4828490550640720
+  inactive: true
+  
+  
+  
+  
+  
+  
