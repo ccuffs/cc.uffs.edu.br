@@ -41,7 +41,7 @@ layout: simple
                   <li>
                     <i class="fa fa-chevron-right"></i> <a href="{{ post.url }}">{{ post.title }}</a>
                     <p class="post-meta">
-                      <i class="fa fa-calendar"></i> {{ post.date | date: "%Y-%m-%d" }}
+                      <i class="fa fa-calendar"></i> {{ post.date | date: "%d-%m-%Y" }}
                       {% if post.tags.size > 0 %}<i class="fa fa-tags"></i> {{ post.tags | join: "," }} {% endif %}
                     </p>
                   </li>
