@@ -192,6 +192,9 @@
   email: 
   position: professor
   lattes: http://lattes.cnpq.br/8718342523147564 
+  bio:
+  bio_academic:
+  avatar:
   inactive: true
   
   - id: rafael.torchelsen
@@ -200,6 +203,9 @@
   email: 
   position: professor
   lattes: http://lattes.cnpq.br/4828490550640720
+  bio:
+  bio_academic:
+  avatar:
   inactive: true
   
   
