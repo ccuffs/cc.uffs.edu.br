@@ -4,7 +4,7 @@ Esse repositório contém o site do curso de [Ciência da Computação](https://
 
 > **Link para o site oficial:** [https://cc.uffs.edu.br](https://cc.uffs.edu.br)
 
-> **Dúvidas gerais:** fale com os professores do curso, ou com os coordenadores Fernando Bevilacqua [[Github](https://github.com/Dovyski), [e-mail](mailto:fernando.bevilacqua@uffs.edu.br)] e Luciano Caimi [[email](mailto:lcaimi@uffs.edu.br)], ou através do e-mail da Coordenação do Curso ([computacao.ch@uffs.edu.br](mailto:computacao.ch@uffs.edu.br)).
+> **Dúvidas gerais:** fale com os professores do curso ou através do e-mail da Coordenação do Curso ([computacao.ch@uffs.edu.br](mailto:computacao.ch@uffs.edu.br)).
 
 ## Começando
 
