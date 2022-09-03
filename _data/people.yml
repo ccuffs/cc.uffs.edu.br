@@ -186,18 +186,18 @@
   avatar: avatars/samuel.feitosa.jpg
  
  
- - id: marcelo.pinto
+- id: marcelo.pinto
   name: Marcelo Cezar Pinto
   title: Msc.
   email: 
   position: professor
   lattes: http://lattes.cnpq.br/8718342523147564 
-  bio:
+  bio: "Possui graduação em Bacharelado em Informática pela Universidade Federal de Santa Maria (2000) e mestrado em Ciência da Computação pela Universidade Estadual de Campinas (2002). Tem experiência na área de Ciência da Computação, com ênfase em Biologia Computacional, atuando principalmente nos seguintes temas biologia computacional, teoria da computação e complexidade de algoritmos"
   bio_academic:
-  avatar:
+  avatar: avatars/default.jpg
   inactive: true
   
-  - id: rafael.torchelsen
+- id: rafael.torchelsen
   name: Rafael Piccin Torchelsen
   title: Dr.
   email:  rafael.torchelsen@ufpel.edu.br
