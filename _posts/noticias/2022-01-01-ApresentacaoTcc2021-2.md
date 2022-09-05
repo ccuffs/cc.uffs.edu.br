@@ -3,9 +3,9 @@ title: "Apresentações de TCC 2021.2"
 layout: post
 categories: noticias
 last_modified_at:  2022-01-03T10:34:00-03:00
-highlight: true
+highlight: false
 highlight_order: 1
-active: true 
+active: false 
 image:
   teaser: posts/teaser-defesa-tcc-1600x800.png
   feature: /images/posts/teaser-defesa-tcc-1600x800.png
