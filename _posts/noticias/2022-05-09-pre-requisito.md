@@ -3,8 +3,8 @@ title: "Quebra de pré-requisto"
 layout: post
 categories: noticias
 last_modified_at: 2022-05-09T22:07:00-05:00
-highlight: True
-highlight_order: 1
+highlight: true
+highlight_order: 3
 active: true
 permalink: /:categories/:title/
 image:
