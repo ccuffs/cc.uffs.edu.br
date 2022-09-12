@@ -7,3 +7,4 @@ gem "jekyll-gist"
 gem "jekyll-feed", "=0.5.1"
 
 gem "webrick", "~> 1.7"
+gem 'jekyll-admin', group: :jekyll_plugins

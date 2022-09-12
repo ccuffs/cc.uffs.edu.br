@@ -7,7 +7,6 @@ wide:
     image: cc-bw-15fps-complete.jpg
     video_url: https://cdn.uffs.cc/cc.uffs.edu.br/videos/wide/cc-bw-15fps-complete.mp4
 ---
-
 <section>
   <div class="container breath-top">
     <div class="row justify-content-center">
@@ -17,7 +16,7 @@ wide:
     <div class="row justify-content-center">
       <div class="col-12">
         <div class="card-deck">
-          {% assign highlighted-posts = site.categories.noticias | where: "highlight","true" | sort:"highlight_order" %}
+          {% assign highlighted-posts = site.categories.noticias | where: "highlight","true" %}
           {% for post in highlighted-posts limit: 3 %}
             {% include post-card.html %}
           {% endfor %}
