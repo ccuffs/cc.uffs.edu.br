@@ -11,3 +11,4 @@ _asset_bundler_cache
 /_data/commit_info.yml
 Gemfile.lock
 Gemfile
+analytics.html
