@@ -98,6 +98,12 @@ Instale todas as dependências:
 bundle update
 ```
 
+Copiei o arquivo do Google Analytics:
+
+```
+cp _includes/analytics.html.ex  _includes/analytics.html 
+```
+
 ### 2. Testando o site
 
 Para testar o site, entre na pasta onde você clonou esse repositório, e rode:
