@@ -3,9 +3,10 @@ title: "Nota de falecimento"
 layout: post
 categories: noticias
 last_modified_at: 2020-04-07T20:10:00-03:00
-highlight: false
+highlight: False
 highlight_order: 30
-active: false
+active: False
+teste: True
 permalink: /:categories/:title/
 image:
   teaser: posts/teaser-luto-400x250.jpg

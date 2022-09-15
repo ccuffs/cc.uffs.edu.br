@@ -16,7 +16,7 @@ wide:
     <div class="row justify-content-center">
       <div class="col-12">
         <div class="card-deck">
-          {% assign highlighted-posts = site.categories.noticias | where: "highlight","true" %}
+           {% assign highlighted-posts = site.categories.noticias | where: "highlight","true" %} 
           {% for post in highlighted-posts limit: 3 %}
             {% include post-card.html %}
           {% endfor %}
@@ -49,10 +49,10 @@ wide:
             <!-- noticias -->
             <div class="tab-pane fade show active" id="noticias" role="tabpanel" aria-labelledby="noticias-tab">
                 {% for post in site.categories.noticias %}
-                    {% if post.highlight == false %}
+                    {% if post.highlight == false and post.active == true %}
                         {% include post-row.html %}
                     {% endif %}
-                {% endfor %}
+                {% endfor %} 
                 <p class="text-center"><a href="/noticias" class="btn btn-sm btn-outline-secondary">Ver mais notícias</a></p>
             </div>
             <!-- postagens -->
