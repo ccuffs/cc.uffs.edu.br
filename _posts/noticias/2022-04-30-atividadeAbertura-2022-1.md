@@ -17,4 +17,4 @@ Tema: Tudo o que não te  falaram sobre 5G
 
 Palestrante: Cleiton Paris
 
-Horário: 19h30 às 20h30
+Horário: 19h30 às 20h30 
