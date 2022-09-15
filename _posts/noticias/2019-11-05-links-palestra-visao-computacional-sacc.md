@@ -5,7 +5,7 @@ categories: noticias
 last_modified_at: 2019-11-05T15:30:00-05:00
 highlight: false
 highlight_order: 3
-active: true
+active: false
 permalink: /:categories/:title/
 image:
   teaser: posts/palestra-visao-computacional-sacc.jpg

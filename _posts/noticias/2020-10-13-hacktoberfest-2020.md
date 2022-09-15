@@ -5,7 +5,7 @@ categories: noticias
 last_modified_at: 2020-10-13T11:52:00-03:00
 highlight: false
 highlight_order: 1
-active: true
+active: false
 image:
   teaser: posts/hacktoberfest-2020.png
   feature: /images/posts/hacktoberfest-2020.png

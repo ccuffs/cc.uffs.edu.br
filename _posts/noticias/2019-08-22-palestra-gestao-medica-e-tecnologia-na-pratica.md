@@ -5,7 +5,7 @@ categories: noticias
 last_modified_at: 2019-08-22T16:39:00-05:00
 highlight: false
 highlight_order: 1
-active: true
+active: false
 permalink: /:categories/:title/
 image:
   teaser: posts/teaser-palestra-liandro-400x250.png

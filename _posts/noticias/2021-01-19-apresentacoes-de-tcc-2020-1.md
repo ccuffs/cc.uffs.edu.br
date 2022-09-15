@@ -5,7 +5,7 @@ categories: noticias
 last_modified_at: 2019-12-02T17:27:00-03:00
 highlight: false
 highlight_order: 3
-active: true
+active: false
 tags: [tcc]
 image:
   teaser: posts/teaser-defesa-tcc-1600x800.png

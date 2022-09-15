@@ -5,7 +5,7 @@ categories: noticias
 last_modified_at: 2021-03-31T20:20:00-03:00
 highlight: false
 highlight_order: 3
-active: true
+active: false
 image:
   teaser: posts/practice-dev-1600x800.png
   feature: /images/posts/practice-dev-1600x800.png

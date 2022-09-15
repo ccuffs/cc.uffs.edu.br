@@ -3,9 +3,9 @@ title: "Guia de Faculdade"
 layout: post
 categories: noticias
 last_modified_at:  2021-11-03T10:34:00-03:00
-highlight: true
+highlight: false
 highlight_order: 3
-active: false
+active: true
 image:
   teaser: posts/guiafaculdades.jpg
   feature: /images/posts/guiafaculdades.jpg

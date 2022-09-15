@@ -5,7 +5,7 @@ categories: noticias
 last_modified_at: 2020-09-04T20:10:00-03:00
 highlight: false
 highlight_order: 2
-active: true
+active: false
 image:
   teaser: posts/retomada-covid19-1600x800.png
   feature: /images/posts/retomada-covid19-1600x800.png

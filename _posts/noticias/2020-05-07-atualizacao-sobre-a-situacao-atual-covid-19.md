@@ -5,7 +5,7 @@ categories: noticias
 last_modified_at: 2020-05-07T20:10:00-03:00
 highlight: false
 highlight_order: 3
-active: true
+active: false
 permalink: /:categories/:title/
 image:
   teaser: posts/covid19-1600x800.png

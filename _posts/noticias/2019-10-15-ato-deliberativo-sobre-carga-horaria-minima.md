@@ -5,7 +5,7 @@ categories: noticias
 last_modified_at: 2019-10-15T22:10:11-05:00
 highlight: false
 highlight_order: 1
-active: true
+active: false
 permalink: /:categories/:title/
 image:
   teaser: posts/teaser-aviso-1800x600.jpg
