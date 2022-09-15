@@ -4,7 +4,7 @@ layout: post
 categories: noticias
 highlight: false
 highlight_order: 2
-active: true
+active: false
 permalink: /:categories/:title/
 image:
   teaser: posts/practice.png

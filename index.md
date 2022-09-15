@@ -50,7 +50,7 @@ wide:
             <!-- noticias -->
             <div class="tab-pane fade show active" id="noticias" role="tabpanel" aria-labelledby="noticias-tab">
                 {% for post in site.categories.noticias %}
-                    {% if post.highlight == false %}
+                    {% if post.highlight == false and post.active == true %}
                         {% include post-row.html %}
                     {% endif %}
                 {% endfor %}

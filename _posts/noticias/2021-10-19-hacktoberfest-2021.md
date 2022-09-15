@@ -5,7 +5,7 @@ categories: noticias
 last_modified_at: 2021-10-19T10:34:00-03:00
 highlight: true
 highlight_order: 3
-active: true
+active: false
 author: fernando_bevilacqua
 image:
   teaser: posts/hacktoberfest-2021.jpg

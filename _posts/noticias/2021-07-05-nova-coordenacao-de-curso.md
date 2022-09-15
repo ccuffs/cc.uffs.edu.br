@@ -5,7 +5,7 @@ categories: noticias
 last_modified_at: 2021-07-05T14:18:00-03:00
 highlight: true
 highlight_order: 3
-active: true
+active: false
 image:
   teaser: posts/teaser-nova-coordenacao-amarelo-1600x800.png
   feature: /images/posts/teaser-nova-coordenacao-amarelo-1600x800.png

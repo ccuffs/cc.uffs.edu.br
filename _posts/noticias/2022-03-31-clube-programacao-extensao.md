@@ -5,7 +5,7 @@ categories: noticias
 last_modified_at: 2022-03-31
 highlight: false
 highlight_order: 3
-active: true
+active: true 
 image:
   teaser: posts/progclub.jpg
   feature: /images/posts/progclub.jpg

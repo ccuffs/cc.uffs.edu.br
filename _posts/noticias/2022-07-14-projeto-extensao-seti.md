@@ -5,7 +5,7 @@ categories: noticias
 last_modified_at: 2022-07-14
 highlight: false
 highlight_order: 1
-active: false
+active: true
 image:
   teaser: posts/extensao.jpg
   feature: /images/posts/extensao.jpg

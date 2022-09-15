@@ -5,7 +5,7 @@ categories: noticias
 last_modified_at: 2019-08-23T08:33:00-05:00
 highlight: false
 highlight_order: 3
-active: true
+active: false
 permalink: /:categories/:title/
 image:
   teaser: posts/teaser-cc-bit-party.png

@@ -5,7 +5,7 @@ categories: noticias
 last_modified_at:  2022-04-30T10:34:00-03:00
 highlight: false
 highlight_order: 1
-active: true 
+active: false 
 image:
   teaser: posts/Abertura2022-1.jpeg
   feature: /images/posts/Abertura2022-1.jpeg
