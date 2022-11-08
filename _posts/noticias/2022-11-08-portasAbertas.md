@@ -11,7 +11,7 @@ image:
   feature: /images/posts/portas4.jpeg
 ---
 
-O UFFS de Portas Abertas é o momento em que recebemos a comunidade regional que deseja conhecer a estrutura e os cursos de graduação do Campus Chapecó.  Ao todo, cerca de 2000 pessoas participaram desta edição no dia 7 de novembro de 2022.
+O UFFS de Portas Abertas é o momento em que recebemos a comunidade regional que deseja conhecer a estrutura e os cursos de graduação do Campus Chapecó.  Ao todo, cerca de 2000 pessoas participaram da edição 2022.
 
 O curso agradece o empenho do docente, organizador geral,  Andrei de Almeida Braga e os alunos voluntários que contribuíram substancialmente para o desenvolvimento das atividades. 
 
