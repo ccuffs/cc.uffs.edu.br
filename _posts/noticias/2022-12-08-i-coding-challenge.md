@@ -3,7 +3,7 @@ title: "Realizado o I Coding Challenge UFFS"
 layout: post
 categories: noticias
 last_modified_at: 2022-12-08
-highlight: false
+highlight: true
 highlight_order: 1
 active: true
 image:
