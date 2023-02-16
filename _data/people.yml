@@ -185,6 +185,18 @@
   google_scholar: https://scholar.google.com/citations?user=AP1v3ngAAAAJ
   avatar: avatars/samuel.feitosa.jpg
 
+- id: gian
+  name: Giancarlo Dondoni Salton
+  title: Dr.
+  email: gian@uffs.edu.br
+  position: professor
+  lattes: http://lattes.cnpq.br/0020195775211530
+  bio: "Possui graduação em Ciência da Computação pela Universidade Comunitária da Região de Chapecó (UNOCHAPECÓ), Doutorado em Ciência da Computação na área de Machine Learning pelo Dublin Institute of Technology (DIT - Irlanda) e Pós-doutorado em Redes Neurais Artificiais pelo (DIT) em parceria com o ADAPT Centre, também na Irlanda."
+  bio_academic: "Giancarlo D. Salton possui graduação em Ciência da Computação pela Universidade Comunitária da Região de Chapecó (UNOCHAPECÓ), Doutorado em Ciência da Computação na área de Machine Learning pelo Dublin Institute of Technology (DIT - Irlanda), com a tese 'Representations of Idioms for Natural Language Processing: Idiom type and token identification, Language Modelling and Neural Machine Translation', e Pós-doutorado em Redes Neurais Artificiais pelo (DIT) em parceria com o ADAPT Centre, também na Irlanda. Atua nas áreas de Inteligência Artificial, Algoritmos e Estruturas de Dados, no Desenvolvimento de Sistemas Web e no Processamento de Linguagem Natural, com ênfase na subárea de modelos de linguagem, entre outros. Possui experiência como Cientista de Dados e em Engenharia de Software e Desenvolvimento e Sistemas Web. Atualmente, é Professor de Magistério Superior na Universidade Federal da Fronteira Sul - UFFS, Campus Chapecó/SC."
+  github: giancds
+  google_scholar: https://scholar.google.com.br/citations?user=UGZ_atEAAAAJ
+  orcid: https://orcid.org/0000-0002-4301-7000
+  avatar: avatars/giancarlo.salton.jpg
 
 - id: marcelo.pinto
   name: Marcelo Cezar Pinto
@@ -207,21 +219,3 @@
   bio_academic: "Possui graduação em Ciência da Computação pela Universidade Católica de Pelotas (UCPEL - 2002), mestrado em Ciência da Computação pela Universidade do Vale do Rio dos Sinos (UNISINOS - 2005) e doutorado em Ciência da Computação pela Universidade Federal do Rio Grande do Sul (UFRGS - 2010)."
   avatar: avatars/rafael.jpg
   inactive: true
-
-- id: gian
-  name: Giancarlo Dondoni Salton
-  title: Dr.
-  email: gian@uffs.edu.br
-  position: professor
-  lattes: http://lattes.cnpq.br/0020195775211530
-  bio: "Giancarlo D. Salton possui graduação em Ciência da Computação pela Universidade Comunitária da Região de Chapecó (UNOCHAPECÓ), Doutorado em Ciência da Computação na área de Machine Learning pelo Dublin Institute of Technology (DIT - Irlanda) e Pós-doutorado em Redes Neurais Artificiais pelo (DIT) em parceria com o ADAPT Centre, também na Irlanda."
-  bio_academic: "Giancarlo D. Salton possui graduação em Ciência da Computação pela Universidade Comunitária da Região de Chapecó (UNOCHAPECÓ), Doutorado em Ciência da Computação na área de Machine Learning pelo Dublin Institute of Technology (DIT - Irlanda), com a tese "Representations of Idioms for Natural Language Processing: Idiom type and token identification, Language Modelling and Neural Machine Translation", e Pós-doutorado em Redes Neurais Artificiais pelo (DIT) em parceria com o ADAPT Centre, também na Irlanda. Atua nas áreas de Inteligência Artificial, Algoritmos e Estruturas de Dados, no Desenvolvimento de Sistemas Web e no Processamento de Linguagem Natural, com ênfase na subárea de modelos de linguagem, entre outros. Possui experiência como Cientista de Dados e em Engenharia de Software e Desenvolvimento e Sistemas Web. Atualmente, é Professor de Magistério Superior na Universidade Federal da Fronteira Sul - UFFS, Campus Chapecó/SC."
-  github: giancds
-  google_scholar: https://scholar.google.com.br/citations?user=UGZ_atEAAAAJ
-  orcid: https://orcid.org/0000-0002-4301-7000
-  avatar: avatars/giancarlo.salton.jpg
-
-
-
-
-
