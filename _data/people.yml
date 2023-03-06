@@ -29,6 +29,7 @@
   bio: ""
   bio_academic: "Possui graduação em Engenharia Elétrica pela Universidade Federal de Santa Maria (1998), graduação em Programa Especial de Formação Pedagógica pela Universidade do Sul de Santa Catarina (2005) e mestrado em Engenharia Elétrica pela Universidade Federal de Santa Maria (2001). Atualmente é professor assistente da Universidade Federal da Fronteira Sul (UFFS)"
   avatar: avatars/padilha.png
+  inactive: true
 
 - id: asebben
   name: Andressa Sebben
