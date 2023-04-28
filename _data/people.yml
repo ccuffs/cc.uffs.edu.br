@@ -200,6 +200,16 @@
   google_scholar: https://scholar.google.com.br/citations?user=UGZ_atEAAAAJ
   orcid: https://orcid.org/0000-0002-4301-7000
   avatar: avatars/giancarlo.salton.jpg
+  
+- id: geomar
+  name: Geomar André Schreiner
+  title: Dr.
+  email: schreiner.geomar@uffs.edu.br
+  position: professor
+  lattes: http://lattes.cnpq.br/0776438722468291
+  bio: "Mestre e Doutor em Ciência da Computação pela Universidade Federal de Santa Catarina (UFSC) e graduado em Ciência da Computação pela Universidade Federal da Fronteira Sul. Atua na área de Banco de Dados com ênfase em integração e interoperabilidade de dados, bancos de dados NoSQL e NewSQL"
+  orcid: https://orcid.org/0000-0002-6457-8982
+  avatar: avatars/geomar.jpg
 
 - id: marcelo.pinto
   name: Marcelo Cezar Pinto
