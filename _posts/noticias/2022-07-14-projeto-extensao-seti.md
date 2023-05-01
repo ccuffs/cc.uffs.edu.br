@@ -3,7 +3,7 @@ title: "Projeto de extensão de desenvolvimento profissional e inovação tecnol
 layout: post
 categories: noticias
 last_modified_at: 2022-07-14
-highlight: false
+highlight: true
 highlight_order: 1
 active: true
 image:
@@ -18,7 +18,7 @@ O projeto contará com a colaboração do Prof. Dr. Samuel da Silva Feitosa e co
 
 A seleção dos bolsistas será realizada através do seguinte [edital](https://www.uffs.edu.br/UFFS/atos-normativos/edital/gr/2022-0748).
 
-#### Inscrições 
+#### Inscrições
 
 As inscrições devem ser realizadas até **29/07/2022**.
 Mais detalhes sobre as inscrições, etapas de seleção e requisitos no edital.
@@ -26,7 +26,7 @@ Mais detalhes sobre as inscrições, etapas de seleção e requisitos no edital.
 #### Bolsas
 
 Estão previstas 5 (cinco) vagas para bolsistas com carga horária de 20 (vinte) horas semanais.
-O valor da bolsa mensal será de R$1500,00 (um mil e quinhentos reais). 
+O valor da bolsa mensal será de R$1500,00 (um mil e quinhentos reais).
 
 #### Resultados
 
