@@ -1,5 +1,5 @@
 ---
-title: "Edital para seleção da nova coordenação do curso "
+title: "Divulgação do edital e lista de docentes elegíveis para a coordenação do curso "
 layout: post
 categories: noticias
 last_modified_at: 2023-05-01T09:10:00-03:00
