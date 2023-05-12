@@ -18,5 +18,5 @@ Resolução Nª 40/CGAE/CONSUNI/2022, torna público (no [link](https://drive.go
 
 2) A Comissão Eleitoral do Curso de Ciência da Computação do Campus Chapecó/SC divulga [neste link](https://drive.google.com/file/d/1BrT2cFgNgFy54PMBQdqzq693wc3MNnvI/view?usp=sharing) a lista de docentes elegíveis à função de Coordenador e Coordenador Adjunto do curso, conforme normas estabelecidas no regimento interno do colegiado do curso. 
 
-3) A Comissão Eleitoral do Curso de Ciência da Computação do Campus Chapecó/SC divulga [neste link] (https://drive.google.com/file/d/1P4MAR033yAP-S7TU98LYnIq9CFCaNHc1/view?usp=sharing) a homologação provisória das chapas inscritas.
+3) A Comissão Eleitoral do Curso de Ciência da Computação do Campus Chapecó/SC divulga [neste link](https://drive.google.com/file/d/1P4MAR033yAP-S7TU98LYnIq9CFCaNHc1/view?usp=sharing) a homologação provisória das chapas inscritas.
 
