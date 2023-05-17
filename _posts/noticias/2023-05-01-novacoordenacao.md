@@ -20,3 +20,5 @@ Resolução Nª 40/CGAE/CONSUNI/2022, torna público (no [link](https://drive.go
 
 3) A Comissão Eleitoral do Curso de Ciência da Computação do Campus Chapecó/SC divulga [neste link](https://drive.google.com/file/d/1P4MAR033yAP-S7TU98LYnIq9CFCaNHc1/view?usp=sharing) a homologação provisória das chapas inscritas.
 
+4) A Comissão Eleitoral do Curso de Ciência da Computação do Campus Chapecó/SC divulga [neste link](https://drive.google.com/file/d/1VfkIuccnyr8sepDIhShMEEWAY4WMb-tC/view?usp=sharing) a homologação final das chapas inscritas.
+
