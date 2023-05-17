@@ -3,7 +3,7 @@ title: "Vaga para bolsista do Clube de Programação"
 layout: post
 categories: noticias
 last_modified_at: 2023-05-16
-highlight: true
+highlight: false
 highlight_order: 1
 active: true
 image:
