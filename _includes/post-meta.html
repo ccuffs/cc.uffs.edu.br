@@ -33,6 +33,6 @@
     <li class="float-right ml-4">
         <i class="fa fa-calendar"></i>
         <time datetime="{{ page.date | date: "%d-%m-%YT%H:%M:%SZ" }}" itemprop="datePublished">{{ date | date: "%d-%m-%Y" }}</time>
-        {% if post.modified %}({{ site.data.messages.locales[site.locale].updated }}: <time datetime="{{ post.modified | date: "%d-%m-%YT%H:%M:%SZ" }}" itemprop="dateModified">{{ pagposte.modified | date: "%B %d, %Y" }}</time>){% endif %}
+        {% if page.modified %}({{ site.data.messages.locales[site.locale].updated }}: <time datetime="{{ page.modified | date: "%d-%m-%YT%H:%M:%SZ" }}" itemprop="dateModified">{{ page.modified | date: "%d-%m-%Y" }}</time>){% endif %}
     </li>
 </div>
