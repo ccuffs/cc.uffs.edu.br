@@ -2,7 +2,7 @@
 title: "Vaga para bolsista do Clube de Programação"
 layout: post
 categories: noticias
-last_modified_at: 2023-05-16
+last_modified_at: 2023-05-24
 highlight: false
 highlight_order: 1
 active: true
@@ -18,5 +18,9 @@ Confira as informações sobre a vaga no edital a seguir e faça já a sua inscr
 ### Edital do Processo de Seleção de Bolsista
 
 O edital do processo de seleção de bolsista para atuar no Projeto de Extensão **Clube de Programação - Ano 2023** está disponível [aqui]({{ site.url }}/download/edital-bolsa-extensao-clube-programacao-2023.pdf).
+
+### Resultado Provisório do Processo de Seleção de Bolsista
+
+O resultado provisório do processo de seleção de bolsista para atuar no Projeto de Extensão **Clube de Programação - Ano 2023** está disponível [aqui]({{ site.url }}/download/resultado-provisorio-bolsa-extensao-clube-programacao-2023.pdf).
 
 ---
