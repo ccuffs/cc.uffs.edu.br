@@ -17,6 +17,24 @@ permalink: /ensino/grupos-estudo/
 
 <div class="row post-grid-mini mt-4">
   <div class="col-1">
+      <img alt="image" src="../../images/illustrations/ai-games.png">
+  </div>
+  <div class="col-11">
+    <h3>Inteligência Artificial</h3>
+    <p>
+        Criado em 2022/1, com uma reunião semanal presencial no período noturno.
+		O objetivo é o estudo de aplicações de IA em jogos, que além de ser atrativo (jogos tendem a proporcionar diversão e entretenimento) pode quebrar barreiras e explorar novas fronteiras com técnicas inovadoras que mais tarde podem ser utilizadas em aplicações com um propósito mais sério ou de valor comercial.
+		Além disso, por se tratar de uma área fundamentalmente multidisciplinar, o estudo dessas aplicações fornece uma oportunidade valiosa no desenvolvimento e na prática de conhecimentos obtidos em vários componentes curriculares do Curso de Ciência de Computação além proporcionar o aprimoramento de habilidades importantes para o desenvolvimento profissional e pessoal, tais como: raciocínio lógico e estratégico; interpretação e vocabulário no idioma inglês e em diferentes estilos de produção textual; cooperação; concentração; comunicação.
+    </p> 
+    <p class="meta">
+        <i class="fa fa-user"></i> Prof. Felipe Grando <small>(Coordenador)</small>
+        <i class="fa fa-info-circle"></i> ENS-2022-0029
+    </p>
+  </div>
+</div>
+
+<div class="row post-grid-mini mt-4">
+  <div class="col-1">
       <img alt="image" src="../../images/illustrations/distribuida.svg">
   </div>
   <div class="col-11">

@@ -1,5 +1,21 @@
 # Projects
 
+# Grando
+- project:
+  type: project-extension
+  active: true
+  author: Felipe Grando
+  author_id: felipe.grando
+  role: Coordenador
+  title: Desenvolvimento profissional e inovação tecnológica na área de TI
+  funding: recursos da SETI-UFFS
+  date_start: 2022
+  date_end:
+  description: Os estudantes deste projeto estarão inseridos no ambiente profissional, em apoio às atividades referentes ao desenvolvimento da Secretaria Especial de Tecnologia da Informação (SETI), setor responsável por toda a gestão, desenvolvimento e manutenção da infraestrutura física e de sistemas essencial para o desenvolvimento de todas as atividades universitárias.
+  image:
+    teaser: posts/thumbnail-extensao-512x512.png
+    feature: /images/posts/extensao-1600x800.png
+
 # Fernando
 - project:
   type: project-research
