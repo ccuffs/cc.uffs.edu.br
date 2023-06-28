@@ -20,7 +20,7 @@ permalink: /ensino/grupos-estudo/
       <img alt="image" src="../../images/illustrations/ai-games.png">
   </div>
   <div class="col-11">
-    <h3>Inteligência Artificial</h3>
+    <h3>Inteligência Artificial em Jogos</h3>
     <p>
         Criado em 2022/1, com uma reunião semanal presencial no período noturno.
 		O objetivo é o estudo de aplicações de IA em jogos, que além de ser atrativo (jogos tendem a proporcionar diversão e entretenimento) pode quebrar barreiras e explorar novas fronteiras com técnicas inovadoras que mais tarde podem ser utilizadas em aplicações com um propósito mais sério ou de valor comercial.
