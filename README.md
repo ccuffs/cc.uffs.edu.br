@@ -23,7 +23,7 @@ Instale a última versão do [Ruby](https://www.ruby-lang.org) através do [Ruby
 
 #### 1.2 Instale o bundler
 
-O site é construído com base no [Jekyll](https://jekyllrb.com) que usa o bundler para gerenciar dependencias. Abra um terminal novo (para garantir que o `PATH` está atualizado depois de instalar o Ruby), e rode:
+O site é construído com base no [Jekyll](https://jekyllrb.com) que usa o [Bundler](https://bundler.io/) para gerenciar dependências. Abra um terminal novo (para garantir que o `PATH` está atualizado depois de instalar o Ruby), e rode:
 
 ```
 gem install bundler
@@ -74,7 +74,7 @@ source ~/.bashrc
 
 #### 2.3 Instale o bundler
 
-O site é construído com base no [Jekyll](https://jekyllrb.com),  que usa o bundler para gerenciar dependencias.
+O site é construído com base no [Jekyll](https://jekyllrb.com),  que usa o bundler para gerenciar dependências.
 
 ```
 gem install bundler
@@ -82,11 +82,11 @@ gem install bundler
 
 ## Manuseio do site
 
-Se você seguiu os pré-requisitos de instalação, a partir desse ponto você pode testar o site localmente na sua máquina. Siga os passos abaixo para 
+Se você seguiu os pré-requisitos de instalação, a partir desse ponto você pode testar o site localmente na sua máquina. Siga os passos abaixo para testá-lo:
 
 ### 1. Clone esse repositório
 
-Close esse repositório em uma pasta qualquer da sua máquina, e.x: `c:\` ou `/tmp/:
+Close esse repositório em uma pasta qualquer da sua máquina, e.x: `c:\` ou `/tmp/`:
 
 ```
 git clone https://github.com/ccuffs/cc.uffs.edu.br cc.uffs.edu.br && cd cc.uffs.edu.br
@@ -154,6 +154,6 @@ Todas as alterações importantes no site são relatadas no arquivo [CHANGELOG](
 
 ## Links importantes
 
-* [Página oficial do curso de Ciência da Computação](http://cc.uffs.edu.br)
+* [Página oficial do curso de Ciência da Computação](https://cc.uffs.edu.br)
 * [Página institucional do curso de Ciência da Computação](https://www.uffs.edu.br/campi/chapeco/cursos/graduacao/ciencia-da-computacao/perfil-do-curso)
 * [Site da Universidade Federal da Fronteira Sul](https://www.uffs.edu.br)
