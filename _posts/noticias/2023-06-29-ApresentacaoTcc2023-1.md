@@ -20,6 +20,8 @@ Esse semestre, as defesas acontecerão no formato presencial ou remoto conforme 
 {:.table}
 |--- |--- |--- |--- |--- |--- |--- |--- |
 Nome| Título| Data| Horário| Link/Sala| Orientador| Banca| Banca
+Andrew Gabriel Gomes |Tcc Startup: Proposta De Uma Solução Para Automatizar O Fluxo Cirúrgico Em Clínicas Médicas Eliminando O Trabalho Manual E Burocrático |10/07/2023 |15:15:00 |meet.google.com/mbn-zfvf-jyv |Raquel Aparecida Pegoraro |Giancarlo Dondoni Salton |Humberto Tosta
+Bruna Gabriela Disner |Tcc Startup: Simplificando A Gestão De Financeira De Clínicas Médicas Por Meio Da Integração Com Convênios. |10/07/2023 |14:30:00 |meet.google.com/mbn-zfvf-jyv |Raquel Aparecida Pegoraro |Giancarlo Dondoni Salton |Humberto Tonani Tosta
 Bruno Dall Orsoletta|Aplicativo Alternativo Para Ihm|13/07/2023|20:00:00|402|Luciano Lores Caimi|Claunir Pavan|Marco Aurelio Spohn
 Daniel Pierrelus|Sistema De Cadastro De Empréstimo De Materiais Utilizando Visão Computacional Na Universidade Federal Da Fronteira Sul|13/07/2023|19:00:00|402|Giancarlo Dondoni Salton, Edimar Roque Martello Junior|Samuel da Silva Feitosa|Luciano Lores Caimi
 Diogo Maciel Da Cunha|Desenvolvimento De Uma Ferramenta De Avaliação De Desempenho De Servidores Mqtt|12/07/2023|18:00:00|402|Marco Aurelio Spohn|Braulio Adriano de Mello|Andrei De Almeida Sampaio Braga
