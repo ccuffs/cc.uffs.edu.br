@@ -17,6 +17,23 @@ permalink: /ensino/grupos-estudo/
 
 <div class="row post-grid-mini mt-4">
   <div class="col-1">
+      <img alt="image" src="../../images/illustrations/distribuida.svg">
+  </div>
+  <div class="col-11">
+    <h3>Simulação Distribuída</h3>
+    <p>
+        Criado em 2016, com uma reunião semanal, a cada bloco de 30 horas um relatório de atividades é gerado e certificados são emitidos. O objetivo é propiciar aos discentes oportunidades para ampliar conhecimentos/habilidades em simulação computacional através do estudo das soluções atuais em simulação distribuída e heterogênea, desafios e tendências.
+    </p> 
+    <p class="meta">
+        <i class="fa fa-user"></i> Prof. Braulio Adriano de Mello <small>(Coordenador)</small>
+        <i class="fa fa-info-circle"></i> Processo 23205.004292/2016-24
+    </p>
+  </div>
+</div>
+
+<!-- 
+<div class="row post-grid-mini mt-4">
+  <div class="col-1">
       <img alt="image" src="../../images/illustrations/ai-games.png">
   </div>
   <div class="col-11">
@@ -33,23 +50,8 @@ permalink: /ensino/grupos-estudo/
   </div>
 </div>
 
-<div class="row post-grid-mini mt-4">
-  <div class="col-1">
-      <img alt="image" src="../../images/illustrations/distribuida.svg">
-  </div>
-  <div class="col-11">
-    <h3>Simulação Distribuída</h3>
-    <p>
-        Criado em 2016, com uma reunião semanal, a cada bloco de 30 horas um relatório de atividades é gerado e certificados são emitidos. O objetivo é propiciar aos discentes oportunidades para ampliar conhecimentos/habilidades em simulação computacional através do estudo das soluções atuais em simulação distribuída e heterogênea, desafios e tendências.
-    </p> 
-    <p class="meta">
-        <i class="fa fa-user"></i> Prof. Braulio Adriano de Mello <small>(Coordenador)</small>
-        <i class="fa fa-info-circle"></i> Processo 23205.004292/2016-24
-    </p>
-  </div>
-</div>
 
-<!-- <div class="row post-grid-mini mt-4">
+<div class="row post-grid-mini mt-4">
   <div class="col-1">
       <img alt="image" src="../../images/illustrations/visao-illustration.svg">
   </div>

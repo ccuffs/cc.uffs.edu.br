@@ -3,7 +3,7 @@ title: "Edital de Monitoria"
 layout: post
 categories: noticias
 last_modified_at: 2023-06-28
-highlight: true
+highlight: false
 highlight_order: 1
 active: true
 image:
@@ -42,7 +42,8 @@ As inscrições vão até o dia **03/07**, basta preencher uma ficha com os seus
 
 ### Resultados
 
-O resultado provisório será divulgado até 14/07.
+O resultado provisório pode ser consultado no link abaixo.
+[www.uffs.edu.br/UFFS/atos-normativos/edital/acadch/2023-0010](https://www.uffs.edu.br/UFFS/atos-normativos/edital/acadch/2023-0010)
 
 O resultado final será divulgado em 19/07.
 
