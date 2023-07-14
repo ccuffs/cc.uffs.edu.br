@@ -42,8 +42,7 @@ As inscrições vão até o dia **03/07**, basta preencher uma ficha com os seus
 
 ### Resultados
 
-O resultado provisório pode ser consultado no link abaixo.
-[www.uffs.edu.br/UFFS/atos-normativos/edital/acadch/2023-0010](https://www.uffs.edu.br/UFFS/atos-normativos/edital/acadch/2023-0010)
+[Resultado provisório](https://www.uffs.edu.br/UFFS/atos-normativos/edital/acadch/2023-0010)
 
 O resultado final será divulgado em 19/07.
 
