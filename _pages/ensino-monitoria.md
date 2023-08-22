@@ -46,9 +46,9 @@ permalink: /ensino/monitoria/
 			</div>
 			<div class="card-body">
 				<div class="row text-left">
-					<div class="col-12"> -->
+					<div class="col-12">
 						<p>
-							<b>Coordenador do Projeto</b>Prof. Felipe Grando - felipegrando@uffs.edu.br
+							<b>Coordenador do Projeto</b> Prof. Felipe Grando - felipegrando@uffs.edu.br
 						</p>
 						<p>
 							<b>Monitor:</b> Igor Lautert Bazei - igorbazei.ilb@gmail.com
@@ -91,7 +91,7 @@ permalink: /ensino/monitoria/
 	Os atendimentos serão realizados presencialmente no Laboratório 402 do bloco B por ordem de chegada ou em grupos.
 </p>
 <p>
-	(\*) Os atendimentos serão realizados remotamente. Envie um e-mail para o monitor agendando o seu horário com ao menos um dia de antecedência que ele encaminhará o link para a sala de atendimento remota.
+	(*) Os atendimentos serão realizados remotamente. Envie um e-mail para o monitor agendando o seu horário com ao menos um dia de antecedência que ele encaminhará o link para a sala de atendimento remota.
 </p>
 <p>
 	Dias não letivos (feriados) ou com outras atividades institucionais planejadas pelo Curso (como semana acadêmica) não terão atendimento de monitoria.
