@@ -25,7 +25,7 @@ permalink: /ensino/monitoria/
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 text-left">
-        <h2>Monitoria de Algoritmos e Programação</h2>
+        <h2>Monitoria de Algoritmos - Projeto ENS 2023-0049</h2>
         <hr/>
         <p>
             A aprendizagem de uma linguagem de programação apresenta um dos maiores 
@@ -39,85 +39,64 @@ permalink: /ensino/monitoria/
         <li>Algoritmos e Programação</li>
         <li>Estrutura de Dados</li>
         <li>Programação I</li>
-<!--         <div class="card mt-5">
-            <div class="card-header">
-                <h4>Contatos e Locais de Atendimento</h4>
-            </div>
-            <div class="card-body">
-                <div class="row text-left">
-                    <div class="col-12"> -->
-<!--                         <p>
-                            <b>Prof.</b> Andressa Sebben - asebben@uffs.edu.br
-                          
-                        </p>
-                        <p>
-                            <b>Monitor:</b> Fabrício Romani - fabricioz.1.2@hotmail.com
-                            <span class="badge bg-indigo-500">
-                                <a
-                                    href="https://discord.gg/knABxNp"
-                                    class="text-indigo-50 hover:text-indigo-50"
-                                >
-                                    discord
-                                </a>
-                            </span>
-                        </p>
-                        <p>
-                            <b>Monitor:</b> Pedro
-                            <span class="badge bg-indigo-500">
-                                <a
-                                    href="https://discord.gg/knABxNp"
-                                    class="text-indigo-50 hover:text-indigo-50"
-                                >
-                                    discord
-                                </a>
-                            </span>
-                        </p>
-                        <p>
-                            <b>Monitor:</b> Ryan
-                            <span class="badge bg-indigo-500">
-                                <a
-                                    href="https://discord.gg/knABxNp"
-                                    class="text-indigo-50 hover:text-indigo-50"
-                                >
-                                    discord
-                                </a>
-                            </span>
-                        </p>
-                     <p>
-                            <b>Monitor:</b> Daniel
-                            <span class="badge bg-indigo-500">
-                                <a
-                                    href="https://discord.gg/knABxNp"
-                                    class="text-indigo-50 hover:text-indigo-50"
-                                >
-                                    discord
-                                </a>
-                            </span>
-                        </p> 
-                    </div>
-                </div> 
-            </div> 
+
+		<div class="card mt-5">
+			<div class="card-header">
+				<h4>Contatos e Locais de Atendimento</h4>
+			</div>
+			<div class="card-body">
+				<div class="row text-left">
+					<div class="col-12"> -->
+						<p>
+							<b>Coordenador do Projeto</b>Prof. Felipe Grando - felipegrando@uffs.edu.br
+						</p>
+						<p>
+							<b>Monitor:</b> Igor Lautert Bazei - igorbazei.ilb@gmail.com
+						</p>
+						<p>
+							<b>Monitor:</b> Angemydelson Saint-Bert - angemydelson.bert@estudante.uffs.edu.br
+						</p>
+						<p>
+							<b>Monitor:</b> Renan Loewenstein - renan.lowe@hotmail.com
+						</p>
+						<p>
+							<b>Monitor:</b> Jacquet Leme - jacquetleme2021@gmail.com
+						</p>
+					</div>
+				</div> 
+			</div> 
         </div>
       </div>
     </div>
   </div>
-</section>-->
+</section>
 
-<!-- <h3>Horários de atendimento 2021/1</h3>
+<h3>Horários de atendimento 2023/2</h3>
 
 {:.table}
-|  **Matutino** |  Segunda-Feira             |   Terça-Feira  | Quarta-Feira   | Quinta-Feira   |   Sexta-Feira  |
-|:-------------:|:--------------------------:|:--------------:|:--------------:|:------------:  |:--------------:|
-| 07:30 - 10:20 |                            |                |                |Daniel          |Daniel          |
-| 10:20 - 12:00 |                            |                |                |Daniel          |Daniel          |
-|**Vespertino** |       -                    |       -        |       -        |       -        |        -       |
-| 13:30 - 16:00 |Fabricio (presencial - 402B)|Fabricio        |Fabricio        |Fabrício/Daniel |Daniel          |
-| 16:00 - 18:00 |Fabricio (presencial - 402B)|Fabricio        |Fabrício        |                |Daniel          |
-| **Noturno**   |     -                      |        -       |       -        |       -        |       -        |
-| 19:10 - 21:00 |Pedro/Ryan                  |Pedro/Ryan      |Ryan            |Pedro / Ryan    |Pedro           |
-| 21:00 - 22:30 |Pedro/Ryan                  |Pedro/Ryan      |Pedro/Ryan      |Pedro           |Pedro           |
+|  **Matutino** |  Segunda-Feira |   Terça-Feira  |  Quarta-Feira  |  Quinta-Feira  |  Sexta-Feira   |
+|:-------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
+| 08:30 - 11:30 |                |                |                |                |Igor (*)        |
+| **Vespertino**|        -       |       -        |       -        |       -        |        -       |
+| 14:00 - 16:00 |                |Renan           |Jacquet         |Jacquet         |Renan (*)       |
+|               |                |Angemydelson    |Angemydelson (*)|                |                |
+| 16:00 - 18:00 |Jacquet         |Jacquet         |Renan           |Jacquet         |Renan (*)       |
+|               |                |                |Jacquet         |Angemydelson    |                |
+|               |                |                |Angemydelson (*)|                |                |
+|  **Noturno**  |        -       |        -       |       -        |       -        |        -       |
+| 18:20 - 19:00 |Igor            |Igor            |Igor            |Igor            |                |
+| 19:00 - 21:20 |Igor            |                |                |                |                |
 
- -->
+<p>
+	Os atendimentos serão realizados presencialmente no Laboratório 402 do bloco B por ordem de chegada ou em grupos.
+</p>
+<p>
+	(\*) Os atendimentos serão realizados remotamente. Envie um e-mail para o monitor agendando o seu horário com ao menos um dia de antecedência que ele encaminhará o link para a sala de atendimento remota.
+</p>
+<p>
+	Dias não letivos (feriados) ou com outras atividades institucionais planejadas pelo Curso (como semana acadêmica) não terão atendimento de monitoria.
+</p>
+
 <!-- <section class="mt-4 mb-4">
   <div class="container">
     <div class="row justify-content-center">
