@@ -151,10 +151,7 @@ permalink: /ensino/monitoria/
 | 19:00 - 22:00 |Breno           |                |                |Breno           |                |
 
 <p>
-	Os atendimentos serão realizados presencialmente no Laboratório 402 do bloco B por ordem de chegada ou em grupos.
-</p>
-<p>
-	(*) Os atendimentos serão realizados remotamente. Envie um e-mail para o monitor agendando o seu horário com ao menos um dia de antecedência que ele encaminhará o link para a sala de atendimento remota.
+	Os atendimentos serão realizados presencialmente no Laboratório 408 do bloco B por ordem de chegada ou em grupos.
 </p>
 <p>
 	Dias não letivos (feriados) ou com outras atividades institucionais planejadas pelo Curso (como semana acadêmica) não terão atendimento de monitoria.
