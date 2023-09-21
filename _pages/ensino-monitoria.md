@@ -97,14 +97,14 @@ permalink: /ensino/monitoria/
 	Dias não letivos (feriados) ou com outras atividades institucionais planejadas pelo Curso (como semana acadêmica) não terão atendimento de monitoria.
 </p>
 
-<!-- <section class="mt-4 mb-4">
+<section class="mt-4 mb-4">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 text-left">
-        <h2>Monitoria de Circuitos Digitais e Hardware</h2>
-        <div class="alert text-danger border-danger" role="alert">
+        <h2>Monitoria de Circuitos Digitais e Sistemas Digitais</h2>
+       <!-- <div class="alert text-danger border-danger" role="alert">
             <b>Importante:</b> Infelizmente, neste semestre não houveram candidatos à monitores, e por tanto não há monitoria para esta modalidade
-        </div>
+        </div> -->
         <hr/>
         <p>
             O projeto de monitoria de hardware visa contribuir para o desempenho dos discentes nos componentes curriculares ligados à area de sistemas eletrônicos. A evolução tecnológica da area é rápida, portantando são necessárias ferramentas para acompanhar essa evolução, e a monitoria é uma delas.
@@ -112,7 +112,7 @@ permalink: /ensino/monitoria/
         <p>Componentes Curriculares Atendidos:</p>
         <li>Circuitos Digitais</li>
         <li>Sistemas Digitais</li>
-        <li>Organização de Computadores</li>
+        <!--<li>Organização de Computadores</li>-->
         <div class="card mt-4">
             <div class="card-header">
                 <h4>Contatos e Locais de Atendimento</h4>
@@ -121,9 +121,15 @@ permalink: /ensino/monitoria/
                 <div class="row text-left">
                     <div class="col-12">
                         <p>
-                            <b>Prof.</b> Luciano L. Caimi - lcaimi@uffs.edu.br
-                           
+                            <b>Coordenador do Projeto</b> Prof. Luciano L. Caimi - lcaimi@uffs.edu.br
                         </p>
+                        <p>
+							              <b>Colaborador</b> Prof. Geomar A. Schreiner - gschreiner@uffs.edu.br
+						            </p>
+                        <p>
+							              <b>Monitor</b> Breno Soares - brenosoares4303@gmail.com
+						            </p>
+
                     </div>
                 </div> 
             </div> 
@@ -131,7 +137,28 @@ permalink: /ensino/monitoria/
       </div>
     </div>
   </div>
-</section> -->
+</section> 
+
+<h3>Horários de atendimento 2023/2</h3>
+
+{:.table}
+|  **Matutino** |  Segunda-Feira |   Terça-Feira  |  Quarta-Feira  |  Quinta-Feira  |  Sexta-Feira   |
+|:-------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
+| 08:00 - 12:00 |                |Breno           |Breno           |                |                |
+| **Vespertino**|        -       |       -        |       -        |       -        |        -       |
+|               |                |                |                |                |                |
+|  **Noturno**  |        -       |        -       |       -        |       -        |        -       |
+| 19:00 - 22:00 |Breno           |                |                |Breno           |                |
+
+<p>
+	Os atendimentos serão realizados presencialmente no Laboratório 402 do bloco B por ordem de chegada ou em grupos.
+</p>
+<p>
+	(*) Os atendimentos serão realizados remotamente. Envie um e-mail para o monitor agendando o seu horário com ao menos um dia de antecedência que ele encaminhará o link para a sala de atendimento remota.
+</p>
+<p>
+	Dias não letivos (feriados) ou com outras atividades institucionais planejadas pelo Curso (como semana acadêmica) não terão atendimento de monitoria.
+</p>
 
 <!-- <h3>Horários de atendimento 2021/1</h3> -->
 
