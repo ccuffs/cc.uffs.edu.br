@@ -5,3 +5,9 @@ fernando_bevilacqua:
   email: fernando.bevilacqua@uffs.edu.br
   bio: "Professor Ciência da Computação (UFFS)"
   avatar: avatars/fernando.bevilacqua.jpg
+
+ca:
+  name: Centro Acadêmico
+  email: cacomputacaouffs@gmail.com
+  bio: "Centro Acadêmico do curso de Ciência da Computação (UFFS)"
+  avatar: avatars/ca.jpg

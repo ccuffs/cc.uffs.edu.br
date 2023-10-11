@@ -3,7 +3,7 @@ title: "Projeto de extensão de desenvolvimento profissional e inovação tecnol
 layout: post
 categories: noticias
 last_modified_at: 2022-07-14
-highlight: true
+highlight: false
 highlight_order: 1
 active: true
 image:
