@@ -59,9 +59,6 @@ permalink: /ensino/monitoria/
 						<p>
 							<b>Monitor:</b> Renan Loewenstein - renan.lowe@hotmail.com
 						</p>
-						<p>
-							<b>Monitor:</b> Jacquet Leme - jacquetleme2021@gmail.com
-						</p>
 					</div>
 				</div> 
 			</div> 
@@ -78,11 +75,10 @@ permalink: /ensino/monitoria/
 |:-------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
 | 08:30 - 11:30 |                |                |                |                |Igor (*)        |
 | **Vespertino**|        -       |       -        |       -        |       -        |        -       |
-| 14:00 - 16:00 |                |Renan           |Jacquet         |Jacquet         |Renan (*)       |
-|               |                |Angemydelson    |Angemydelson (*)|                |                |
-| 16:00 - 18:00 |Jacquet         |Jacquet         |Renan           |Jacquet         |Renan (*)       |
-|               |                |                |Jacquet         |Angemydelson    |                |
-|               |                |                |Angemydelson (*)|                |                |
+| 14:00 - 16:00 |                |Angemydelson    |Angemydelson (*)|                |Renan (*)       |
+|               |                |Renan           |                |                |                |
+| 16:00 - 18:00 |                |                |Angemydelson (*)|Angemydelson    |Renan (*)       |
+|               |                |                |Renan           |                |                |
 |  **Noturno**  |        -       |        -       |       -        |       -        |        -       |
 | 18:20 - 19:00 |Igor            |Igor            |Igor            |Igor            |                |
 | 19:00 - 21:20 |Igor            |                |                |                |                |
