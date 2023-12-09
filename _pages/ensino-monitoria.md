@@ -75,13 +75,13 @@ permalink: /ensino/monitoria/
 |:-------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
 | 08:30 - 11:30 |                |                |                |                |Igor (*)        |
 | **Vespertino**|        -       |       -        |       -        |       -        |        -       |
-| 14:00 - 16:00 |                |Angemydelson    |Angemydelson (*)|                |Renan (*)       |
+| 13:00 - 14:00 |        -       |       -        |       -        |      Igor      |        -       |
+| 14:00 - 16:00 |                |Angemydelson    |Angemydelson (*)|      Igor      |Renan (*)       |
 |               |                |Renan           |                |                |                |
 | 16:00 - 18:00 |                |                |Angemydelson (*)|Angemydelson    |Renan (*)       |
-|               |                |                |Renan           |                |                |
+|               |                |                |Renan           |      Igor      |                |
 |  **Noturno**  |        -       |        -       |       -        |       -        |        -       |
-| 18:20 - 19:00 |Igor            |Igor            |Igor            |Igor            |                |
-| 19:00 - 21:20 |Igor            |                |                |                |                |
+|       -       |                |                |                |                |                |
 
 <p>
 	Os atendimentos serão realizados presencialmente no Laboratório 402 do bloco B por ordem de chegada ou em grupos.
