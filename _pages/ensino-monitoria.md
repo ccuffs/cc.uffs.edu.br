@@ -56,6 +56,9 @@ permalink: /ensino/monitoria/
 						<p>
 							<b>Monitor:</b> Angemydelson Saint-Bert - angemydelson.bert@estudante.uffs.edu.br
 						</p>
+						<p>
+							Os atendimentos serão realizados presencialmente no Laboratório 402 do bloco B por ordem de chegada ou em grupos.
+						</p>
 					</div>
 				</div> 
 			</div> 
@@ -68,18 +71,16 @@ permalink: /ensino/monitoria/
 <h3>Horários de atendimento 2024/1</h3>
 
 {:.table}
-|    Horário    |  Segunda-Feira |   Terça-Feira  |  Quarta-Feira  |  Quinta-Feira  |  Sexta-Feira   |
-|  **Matutino** |:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
-| 08:30 - 11:30 |                |                |                |                |    Igor (*)    |
-| **Vespertino**|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
-| 13:00 - 14:00 |                |                |                |      Igor      |                |
-| 14:00 - 16:00 |                |  Angemydelson  |Angemydelson (*)|      Igor      |                |
-| 16:00 - 18:00 |                |                |Angemydelson (*)|  Angemydelson  |                |
-|               |                |                |                |      Igor      |                |
+|    Horário    |Segunda-Feira|Terça-Feira |Quarta-Feira           |Quinta-Feira|Sexta-Feira|
+|  **Matutino** |:-----------:|:----------:|:---------------------:|:----------:|:---------:|
+| 08:30 - 11:30 |             |            |                       |Igor (*)    |           |                
+| **Vespertino**|:-----------:|:----------:|:---------------------:|:----------:|:---------:|
+| 14:00 - 16:00 |             |Angemydelson|Angemydelson (*)       |            |           |
+| 16:00 - 18:00 |             |            |Angemydelson (*)       |Angemydelson|           |
+|  **Noturno**  |:-----------:|:----------:|:---------------------:|:----------:|:---------:|
+| 18:20 - 19:00 |Igor         |Igor        |Angemydelson (*) e Igor|Angemydelson|           |
+| 19:00 - 22:00 |             |            |Igor                   |            |           |
 
-<p>
-	Os atendimentos serão realizados presencialmente no Laboratório 402 do bloco B por ordem de chegada ou em grupos.
-</p>
 <p>
 	(*) Os atendimentos serão realizados remotamente. Envie um e-mail para o monitor agendando o seu horário com ao menos um dia de antecedência que ele encaminhará o link para a sala de atendimento remota.
 </p>
