@@ -56,9 +56,6 @@ permalink: /ensino/monitoria/
 						<p>
 							<b>Monitor:</b> Angemydelson Saint-Bert - angemydelson.bert@estudante.uffs.edu.br
 						</p>
-						<p>
-							<b>Monitor:</b> Renan Loewenstein - renan.lowe@hotmail.com
-						</p>
 					</div>
 				</div> 
 			</div> 
@@ -68,20 +65,17 @@ permalink: /ensino/monitoria/
   </div>
 </section>
 
-<h3>Horários de atendimento 2023/2</h3>
+<h3>Horários de atendimento 2024/1</h3>
 
 {:.table}
-|  **Matutino** |  Segunda-Feira |   Terça-Feira  |  Quarta-Feira  |  Quinta-Feira  |  Sexta-Feira   |
-|:-------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
-| 08:30 - 11:30 |                |                |                |                |Igor (*)        |
-| **Vespertino**|        -       |       -        |       -        |       -        |        -       |
-| 13:00 - 14:00 |        -       |       -        |       -        |      Igor      |        -       |
-| 14:00 - 16:00 |                |Angemydelson    |Angemydelson (*)|      Igor      |Renan (*)       |
-|               |                |Renan           |                |                |                |
-| 16:00 - 18:00 |                |                |Angemydelson (*)|Angemydelson    |Renan (*)       |
-|               |                |                |Renan           |      Igor      |                |
-|  **Noturno**  |        -       |        -       |       -        |       -        |        -       |
-|       -       |                |                |                |                |                |
+|    Horário    |  Segunda-Feira |   Terça-Feira  |  Quarta-Feira  |  Quinta-Feira  |  Sexta-Feira   |
+|  **Matutino** |:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
+| 08:30 - 11:30 |                |                |                |                |    Igor (*)    |
+| **Vespertino**|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
+| 13:00 - 14:00 |                |                |                |      Igor      |                |
+| 14:00 - 16:00 |                |  Angemydelson  |Angemydelson (*)|      Igor      |                |
+| 16:00 - 18:00 |                |                |Angemydelson (*)|  Angemydelson  |                |
+|               |                |                |                |      Igor      |                |
 
 <p>
 	Os atendimentos serão realizados presencialmente no Laboratório 402 do bloco B por ordem de chegada ou em grupos.
