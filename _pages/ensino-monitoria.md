@@ -73,13 +73,13 @@ permalink: /ensino/monitoria/
 {:.table}
 |    Horário    |Segunda-Feira|Terça-Feira |Quarta-Feira           |Quinta-Feira|Sexta-Feira|
 |  **Matutino** |:-----------:|:----------:|:---------------------:|:----------:|:---------:|
-| 08:30 - 11:30 |             |            |                       |Igor (*)    |           |                
+| 07:30 - 11:30 |             |            |                       |Igor (*)    |           |                
 | **Vespertino**|:-----------:|:----------:|:---------------------:|:----------:|:---------:|
 | 14:00 - 16:00 |             |Angemydelson|Angemydelson (*)       |            |           |
 | 16:00 - 18:00 |             |            |Angemydelson (*)       |Angemydelson|           |
 |  **Noturno**  |:-----------:|:----------:|:---------------------:|:----------:|:---------:|
 | 18:20 - 19:00 |Igor         |Igor        |Angemydelson (*) e Igor|Angemydelson|           |
-| 19:00 - 22:00 |             |            |Igor                   |            |           |
+| 19:00 - 21:00 |             |            |Igor                   |            |           |
 
 <p>
 	(*) Os atendimentos serão realizados remotamente. Envie um e-mail para o monitor agendando o seu horário com ao menos um dia de antecedência que ele encaminhará o link para a sala de atendimento remota.
