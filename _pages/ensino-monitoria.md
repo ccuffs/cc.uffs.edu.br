@@ -129,16 +129,16 @@ permalink: /ensino/monitoria/
   </div>
 </section> 
 
-<h3>Horários de atendimento 2023/2</h3>
+<h3>Horários de atendimento 2024/1</h3>
 
 {:.table}
 |  **Matutino** |  Segunda-Feira |   Terça-Feira  |  Quarta-Feira  |  Quinta-Feira  |  Sexta-Feira   |
 |:-------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
-| 08:00 - 12:00 |                |Breno           |Breno           |                |                |
+| 08:00 - 12:00 | Breno          |Breno           |       -        |                |                |
 | **Vespertino**|        -       |       -        |       -        |       -        |        -       |
 |               |                |                |                |                |                |
 |  **Noturno**  |        -       |        -       |       -        |       -        |        -       |
-| 19:00 - 22:00 |Breno           |                |                |Breno           |                |
+| 19:00 - 22:00 |        -       |        -       | Breno          |Breno           | Breno*         |
 
 <p>
 	Os atendimentos serão realizados presencialmente no Laboratório 408 do bloco B por ordem de chegada ou em grupos.
@@ -146,6 +146,11 @@ permalink: /ensino/monitoria/
 <p>
 	Dias não letivos (feriados) ou com outras atividades institucionais planejadas pelo Curso (como semana acadêmica) não terão atendimento de monitoria.
 </p>
+<p>
+	*Nas sextas-feiras o horário de atendimento acontecerá até as 21 horas. 
+</p>
+
+
 
 <!-- <h3>Horários de atendimento 2021/1</h3> -->
 
