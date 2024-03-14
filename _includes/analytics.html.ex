@@ -1,4 +1,4 @@
-<!-- Google tag (gtag.js)
+<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -6,6 +6,6 @@
   gtag('js', new Date());
 
   gtag('config', 'G-XXXXXXXXXX');
-</script> -->
+</script> 
 
 <!-- EM G-XXXXXXXXXX INCLUIR O ID DE RASTREAMENTO GERADO AO CRIAR A CONTA DO G-ANALYTICS -->
