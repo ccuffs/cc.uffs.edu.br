@@ -193,7 +193,7 @@ permalink: /ensino/monitoria/
   </div>
 </section> -->
 
-<!-- <h3>Horários de atendimento 2021/1</h3> --> -->
+<!-- <h3>Horários de atendimento 2021/1</h3> -->
 
 <!-- {:.table}
 |  **Matutino** |  Segunda-Feira |   Terça-Feira  | Quarta-Feira | Quinta-Feira |   Sexta-Feira  |
