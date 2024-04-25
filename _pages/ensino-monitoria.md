@@ -51,9 +51,6 @@ permalink: /ensino/monitoria/
 							<b>Coordenador do Projeto</b> Prof. Felipe Grando - felipegrando@uffs.edu.br
 						</p>
 						<p>
-							<b>Monitor:</b> Igor Lautert Bazei - igorbazei.ilb@gmail.com
-						</p>
-						<p>
 							<b>Monitor:</b> Angemydelson Saint-Bert - angemydelson.bert@estudante.uffs.edu.br
 						</p>
 						<p>
@@ -71,14 +68,9 @@ permalink: /ensino/monitoria/
 <h3>Horários de atendimento 2024/1</h3>
 
 {:.table}
-|    Horário    |Segunda-Feira|Terça-Feira |Quarta-Feira           |Quinta-Feira|Sexta-Feira|
-|  **Matutino** |:-----------:|:----------:|:--------------:|:----------:|:--------------:|
-| 07:30 - 11:30 |             |            |                |Igor (*)    |                |                
+|    Horário    |Segunda-Feira|Terça-Feira |Quarta-Feira           |Quinta-Feira|Sexta-Feira|             
 | **Vespertino**|:-----------:|:----------:|:--------------:|:----------:|:--------------:|
 | 16:00 - 18:00 |             |Angemydelson|Angemydelson (*)|Angemydelson|Angemydelson (*)|
-|  **Noturno**  |:-----------:|:----------:|:--------------:|:----------:|:--------------:|
-| 18:20 - 19:00 |Igor         |Igor        |Igor            |            |                |
-| 19:00 - 21:00 |             |            |Igor            |            |                |
 
 <p>
 	(*) Os atendimentos serão realizados remotamente. Envie um e-mail para o monitor agendando o seu horário com ao menos um dia de antecedência que ele encaminhará o link para a sala de atendimento remota.
