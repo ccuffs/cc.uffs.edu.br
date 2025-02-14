@@ -51,7 +51,8 @@ permalink: /pessoas/
         {% include person-grid.html %}
       {% endfor %}
     </div>  
-      
+
+    <!--  
     <div class="row-50"></div>
     <div class="row">
         <div class="col-12">
@@ -67,7 +68,7 @@ permalink: /pessoas/
         {% include person-grid.html %}
       {% endfor %}
     </div>  
-      
+    -->  
       
     <div class="row-50"></div>
     <div class="row">
