@@ -39,6 +39,7 @@ permalink: /ensino/monitoria/
         </p>
         <p>Componentes Curriculares Atendidos:</p>
         <li>Algoritmos e Programação</li>
+        <li>Estruturas de Dados</li>
 
 		<div class="card mt-5">
 			<div class="card-header">
@@ -52,6 +53,9 @@ permalink: /ensino/monitoria/
 						</p>
 						<p>
 							<b>Colaborador</b> Prof. Felipe Grando - felipegrando@uffs.edu.br
+						</p>
+						<p>
+							<b>Monitor:</b> João L. A. Santos - jluis.kaldwin@gmail.com
 						</p>
 						<p>
 							<b>Monitor:</b> Marcos G. de S. Brito - marcos.brito@estudante.uffs.edu.br
@@ -68,17 +72,21 @@ permalink: /ensino/monitoria/
   </div>
 </section>
 
-<h3>Horários de atendimento 2024/2</h3>
+<h3>Horários de atendimento 2025/1</h3>
 
 {:.table}
-|   Horário    |Segunda-Feira|Terça-Feira |Quarta-Feira|Quinta-Feira|Sexta-Feira|
-|:------------:|:-----------:|:----------:|:----------:|:----------:|:---------:|
-|**Vespertino**|             |            |            |            |           |
-|12:15 - 14:25 |             |Marcos (*)  |Marcos (*)  |Marcos (*)  |           |
-|14:25 - 14:35 |             |            |            |Marcos (*)  |           |
-|16:00 - 17:30 |Pedro        |Pedro       |            |Pedro       |Pedro      |
-|**Noturno**   |             |            |            |            |           |
-|18:20 - 19:00 |Pedro, Marcos|Pedro       |            |Marcos      |Pedro      |
+|   Horário    |Segunda-Feira|Terça-Feira|Quarta-Feira|Quinta-Feira    |Sexta-Feira|
+|:------------:|:-----------:|:---------:|:----------:|:--------------:|:---------:|
+|**Vespertino**|             |           |            |                |           |
+|12:15 - 13:30 |             |Marcos (*) |Marcos (*)  |Marcos (*)      |           |
+|13:30 - 14:25 |             |Marcos (*) |Marcos (*)  |Marcos (*), João|           |
+|14:25 - 14:35 |             |           |            |Marcos (*), João|           |
+|14:35 - 16:00 |             |           |            |João            |           |
+|16:00 - 18:00 |             |Pedro      |            |                |Pedro, João|
+|**Noturno**   |             |           |            |                |           |
+|18:20 - 19:00 |Marcos       |Marcos     |            |                |           |
+|19:00 - 20:30 |Pedro        |           |João        |Pedro           |João       |
+|20:30 - 21:00 |Pedro        |           |João        |Pedro           |           |
 
 <p>
   Os atendimentos serão realizados presencialmente no Laboratório 306 do Bloco
