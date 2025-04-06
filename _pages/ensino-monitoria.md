@@ -58,6 +58,9 @@ permalink: /ensino/monitoria/
 							<b>Monitor:</b> João L. A. Santos - jluis.kaldwin@gmail.com
 						</p>
 						<p>
+							<b>Monitor:</b> Luan L. de L. Peloso - luan.peloso@estudante.uffs.edu.br
+						</p>
+						<p>
 							<b>Monitor:</b> Marcos G. de S. Brito - marcos.brito@estudante.uffs.edu.br
 						</p>
 						<p>
@@ -77,16 +80,18 @@ permalink: /ensino/monitoria/
 {:.table}
 |   Horário    |Segunda-Feira|Terça-Feira|Quarta-Feira|Quinta-Feira    |Sexta-Feira|
 |:------------:|:-----------:|:---------:|:----------:|:--------------:|:---------:|
+|**Matutino**  |             |           |            |                |           |
+|10:20 - 12:20 |             |Luan       |            |                |Luan       |
 |**Vespertino**|             |           |            |                |           |
 |12:15 - 13:30 |             |Marcos (*) |Marcos (*)  |Marcos (*)      |           |
 |13:30 - 14:25 |             |Marcos (*) |Marcos (*)  |Marcos (*), João|           |
 |14:25 - 14:35 |             |           |            |Marcos (*), João|           |
 |14:35 - 16:00 |             |           |            |João            |           |
-|16:00 - 18:00 |             |Pedro      |            |                |Pedro, João|
+|16:00 - 18:00 |             |Pedro      |            |                |Pedro      |
 |**Noturno**   |             |           |            |                |           |
 |18:20 - 19:00 |Marcos       |Marcos     |            |                |           |
-|19:00 - 20:30 |Pedro        |           |João        |Pedro           |João       |
-|20:30 - 21:00 |Pedro        |           |João        |Pedro           |           |
+|19:00 - 20:30 |Luan         |           |João        |Luan            |João       |
+|20:30 - 21:00 |Luan         |           |João        |Luan            |           |
 
 <p>
   Os atendimentos serão realizados presencialmente no Laboratório 306 do Bloco
