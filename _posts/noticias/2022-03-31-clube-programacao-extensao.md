@@ -3,7 +3,7 @@ title: "Projeto de extensão aprovado para o Clube de Programação"
 layout: post
 categories: noticias
 last_modified_at: 2022-03-31
-highlight: true
+highlight: false
 highlight_order: 3
 active: true
 image:

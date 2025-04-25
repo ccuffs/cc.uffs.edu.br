@@ -3,7 +3,7 @@ title: "Hacktoberfest 2021"
 layout: post
 categories: noticias
 last_modified_at: 2021-10-19T10:34:00-03:00
-highlight: true
+highlight: false
 highlight_order: 3
 active: false
 author: fernando_bevilacqua
@@ -24,7 +24,7 @@ Cada contribuição que você fizer durante o período (meses de Outubro e Novem
 
 ![Camisetas](/images/posts/camiseta-hf2021.jpg)
 
-Você ganha esses prêmios por cada novo _comentário_, _issue_ ou _pull request_ emitidos em seu nome para qualquer um dos repositórios do curso (ou parceiros) listados em [https://github.com/ccuffs](https://github.com/ccuffs). Para  garantir  que  todos  tenham  chance  de  ganhar  algo,  os  prêmios  serão  dados da seguinte forma: 
+Você ganha esses prêmios por cada novo _comentário_, _issue_ ou _pull request_ emitidos em seu nome para qualquer um dos repositórios do curso (ou parceiros) listados em [https://github.com/ccuffs](https://github.com/ccuffs). Para  garantir  que  todos  tenham  chance  de  ganhar  algo,  os  prêmios  serão  dados da seguinte forma:
 
 {:.table}
 | AÇÃO  | PREMIAÇÃO* |
@@ -42,21 +42,21 @@ ___*= Máximo 3 adesivos por pessoa. As contribuições precisam ser feitas nos 
 
 ## Participe
 
-Durante os meses do evento, haverá atividades para que os alunos aprendam sobre git, incrementem seus portfólios, e deixem seu perﬁl no Github cheio de coisas lindas! 
+Durante os meses do evento, haverá atividades para que os alunos aprendam sobre git, incrementem seus portfólios, e deixem seu perﬁl no Github cheio de coisas lindas!
 
 Não tem ideia ou criatividade sobre o que fazer? Nós te damos algumas dicas:
 
 * 🥳 No repositório [ccuffs/ideias](http://github.com/ccuffs/ideias), vá na aba [issues](https://github.com/ccuffs/ideias/issues), crie [uma nova issue](https://github.com/ccuffs/ideias/issues/new) com uma ideia sua (sobre qualquer assunto relacionado ao curso).
 
-* 🚀 O site do curso está no repositório [ccuffs/cc.uffs.edu.br](http://github.com/ccuffs/cc.uffs.edu.br). Ele pode ser melhorado em vários aspectos. 
+* 🚀 O site do curso está no repositório [ccuffs/cc.uffs.edu.br](http://github.com/ccuffs/cc.uffs.edu.br). Ele pode ser melhorado em vários aspectos.
 
-* 📝 Está escrevendo seu TCC? Ajude os futuros escritores com dicas, materiais ou links no [ccuffs/guia-tcc](https://github.com/ccuffs/guia-tcc). 
+* 📝 Está escrevendo seu TCC? Ajude os futuros escritores com dicas, materiais ou links no [ccuffs/guia-tcc](https://github.com/ccuffs/guia-tcc).
 
-* 🤓 Você certamente já fez alguma prova na UFFS. Que tal compartilhar essa prova com seus colegas em [ccuffs/provas-uffs](http://github.com/ccuffs/provas-uffs)? 
+* 🤓 Você certamente já fez alguma prova na UFFS. Que tal compartilhar essa prova com seus colegas em [ccuffs/provas-uffs](http://github.com/ccuffs/provas-uffs)?
 
-* 👩‍💻 Que tal aprender um pouco de Flutter e ainda ajudar com o aplicativo oficial do curso? Dê uma olhada em [ccuffs/app-cc](https://github.com/ccuffs/app-cc/). 
+* 👩‍💻 Que tal aprender um pouco de Flutter e ainda ajudar com o aplicativo oficial do curso? Dê uma olhada em [ccuffs/app-cc](https://github.com/ccuffs/app-cc/).
 
-* 🎲 Gosta de ciência de dados (ou quer aprender sobre)? Veja o repositório [grintex/dados-uffs](https://github.com/grintex/dados-uffs) (do [Grintex](https://grintex.uffs.cc), projeto de extensão do curso). 
+* 🎲 Gosta de ciência de dados (ou quer aprender sobre)? Veja o repositório [grintex/dados-uffs](https://github.com/grintex/dados-uffs) (do [Grintex](https://grintex.uffs.cc), projeto de extensão do curso).
 
 * 🤘 Quer implantar soluções tecnológicas na UFFS?  Contribua com os projetos do [PRACTICE](https://practice.uffs.edu.br) em [github.com/practice-uffs](https://github.com/practice-uffs).
 
