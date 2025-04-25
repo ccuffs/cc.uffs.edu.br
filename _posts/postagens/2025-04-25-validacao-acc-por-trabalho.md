@@ -15,7 +15,7 @@ A validação das Atividades Curriculares Complementares (ACCs) por tempo de tra
 
 O procedimento para solicitação de validação é o seguinte:
 
-1. **Copiar o arquivo** disponível no seguinte link: [Documento Modelo](https://docs.google.com/document/d/1mhFHp7XIhnyx2dFYemUADTFSWAlH5YfUMAWV_lwAaKc/edit?usp=sharing)
+1. **Copiar o arquivo** disponível no seguinte link: [Documento Modelo](https://docs.google.com/document/d/1mhFHp7XIhnyx2dFYemUADTFSWAlH5YfUMAWV_IwAaKc)
 2. **Preencher** o documento conforme as orientações do modelo.
 3. **Gerar um arquivo PDF** a partir do formulário devidamente preenchido.
 4. **Solicitar as assinaturas** de todos os responsáveis indicados no documento (assinatura eletrônica).
