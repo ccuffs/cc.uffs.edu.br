@@ -6,6 +6,9 @@ tags: [ACC]
 highlight: false
 highlight_order: 1
 active: true
+image:
+  teaser: posts/teaser-nova-coordenacao-amarelo-1600x800.png
+  feature: /images/posts/teaser-nova-coordenacao-amarelo-1600x800.png
 ---
 
 A validação das Atividades Curriculares Complementares (ACCs) por tempo de trabalho constitui uma possibilidade de aproveitamento de experiências profissionais pertinentes à área de Ciência da Computação, integrando-as à carga horária obrigatória do curso. Conforme disposto no Projeto Pedagógico do Curso (PPC), as ACCs estão organizadas em quatro grupos, sendo que o Grupo II (Extensão e Aprimoramento Profissional) contempla estágios não obrigatórios e atividades laborais relacionadas à computação.
