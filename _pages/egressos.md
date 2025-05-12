@@ -11,7 +11,8 @@ permalink: /egressos/
     </div>
 </div>
 
-<br><h2>A</h2>
+<br>
+<h2>A</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Acacia Dos Campos Da Terra</p>
 <p class="lead" style="margin-left: 30px;">Adriano Diego Zortéa</p>
@@ -36,20 +37,23 @@ permalink: /egressos/
 <p class="lead" style="margin-left: 30px;">Aron Scapinello Selhorst</p>
 <p class="lead" style="margin-left: 30px;">Artur Bernardo Mallmann</p>
 <p class="lead" style="margin-left: 30px;">Artur Constanzi Sponchiado</p>
-<br><h2>B</h2>
+<br>
+<h2>B</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Bernardo Beltrame Facchi</p>
 <p class="lead" style="margin-left: 30px;">Bruna gabriela disner</p>
 <p class="lead" style="margin-left: 30px;">Bruno Bevilaqua</p>
 <p class="lead" style="margin-left: 30px;">Bruno Ribeiro</p>
-<br><h2>C</h2>
+<br>
+<h2>C</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Carlos Andrei Carniel</p>
 <p class="lead" style="margin-left: 30px;">Cleiton Antonio Ambrosini</p>
 <p class="lead" style="margin-left: 30px;">Cleiton De Lima Pinto</p>
 <p class="lead" style="margin-left: 30px;">Cleiton Piccini</p>
 <p class="lead" style="margin-left: 30px;">Cleiton Puttlitz</p>
-<br><h2>D</h2>
+<br>
+<h2>D</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Daniel Mello Konflanz</p>
 <p class="lead" style="margin-left: 30px;">Darlan Adriano Schmitz</p>
@@ -61,7 +65,8 @@ permalink: /egressos/
 <p class="lead" style="margin-left: 30px;">Doglas Andre Finco</p>
 <p class="lead" style="margin-left: 30px;">Douglas Kosvoski</p>
 <p class="lead" style="margin-left: 30px;">Douglas Rosa</p>
-<br><h2>E</h2>
+<br>
+<h2>E</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Edimar Roque Martello Junior</p>
 <p class="lead" style="margin-left: 30px;">Edson Lemes Da Silva</p>
@@ -73,13 +78,15 @@ permalink: /egressos/
 <p class="lead" style="margin-left: 30px;">Estela Maris Vilas Boas</p>
 <p class="lead" style="margin-left: 30px;">Everaldo Pereira Gomes</p>
 <p class="lead" style="margin-left: 30px;">Everton De Assis Vieira</p>
-<br><h2>F</h2>
+<br>
+<h2>F</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Felipe Chabatura Neto</p>
 <p class="lead" style="margin-left: 30px;">Fernanda Da Silva Bonetti</p>
 <p class="lead" style="margin-left: 30px;">Fernando Franceschet De Souza</p>
 <p class="lead" style="margin-left: 30px;">Fernando Nesi</p>
-<br><h2>G</h2>
+<br>
+<h2>G</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Gabriel Batista Galli</p>
 <p class="lead" style="margin-left: 30px;">Gabriel Chittolina</p>
@@ -99,17 +106,20 @@ permalink: /egressos/
 <p class="lead" style="margin-left: 30px;">Guilherme smorcinski nerling</p>
 <p class="lead" style="margin-left: 30px;">Gustavo Bevilacqua</p>
 <p class="lead" style="margin-left: 30px;">Gustavo Cleiton Favero</p>
-<br><h2>H</h2>
+<br>
+<h2>H</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Henrique Jose Dalla Corte</p>
-<br><h2>I</h2>
+<br>
+<h2>I</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Iago Uilian Berndt</p>
 <p class="lead" style="margin-left: 30px;">Igor Beilner</p>
 <p class="lead" style="margin-left: 30px;">Igor Lemos Vicente</p>
 <p class="lead" style="margin-left: 30px;">Igor radtke</p>
 <p class="lead" style="margin-left: 30px;">Ivair Puerari</p>
-<br><h2>J</h2>
+<br>
+<h2>J</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Jackson Henrique Hochscheidt</p>
 <p class="lead" style="margin-left: 30px;">Jacson Luiz Matte</p>
@@ -129,11 +139,13 @@ permalink: /egressos/
 <p class="lead" style="margin-left: 30px;">Jose Eduardo Venson</p>
 <p class="lead" style="margin-left: 30px;">Jovani De Souza</p>
 <p class="lead" style="margin-left: 30px;">Juliana Isabel De Freitas Rosin</p>
-<br><h2>K</h2>
+<br>
+<h2>K</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Ketly Gonçalves Machado</p>
 <p class="lead" style="margin-left: 30px;">Kevin Mitchell Spiller</p>
-<br><h2>L</h2>
+<br>
+<h2>L</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Lais Borin</p>
 <p class="lead" style="margin-left: 30px;">Laurivan Sareta</p>
@@ -154,7 +166,8 @@ permalink: /egressos/
 <p class="lead" style="margin-left: 30px;">Luis Henrique Generali</p>
 <p class="lead" style="margin-left: 30px;">Luis Henrique Wasem De Oliveira</p>
 <p class="lead" style="margin-left: 30px;">Luis Paulo Correa</p>
-<br><h2>M</h2>
+<br>
+<h2>M</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Maicon Brandao</p>
 <p class="lead" style="margin-left: 30px;">Maicon Ghidolin</p>
@@ -181,7 +194,8 @@ permalink: /egressos/
 <p class="lead" style="margin-left: 30px;">Michel Chagas Da Costa</p>
 <p class="lead" style="margin-left: 30px;">Michel Felipe Welter</p>
 <p class="lead" style="margin-left: 30px;">Murillo Andre Maleski</p>
-<br><h2>N</h2>
+<br>
+<h2>N</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Natan Artini Ferrandin</p>
 <p class="lead" style="margin-left: 30px;">Natan Jose Mai</p>
@@ -191,18 +205,21 @@ permalink: /egressos/
 <p class="lead" style="margin-left: 30px;">Nicolas Kolling Ribas</p>
 <p class="lead" style="margin-left: 30px;">Nubia Claudia Pontel</p>
 <p class="lead" style="margin-left: 30px;">Nícolas Ruwer Hackenhar</p>
-<br><h2>O</h2>
+<br>
+<h2>O</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Obenson Maurice</p>
 <p class="lead" style="margin-left: 30px;">Otavio Augusto Dellay Secco</p>
-<br><h2>P</h2>
+<br>
+<h2>P</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Patric Dalcin Venturini</p>
 <p class="lead" style="margin-left: 30px;">Patrick Junior Molinari De Bastiani</p>
 <p class="lead" style="margin-left: 30px;">Paulo Didone Junior</p>
 <p class="lead" style="margin-left: 30px;">Paulo Eduardo Rodrigues Werle</p>
 <p class="lead" style="margin-left: 30px;">Paulo Gabriel Sena Comasetto</p>
-<br><h2>R</h2>
+<br>
+<h2>R</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Rafael Hengen Ribeiro</p>
 <p class="lead" style="margin-left: 30px;">Rafaelle larisa de arruda</p>
@@ -228,13 +245,15 @@ permalink: /egressos/
 <p class="lead" style="margin-left: 30px;">Rodrigo Miguel Tomazi</p>
 <p class="lead" style="margin-left: 30px;">Rodrigo Rech Moraes</p>
 <p class="lead" style="margin-left: 30px;">Roseli Wenzel</p>
-<br><h2>S</h2>
+<br>
+<h2>S</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Sabrina Moczulski</p>
 <p class="lead" style="margin-left: 30px;">Sebastien Lionel Lubin</p>
 <p class="lead" style="margin-left: 30px;">Silvana Trindade</p>
 <p class="lead" style="margin-left: 30px;">Stéfani caroline frare meneghetti</p>
-<br><h2>T</h2>
+<br>
+<h2>T</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Tailan Rodrigo Bonassi</p>
 <p class="lead" style="margin-left: 30px;">Tainam spagnollo garbin</p>
@@ -242,7 +261,8 @@ permalink: /egressos/
 <p class="lead" style="margin-left: 30px;">Tatiane Arndt Barbosa</p>
 <p class="lead" style="margin-left: 30px;">Thiago Henrique Ferreira Correa</p>
 <p class="lead" style="margin-left: 30px;">Thiago Mendes Da Silva</p>
-<br><h2>V</h2>
+<br>
+<h2>V</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Vagno Serpa</p>
 <p class="lead" style="margin-left: 30px;">Vinicius Batirola Mittmann</p>
@@ -251,7 +271,8 @@ permalink: /egressos/
 <p class="lead" style="margin-left: 30px;">Vitor Antonio Apolinario</p>
 <p class="lead" style="margin-left: 30px;">Vitor Guilherme Forbrig</p>
 <p class="lead" style="margin-left: 30px;">Vladimir Belinski</p>
-<br><h2>W</h2>
+<br>
+<h2>W</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Wagner Frana</p>
 <p class="lead" style="margin-left: 30px;">Wagner Osorio Bender</p>
@@ -259,6 +280,7 @@ permalink: /egressos/
 <p class="lead" style="margin-left: 30px;">William De Witt Tomazini</p>
 <p class="lead" style="margin-left: 30px;">Willian Bordignon Genero</p>
 <p class="lead" style="margin-left: 30px;">Winder Hipolito Dias Junior</p>
-<br><h2>Y</h2>
+<br>
+<h2>Y</h2>
 <hr/>
 <p class="lead" style="margin-left: 30px;">Yrui Giovan Neris</p>
