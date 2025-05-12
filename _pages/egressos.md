@@ -7,7 +7,7 @@ permalink: /egressos/
 <div class="row align-items-center pt-2 pt-lg-5 mb-5">
     <div class="col-md-8">
     <h2>Lista de Egressos</h2>
-    <p class="lead">Lista de discentes formados até o momento (10/11/2023) no curso.</p>
+    <p class="lead">Lista de discentes formados até o momento (12/05/2025) no curso.</p>
     </div>
 </div>
 
