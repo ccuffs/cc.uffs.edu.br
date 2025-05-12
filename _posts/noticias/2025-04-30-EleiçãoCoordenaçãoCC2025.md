@@ -15,3 +15,5 @@ image:
 Edital --> [link]( https://drive.google.com/file/d/10_Pp8siXs3bGxu2bBnLdN-59-EdNmpE7/view?usp=drive_link)
 
 Docentes elegíveis --> [link](https://drive.google.com/file/d/1Lf4K3H_3TVQC4TXYQ_rrxKuYf1ub-t1U/view?usp=drive_link)
+
+Homologação provisória das chapas inscritas -->: [link] (https://drive.google.com/file/d/1PZnhGPABXwYp_ZeQTYzY7jFm2KLaOWO3/view?usp=sharing)
