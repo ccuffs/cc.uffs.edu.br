@@ -16,4 +16,6 @@ Edital --> [link]( https://drive.google.com/file/d/10_Pp8siXs3bGxu2bBnLdN-59-EdN
 
 Docentes elegíveis --> [link](https://drive.google.com/file/d/1Lf4K3H_3TVQC4TXYQ_rrxKuYf1ub-t1U/view?usp=drive_link)
 
-Homologação provisória das chapas inscritas -->: [link](https://drive.google.com/file/d/1PZnhGPABXwYp_ZeQTYzY7jFm2KLaOWO3/view?usp=sharing)
+Homologação provisória das chapas inscritas --> [link](https://drive.google.com/file/d/1PZnhGPABXwYp_ZeQTYzY7jFm2KLaOWO3/view?usp=sharing)
+
+Homologação final das chapas inscritas --> [link](https://drive.google.com/file/d/1mb9MKh9fge_hZeIccmBU0SoTFewcptsz/view?usp=sharing)
