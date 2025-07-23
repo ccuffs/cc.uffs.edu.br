@@ -17,7 +17,7 @@ permalink: /sobre/
             O curso de Ciência da Computação da UFFS pretende, através de bases sólidas de computação, formar profissionais capazes de desempenhar um papel importante em áreas da Tecnologia da Informação (TI), tanto na Indústria quanto na Academia.
         </p>
         <p class="mt-4">
-            <a class="btn btn-info" href="https://www.uffs.edu.br/campi/chapeco/cursos/graduacao/ciencia-da-computacao/">Ver informações institucionais (site UFFS)</a>
+            <a class="btn btn-info" href="https://www.uffs.edu.br/uffs/ciencia-da-computacao/perfil-do-curso-chapeco">Ver informações institucionais (site UFFS)</a>
         </p>
       </div>
       <div class="col-8 col-md-4 m-auto m-md-0 ml-md-auto pt-5">
