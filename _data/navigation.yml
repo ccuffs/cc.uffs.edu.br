@@ -13,7 +13,7 @@
     - title: Infraestrutura
       url: /infra
     - title: Pessoas
-      url: /pessoas    
+      url: /pessoas
     - title: Egressos
       url: /egressos
     - title: ---
@@ -22,6 +22,8 @@
     - title: ---
     - title: Centro Acadêmico (CA)
       url: /ca
+    - title: Atlética (AAACC)
+      url: /aaaccn
     - title: ---
     - title: Notícias
       url: /noticias

@@ -1,7 +1,7 @@
 ---
 layout: hero
 title: "Associação Atlética Acadêmica de Ciência da Computação Navegadores"
-permalink: /aaccn/
+permalink: /aaaccn/
 ---
 
 <div class="row align-items-center pt-2 pt-lg-5">
