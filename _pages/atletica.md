@@ -17,29 +17,36 @@ permalink: /aaaccn/
 </div>
 
 <section class="fdb-block team-8 mt-5">
-        <div class="row">
-            <div class="col-12">
-                <h2>Comunicação</h2>
-                <hr />
-            </div>
+    <div class="row">
+        <div class="col-12">
+            <h2>Comunicação</h2>
+            <hr/>
         </div>
-        <div class="row" >
-            <div class="col-11">
-                <h4 class="font-semibold text-lg text-white block" >Instragram</h4>
-                <p>Siga o nosso perfil oficial no Instagram e confira nossas atividades <a href="https://www.instagram.com/aaccnavegadores/" target="_blank">@aaaccnavegadores</a></p>
-            </div>
-            <div class="col-11">
-                <h4 class="font-semibold text-lg text-white block" >E-mail</h4>
-                <p>Dúvidas, demandas ou assuntos relacionado <a href="mailto:aaaccnavegadores@gmail.com" target="_blank">aaaccnavegadores@gmail.com</a></p>
-            </div>
-              <div class="col-11">
-                <h4 class="font-semibold text-lg text-white block" >Membro</h4>
-                <p>Se torne  <a href="https://inscricaonave.netlify.app/atualizar?" target="_blank">Membro</a> da Nave (é grátis)!</p>
-            </div>
-            <div class="col-11">
-                <h4 class="font-semibold text-lg text-white block" >Linktree</h4>
-                <p>Acesse nosso <a href="https://linktr.ee/aaaccnavegadores?utm_source=linktree_profile_share&ltsid=46de23ad-bb26-41dc-9142-d2dd629dc39f" target="_blank">LinkTree</a></p>
-            </div>
+    </div>
+    <div class="row">
+        <div class="col-11">
+            <h4 class="font-semibold text-lg text-white block">Instagram</h4>
+            <p>Siga o nosso perfil oficial no Instagram e confira nossas atividades 
+                <a href="https://www.instagram.com/aaaccnavegadores/" target="_blank">@aaaccnavegadores</a>
+            </p> 
         </div>
+        <div class="col-11">
+            <h4 class="font-semibold text-lg text-white block">E-mail</h4>
+            <p>Dúvidas, demandas ou assuntos relacionados 
+                <a href="mailto:aaaccnavegadores@gmail.com" target="_blank">aaaccnavegadores@gmail.com</a>
+            </p> 
+        </div>
+        <div class="col-11">
+            <h4 class="font-semibold text-lg text-white block">Membro</h4>
+            <p>Se torne 
+                <a href="https://inscricaonave.netlify.app/atualizar?" target="_blank">Membro</a> da Nave (é grátis)!
+            </p> 
+        </div> 
+        <div class="col-11">
+            <h4 class="font-semibold text-lg text-white block">Linktree</h4>
+            <p>Acesse nosso 
+                <a href="https://linktr.ee/aaaccnavegadores?utm_source=linktree_profile_share&ltsid=46de23ad-bb26-41dc-9142-d2dd629dc39f" target="_blank">LinkTree</a>
+            </p> 
+        </div>    
     </div>
 </section>
