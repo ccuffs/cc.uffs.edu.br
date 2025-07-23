@@ -1,7 +1,7 @@
 ---
 layout: hero
 title: "Associação Atlética Acadêmica de Ciência da Computação Navegadores"
-permalink: /aaccn/
+permalink: /aaaccn/
 ---
 
 <div class="row align-items-center pt-2 pt-lg-5">
@@ -26,20 +26,20 @@ permalink: /aaccn/
         <div class="row" >
             <div class="col-11">
                 <h4 class="font-semibold text-lg text-white block" >Instragram</h4>
-                <p>Siga o nosso perfil oficial no Instagram e confira nossas atividades <a href="https://www.instagram.com/aaccnavegadores/" target="_blank">@aaaccnavegadores</a></p> 
+                <p>Siga o nosso perfil oficial no Instagram e confira nossas atividades <a href="https://www.instagram.com/aaccnavegadores/" target="_blank">@aaaccnavegadores</a></p>
             </div>
             <div class="col-11">
                 <h4 class="font-semibold text-lg text-white block" >E-mail</h4>
-                <p>Dúvidas, demandas ou assuntos relacionado <a href="mailto:aaaccnavegadores@gmail.com" target="_blank">aaaccnavegadores@gmail.com</a></p> 
+                <p>Dúvidas, demandas ou assuntos relacionado <a href="mailto:aaaccnavegadores@gmail.com" target="_blank">aaaccnavegadores@gmail.com</a></p>
             </div>
               <div class="col-11">
                 <h4 class="font-semibold text-lg text-white block" >Membro</h4>
-                <p>Se torne  <a href="https://inscricaonave.netlify.app/atualizar?" target="_blank">Membro</a> da Nave (é grátis)!</p> 
-            </div> 
+                <p>Se torne  <a href="https://inscricaonave.netlify.app/atualizar?" target="_blank">Membro</a> da Nave (é grátis)!</p>
+            </div>
             <div class="col-11">
                 <h4 class="font-semibold text-lg text-white block" >Linktree</h4>
-                <p>Acesse nosso <a href="https://linktr.ee/aaaccnavegadores?utm_source=linktree_profile_share&ltsid=46de23ad-bb26-41dc-9142-d2dd629dc39f" target="_blank">LinkTree</a></p> 
-            </div>    
+                <p>Acesse nosso <a href="https://linktr.ee/aaaccnavegadores?utm_source=linktree_profile_share&ltsid=46de23ad-bb26-41dc-9142-d2dd629dc39f" target="_blank">LinkTree</a></p>
+            </div>
         </div>
     </div>
 </section>
