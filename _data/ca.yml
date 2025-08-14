@@ -1,51 +1,34 @@
 # CA People
 
-- id: andrew.gomes
-  name: Andrew Gabriel
-  email: andrew.gabrielgomes@gmail.com
+- id:  rafaela.gehrke
+  name: Rafaela Gehrke
+  email: rafaela.gehrke@estudante.uffs.edu.br
   position: Presidente
-  github: Andrewgaabriel
 
-- id: natalia.banhara
-  name: Natália Banhara
+- id: andrei.magrin
+  name: Andrei Magrin
   position: Vice-Presidente
-  email: natalia.banhara25@gmail.com
-  github: NathyBanhara
+  email: andreimagrin@gmail.com
 
-- id: bruna.disner
-  name: Bruna Gabriela Disner
+- id: sophia.silveirah
+  name: Sophia Silveira Marques
   position: Secretária Geral
-  email: bruna.disner@gmail.com
-  github: Brunadisner
+  email: sophiasilveirah@gmail.com
+  github: SophiSilv
 
-- id: gustavo.sutil
-  name: Gustavo Sutil
-  position: Tesoureiro Geral
-  email: gustavosutil242@gmail.com
-  github: gustavoSutil
+- id: solek.mariaclara
+  name: Maria Clara Solek da Costa Vaz
+  position: Diretora de Relações Públicas
+  email: solekmariaclara@gmail.com
+  github: mariasolek
 
-- id: aline.morais
-  name: Aline Faria Morais
-  position: 1ª Secretária de Eventos
-  email: alinefmorais29@gmail.com
-  github: AlineFMorais
+- id: luiz.izycki
+  name: Luiz Gustavo da Silva Izycki
+  position: Suplente
+  email: luizizycki2006@gmail.com
 
-- id: larissa.mones
-  name: Larissa Mones Bedin
-  position: 2ª Secretária de Eventos
-  email: larissamones12@gmail.com
-  github: larimones
-
-- id: guilherme.ribeiro
-  name: Guilherme Ribeiro
-  position: 1º Secretário de Marketing
-  email: ribeiroscortegagna3@gmail.com
-
-- id: thaila.roani
-  name: Thaila Roanni
-  position: 2ª Secretária de Marketing
-  email: thailaroani@gmail.com
-  github: smlltox
-
-
-
+- id: bdmacedo.sana
+  name: Bruno de Macêdo Sanagiotto
+  position: Tesoureiro
+  email: bdmacedosana@gmail.com
+  github: brunodms
