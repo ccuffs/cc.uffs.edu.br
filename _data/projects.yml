@@ -22,7 +22,6 @@
   author: Felipe Grando
   author_id: felipegrando
   title: Modelagem de oponentes para o treinamento de modelos baseados na Busca em Árvore de Monte Carlo no jogo de tabuleiro Citadels
-  description: 
   date_start: 2024
   date_end: 2025
   image:
@@ -35,7 +34,6 @@
   author: Felipe Grando
   author_id: felipegrando
   title: Resolução de Problemas por meio da Aplicação de Técnicas Avançadas de Inteligência Artificial
-  description: 
   date_start: 2024
   date_end: 2028
   image:
@@ -47,8 +45,7 @@
   active: true
   author: Felipe Grando
   author_id: felipegrando
-  title: Monte Carlo Tree Search: A review of drawbacks, advantages and limitations in complex multiplayer games
-  description: 
+  title: Monte Carlo Tree Search: A review of drawbacks, advantages and limitations in complex multiplayer games 
   date_start: 2025
   date_end: 2026
   image:
