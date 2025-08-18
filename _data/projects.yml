@@ -16,6 +16,45 @@
     teaser: posts/thumbnail-extensao-512x512.png
     feature: /images/posts/extensao-1600x800.png
 
+- project:
+  type: project-research
+  active: false
+  author: Felipe Grando
+  author_id: felipegrando
+  title: Modelagem de oponentes para o treinamento de modelos baseados na Busca em Árvore de Monte Carlo no jogo de tabuleiro Citadels
+  description: 
+  date_start: 2024
+  date_end: 2025
+  image:
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
+
+- project:
+  type: project-research
+  active: true
+  author: Felipe Grando
+  author_id: felipegrando
+  title: Resolução de Problemas por meio da Aplicação de Técnicas Avançadas de Inteligência Artificial
+  description: 
+  date_start: 2024
+  date_end: 2028
+  image:
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
+
+- project:
+  type: project-research
+  active: true
+  author: Felipe Grando
+  author_id: felipegrando
+  title: Monte Carlo Tree Search: A review of drawbacks, advantages and limitations in complex multiplayer games
+  description: 
+  date_start: 2025
+  date_end: 2026
+  image:
+    teaser: posts/thumbnail-pesquisa-512x512.png
+    feature: /images/posts/pesquisa-1600x800.png
+
 # Fernando
 - project:
   type: project-research
