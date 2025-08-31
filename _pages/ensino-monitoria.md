@@ -25,7 +25,7 @@ permalink: /ensino/monitoria/
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 text-left">
-        <h2>Monitoria de Algoritmos - Projeto ENS-2024-0046</h2>
+        <h2>Monitoria de Algoritmos - Projeto ENS-2025-0101</h2>
         <hr/>
         <p>
             A aprendizagem de uma linguagem de programação apresenta um dos
@@ -55,16 +55,16 @@ permalink: /ensino/monitoria/
 							<b>Colaborador</b> Prof. Felipe Grando - felipegrando@uffs.edu.br
 						</p>
 						<p>
-							<b>Monitor:</b> João L. A. Santos - jluis.kaldwin@gmail.com
+							<b>Monitor:</b> Carol T. Oliveira - carololiver5500@gmail.com
 						</p>
 						<p>
-							<b>Monitor:</b> Luan L. de L. Peloso - luan.peloso@estudante.uffs.edu.br
-						</p>
-						<p>
-							<b>Monitor:</b> Marcos G. de S. Brito - marcos.brito@estudante.uffs.edu.br
+							<b>Monitor:</b> Wagner Rech Neto - w8gu1nh0@gmail.com
 						</p>
 						<p>
 							<b>Monitor:</b> Pedro H. P. Dariva - darivafilho@hotmail.com
+						</p>
+						<p>
+							<b>Monitor:</b> Pedro Spegiorin
 						</p>
 					</div>
 				</div> 
@@ -75,23 +75,21 @@ permalink: /ensino/monitoria/
   </div>
 </section>
 
-<h3>Horários de atendimento 2025/1</h3>
+<h3>Horários de atendimento 2025/2</h3>
 
 {:.table}
-|   Horário    |Segunda-Feira|Terça-Feira|Quarta-Feira|Quinta-Feira    |Sexta-Feira|
-|:------------:|:-----------:|:---------:|:----------:|:--------------:|:---------:|
-|**Matutino**  |             |           |            |                |           |
-|10:20 - 12:20 |             |Luan       |            |                |Luan       |
-|**Vespertino**|             |           |            |                |           |
-|12:15 - 13:30 |             |Marcos (*) |Marcos (*)  |Marcos (*)      |           |
-|13:30 - 14:25 |             |Marcos (*) |Marcos (*)  |Marcos (*), João|           |
-|14:25 - 14:35 |             |           |            |Marcos (*), João|           |
-|14:35 - 16:00 |             |           |            |João            |           |
-|16:00 - 18:00 |             |Pedro      |            |                |Pedro      |
-|**Noturno**   |             |           |            |                |           |
-|18:20 - 19:00 |Marcos       |Marcos     |            |                |           |
-|19:00 - 20:30 |Luan         |           |João        |Luan            |João       |
-|20:30 - 21:00 |Luan         |           |João        |Luan            |           |
+|   Horário    |Segunda-Feira|Terça-Feira               |Quarta-Feira |Quinta-Feira    |Sexta-Feira                        |
+|:------------:|:-----------:|:------------------------:|:-----------:|:--------------:|:---------------------------------:|
+|**Matutino**  |             |                          |             |                |                                   |
+|08:00 - 11:00 |             |Wagner (*)                |             |                |                                   |
+|**Vespertino**|             |                          |             |                |                                   |
+|13:00 - 13:40 |             |                          |             |Pedro Spegiorin |Pedro Piaia                        |
+|13:40 - 16:00 |             |                          |             |Pedro Spegiorin |Carol, Pedro Piaia                 |
+|16:00 - 17:00 |             |                          |             |Pedro Spegiorin |Carol, Pedro Piaia, Pedro Spegiorin|
+|17:00 - 18:00 |             |                          |             |                |Carol, Pedro Piaia, Pedro Spegiorin|
+|18:00 - 18:20 |             |                          |             |                |Carol                              |
+|**Noturno**   |             |                          |             |                |                                   |
+|18:20 - 19:00 |Carol, Wagner|Carol, Pedro Piaia, Wagner|Carol, Wagner|Carol, Wagner   |Carol                              |
 
 <p>
   Os atendimentos serão realizados presencialmente no Laboratório 306 do Bloco
