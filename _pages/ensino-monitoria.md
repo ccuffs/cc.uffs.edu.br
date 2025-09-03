@@ -64,7 +64,7 @@ permalink: /ensino/monitoria/
 							<b>Monitor:</b> Pedro H. P. Dariva - darivafilho@hotmail.com
 						</p>
 						<p>
-							<b>Monitor:</b> Pedro Spegiorin
+							<b>Monitor:</b> Pedro Spegiorin - lefttolive@proton.me
 						</p>
 					</div>
 				</div> 
