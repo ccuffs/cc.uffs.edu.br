@@ -1,9 +1,9 @@
 ---
-title: "Defesas TCC 2025.2"
+title: "Defesas de TCC 2025.2"
 layout: post
 categories: noticias
 modified: 2025-11-24
-last_modified_at: 2025-04-25T17:01:-00-03:00
+last_modified_at: 2025-11-25T17:01:-00-03:00
 highlight: False
 highlight_order: 2
 active: true
