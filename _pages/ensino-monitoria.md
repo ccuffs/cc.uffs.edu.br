@@ -49,10 +49,10 @@ permalink: /ensino/monitoria/
 				<div class="row text-left">
 					<div class="col-12">
 						<p>
-							<b>Coordenador do Projeto</b> Prof. Andrei de A. S. Braga - andrei.braga@uffs.edu.br
+							<b>Coordenador:</b> Prof. Andrei de A. S. Braga - andrei.braga@uffs.edu.br
 						</p>
 						<p>
-							<b>Colaborador</b> Prof. Felipe Grando - felipegrando@uffs.edu.br
+							<b>Colaborador:</b> Prof. Felipe Grando - felipegrando@uffs.edu.br
 						</p>
 						<p>
 							<b>Monitor:</b> Carol T. Oliveira - carololiver5500@gmail.com
@@ -61,10 +61,7 @@ permalink: /ensino/monitoria/
 							<b>Monitor:</b> Wagner Rech Neto - w8gu1nh0@gmail.com
 						</p>
 						<p>
-							<b>Monitor:</b> Pedro H. P. Dariva - darivafilho@hotmail.com
-						</p>
-						<p>
-							<b>Monitor:</b> Pedro Spegiorin - lefttolive@proton.me
+							<b>Monitor:</b> Thiago A. B. Spanevello - taspanevello@gmail.com
 						</p>
 					</div>
 				</div> 
@@ -75,32 +72,34 @@ permalink: /ensino/monitoria/
   </div>
 </section>
 
-<h3>Horários de atendimento 2025/2</h3>
+<h3>Horários de atendimento 2026/1</h3>
 
 {:.table}
-|   Horário    |Segunda-Feira|Terça-Feira               |Quarta-Feira |Quinta-Feira    |Sexta-Feira                        |
-|:------------:|:-----------:|:------------------------:|:-----------:|:--------------:|:---------------------------------:|
-|**Matutino**  |             |                          |             |                |                                   |
-|08:00 - 11:00 |             |Wagner (*)                |             |                |                                   |
-|**Vespertino**|             |                          |             |                |                                   |
-|13:00 - 13:40 |             |                          |             |Pedro Spegiorin |Pedro Piaia                        |
-|13:40 - 16:00 |             |                          |             |Pedro Spegiorin |Carol, Pedro Piaia                 |
-|16:00 - 17:00 |             |                          |             |Pedro Spegiorin |Carol, Pedro Piaia, Pedro Spegiorin|
-|17:00 - 18:00 |             |                          |             |                |Carol, Pedro Piaia, Pedro Spegiorin|
-|18:00 - 18:20 |             |                          |             |                |Carol                              |
-|**Noturno**   |             |                          |             |                |                                   |
-|18:20 - 19:00 |Carol, Wagner|Carol, Pedro Piaia, Wagner|Carol, Wagner|Carol, Wagner   |Carol                              |
+|   Horário    |Segunda-Feira|Terça-Feira|Quarta-Feira |Quinta-Feira |Sexta-Feira  |
+|:------------:|:-----------:|:---------:|:-----------:|:-----------:|:-----------:|
+|**Matutino**  |             |           |             |             |             |
+|10:00 - 12:20 |Wagner       |           |             |             |             |
+|**Vespertino**|             |           |             |             |             |
+|14:00 - 17:00 |             |           |             |Carol        |             |
+|17:00 - 18:00 |             |           |             |Carol, Wagner|             |
+|18:00 - 18:20 |             |           |             |Wagner       |             |
+|18:20 - 18:30 |             |           |Carol        |Carol        |Carol        |
+|**Noturno**   |             |           |             |             |             |
+|18:30 - 19:00 |Thiago       |           |Carol, Thiago|Carol, Thiago|Carol, Thiago|
+|19:00 - 20:00 |             |           |Carol, Thiago|             |Carol, Wagner|
+|20:00 - 21:20 |             |           |Thiago       |             |Wagner       |
+|21:20 - 22:00 |             |           |Thiago       |             |             |
 
 <p>
   Os atendimentos serão realizados presencialmente no Laboratório 306 do Bloco
   B por ordem de chegada ou em grupos.
 </p>
-<p>
-  (*) Os atendimentos serão realizados remotamente por meio da sala de reunião
-  virtual indicada aos discentes.
-  Preferencialmente, deverá ser enviado um e-mail para o monitor agendando o
-  horário de atendimento com ao menos um dia de antecedência.
-</p>
+<!-- <p> -->
+<!--   (*) Os atendimentos serão realizados remotamente por meio da sala de reunião -->
+<!--   virtual indicada aos discentes. -->
+<!--   Preferencialmente, deverá ser enviado um e-mail para o monitor agendando o -->
+<!--   horário de atendimento com ao menos um dia de antecedência. -->
+<!-- </p> -->
 <p>
 	Dias não letivos (feriados) ou com outras atividades institucionais
 	planejadas pelo Curso (como semana acadêmica) não terão atendimento de
