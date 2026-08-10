@@ -84,15 +84,15 @@ permalink: /ensino/monitoria/
 |:-------------:|:---------------:|:--------------:|:--------------:|:--------------:|:--------------:|
 | 10:00 - 12:20 | Diogo (online)  | Carol          | Rafael (online)|                |                |
 |**Vespertino** |       -         |       -        |       -        |       -        |        -       |
-| 13:30 - 16:00 | Rafael, Diogo   | Jessica (online)| Jessica, Diogo|                |                |
-| 16:00 - 18:00 | Rafael          | Rafael, Jessica (online), Diogo | Diogo |      |                |
-| 18:00 - 18:20 | Jessica         | Jessica        | Jessica        |                |                |
-| 18:20 - 18:30 | Jessica         | Jessica        | Jessica        |                |                |
-| **Noturno**   |       -         |        -       |       -        |       -        |       -        |
+| 13:30 - 16:00 | Rafael, Diogo   |                | Jessica, Diogo|                |    Jessica, Diogo            |
+| 16:00 - 18:00 | Rafael          | Rafael, Jessica (online), Diogo | Diogo |      |       Diogo         |
+| 18:00 - 18:20 | Jessica         |                  |              |    Jessica            |                |
+| 18:20 - 18:30 | Jessica         |                   |         |       Jessica         |     Jessica            |
+| **Noturno**   |       -         |        -       |       -        |       -        |       Jessica        |
 | 18:30 - 19:00 | Rafael, Carol   | Jessica, Carol | Rafael, Carol  | Jessica, Carol, Diogo | AULA |
 | 19:00 - 20:00 | Rafael, Carol   | Jessica        | Rafael, Carol  | Diogo          | AULA |
 | 20:00 - 21:20 | Rafael, Carol   | Jessica        | Rafael, Carol  | Diogo          | AULA |
-| 21:20 - 22:00 | Rafael, Carol   | Jessica        | Rafael, Carol  | Diogo          | AULA |
+| 21:20 - 22:00 | Rafael, Carol   | Jessica        | Rafael, Carol  |           | AULA |
 
 <p>
   Os atendimentos serão realizados presencialmente no Laboratório 402 do Bloco
