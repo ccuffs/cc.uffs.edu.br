@@ -38,8 +38,10 @@ permalink: /ensino/monitoria/
             exercícios e outras atividades complementares.
         </p>
         <p>Componentes Curriculares Atendidos:</p>
-        <li>Algoritmos e Programação</li>
-        <li>Estruturas de Dados</li>
+        <ul>
+            <li>Algoritmos e Programação</li>
+            <li>Estruturas de Dados</li>
+        </ul>
 
         <div class="card mt-5">
             <div class="card-header">
@@ -75,22 +77,23 @@ permalink: /ensino/monitoria/
   </div>
 </section>
 
-<h3>Horários de atendimento 2026/1</h3>
+<h3>Horários de atendimento 2026/2</h3>
 
 {:.table}
 |  **Matutino** |  Segunda-Feira  |   Terça-Feira  | Quarta-Feira   | Quinta-Feira   |   Sexta-Feira  |
 |:-------------:|:---------------:|:--------------:|:--------------:|:--------------:|:--------------:|
 | 10:00 - 12:20 | Diogo (online)  | Carol          | Rafael (online)|                |                |
 |**Vespertino** |       -         |       -        |       -        |       -        |        -       |
-| 13:30 - 16:00 | Rafael, Diogo   | Jessica (online)| Jessica, Diogo |                |                |
+| 13:30 - 16:00 | Rafael, Diogo   | Jessica (online)| Jessica, Diogo|                |                |
 | 16:00 - 18:00 | Rafael          | Rafael, Jessica (online), Diogo | Diogo |      |                |
 | 18:00 - 18:20 | Jessica         | Jessica        | Jessica        |                |                |
 | 18:20 - 18:30 | Jessica         | Jessica        | Jessica        |                |                |
 | **Noturno**   |       -         |        -       |       -        |       -        |       -        |
-| 18:30 - 19:00 | Rafael, Carol   | Jessica, Carol | Rafael, Carol  | Jessica, Carol, Diogo | AULA  |
+| 18:30 - 19:00 | Rafael, Carol   | Jessica, Carol | Rafael, Carol  | Jessica, Carol, Diogo | AULA |
 | 19:00 - 20:00 | Rafael, Carol   | Jessica        | Rafael, Carol  | Diogo          | AULA |
 | 20:00 - 21:20 | Rafael, Carol   | Jessica        | Rafael, Carol  | Diogo          | AULA |
-| 21:20 - 22:00 | Rafael, Carol   | Jessica        | Rafael, Carol  | Diogo          | AULA|
+| 21:20 - 22:00 | Rafael, Carol   | Jessica        | Rafael, Carol  | Diogo          | AULA |
+
 <p>
   Os atendimentos serão realizados presencialmente no Laboratório 402 do Bloco
   B por ordem de chegada ou em grupos.
@@ -102,9 +105,9 @@ permalink: /ensino/monitoria/
 <!--   horário de atendimento com ao menos um dia de antecedência. -->
 <!-- </p> -->
 <p>
-	Dias não letivos (feriados) ou com outras atividades institucionais
-	planejadas pelo Curso (como semana acadêmica) não terão atendimento de
-	monitoria.
+    Dias não letivos (feriados) ou com outras atividades institucionais
+    planejadas pelo Curso (como semana acadêmica) não terão atendimento de
+    monitoria.
 </p>
 
 <!-- <section class="mt-4 mb-4">
@@ -117,9 +120,11 @@ permalink: /ensino/monitoria/
             O projeto de monitoria de hardware visa contribuir para o desempenho dos discentes nos componentes curriculares ligados à area de sistemas eletrônicos. A evolução tecnológica da area é rápida, portantando são necessárias ferramentas para acompanhar essa evolução, e a monitoria é uma delas.
         </p>
         <p>Componentes Curriculares Atendidos:</p>
-        <li>Circuitos Digitais</li>
-        <li>Sistemas Digitais</li>
-        <li>Organização de Computadores</li>
+        <ul>
+            <li>Circuitos Digitais</li>
+            <li>Sistemas Digitais</li>
+            <li>Organização de Computadores</li>
+        </ul>
         <div class="card mt-4">
             <div class="card-header">
                 <h4>Contatos e Locais de Atendimento</h4>
@@ -131,11 +136,11 @@ permalink: /ensino/monitoria/
                             <b>Coordenador do Projeto</b> Prof. Luciano L. Caimi - lcaimi@uffs.edu.br
                         </p>
                         <p>
-							              <b>Colaborador</b> Prof. Geomar A. Schreiner - gschreiner@uffs.edu.br
-						            </p>
+                            <b>Colaborador</b> Prof. Geomar A. Schreiner - gschreiner@uffs.edu.br
+                        </p>
                         <p>
-							              <b>Monitor</b> Breno Soares - brenosoares4303@gmail.com
-						            </p>
+                            <b>Monitor</b> Breno Soares - brenosoares4303@gmail.com
+                        </p>
 
                     </div>
                 </div> 
@@ -158,13 +163,13 @@ permalink: /ensino/monitoria/
 | 19:00 - 22:00 |        -       |        -       | Breno          |Breno           | Breno*         |
 
 <p>
-	Os atendimentos serão realizados presencialmente no Laboratório 408 do bloco B por ordem de chegada ou em grupos.
+    Os atendimentos serão realizados presencialmente no Laboratório 408 do bloco B por ordem de chegada ou em grupos.
 </p>
 <p>
-	Dias não letivos (feriados) ou com outras atividades institucionais planejadas pelo Curso (como semana acadêmica) não terão atendimento de monitoria.
+    Dias não letivos (feriados) ou com outras atividades institucionais planejadas pelo Curso (como semana acadêmica) não terão atendimento de monitoria.
 </p>
 <p>
-	*Nas sextas-feiras o horário de atendimento acontecerá até as 21 horas. 
+    *Nas sextas-feiras o horário de atendimento acontecerá até as 21 horas. 
 </p> -->
 
 
@@ -183,11 +188,13 @@ permalink: /ensino/monitoria/
              O programa tem a modalidade online, onde o aluno pode enviar suas duvidas para o monitor atráves das redes sociais e ter um atendimento mais rápido. 
         </p>
         <p>Componentes Curriculares Atendidos:</p>
-<!--         <li>Cáculo A</li>
-        <li>Cáculo B</li>
-        <li>Cáculo C</li>
-        <li>Cáculo I</li>
-        <li>Cáculo II</li>
+        <ul>
+            <li>Cáculo A</li>
+            <li>Cáculo B</li>
+            <li>Cáculo C</li>
+            <li>Cáculo I</li>
+            <li>Cáculo II</li>
+        </ul>
         <div class="card mt-4">
             <div class="card-header">
                 <h4>Contatos e Locais de Atendimento</h4>
