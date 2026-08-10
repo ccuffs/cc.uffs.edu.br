@@ -41,31 +41,34 @@ permalink: /ensino/monitoria/
         <li>Algoritmos e Programação</li>
         <li>Estruturas de Dados</li>
 
-		<div class="card mt-5">
-			<div class="card-header">
-				<h4>Contatos</h4>
-			</div>
-			<div class="card-body">
-				<div class="row text-left">
-					<div class="col-12">
-						<p>
-							<b>Coordenador:</b> Prof. Andrei de A. S. Braga - andrei.braga@uffs.edu.br
-						</p>
-						<p>
-							<b>Colaborador:</b> Prof. Felipe Grando - felipegrando@uffs.edu.br
-						</p>
-						<p>
-							<b>Monitor:</b> Carol T. Oliveira - carololiver5500@gmail.com
-						</p>
-						<p>
-							<b>Monitor:</b> Wagner Rech Neto - w8gu1nh0@gmail.com
-						</p>
-						<p>
-							<b>Monitor:</b> Thiago A. B. Spanevello - taspanevello@gmail.com
-						</p>
-					</div>
-				</div> 
-			</div> 
+        <div class="card mt-5">
+            <div class="card-header">
+                <h4>Contatos</h4>
+            </div>
+            <div class="card-body">
+                <div class="row text-left">
+                    <div class="col-12">
+                        <p>
+                            <b>Coordenador:</b> Prof. Guilherme Dal Bianco
+                        </p>
+                        <p>
+                            <b>Colaborador:</b> Prof. Felipe Grando
+                        </p>
+                        <p>
+                            <b>Monitor:</b> Diogo
+                        </p>
+                        <p>
+                            <b>Monitor:</b> Carol
+                        </p>
+                        <p>
+                            <b>Monitor:</b> Rafael
+                        </p>
+                        <p>
+                            <b>Monitor:</b> Jessica
+                        </p>
+                    </div>
+                </div> 
+            </div> 
         </div>
       </div>
     </div>
@@ -75,23 +78,21 @@ permalink: /ensino/monitoria/
 <h3>Horários de atendimento 2026/1</h3>
 
 {:.table}
-|   Horário    |Segunda-Feira|Terça-Feira|Quarta-Feira |Quinta-Feira |Sexta-Feira  |
-|:------------:|:-----------:|:---------:|:-----------:|:-----------:|:-----------:|
-|**Matutino**  |             |           |             |             |             |
-|10:00 - 12:20 |Wagner       |           |             |             |             |
-|**Vespertino**|             |           |             |             |             |
-|14:00 - 17:00 |             |           |             |Carol        |             |
-|17:00 - 18:00 |             |           |             |Carol, Wagner|             |
-|18:00 - 18:20 |             |           |             |Wagner       |             |
-|18:20 - 18:30 |             |           |Carol        |Carol        |Carol        |
-|**Noturno**   |             |           |             |             |             |
-|18:30 - 19:00 |Thiago       |           |Carol, Thiago|Carol, Thiago|Carol, Thiago|
-|19:00 - 20:00 |             |           |Carol, Thiago|             |Carol, Wagner|
-|20:00 - 21:20 |             |           |Thiago       |             |Wagner       |
-|21:20 - 22:00 |             |           |Thiago       |             |             |
-
+|  **Matutino** |  Segunda-Feira  |   Terça-Feira  | Quarta-Feira   | Quinta-Feira   |   Sexta-Feira  |
+|:-------------:|:---------------:|:--------------:|:--------------:|:--------------:|:--------------:|
+| 10:00 - 12:20 | Diogo (online)  | Carol          | Rafael (online)|                |                |
+|**Vespertino** |       -         |       -        |       -        |       -        |        -       |
+| 13:30 - 16:00 | Rafael, Diogo   | Jessica (online)| Jessica, Diogo |                |                |
+| 16:00 - 18:00 | Rafael          | Rafael, Jessica (online), Diogo | Diogo |      |                |
+| 18:00 - 18:20 | Jessica         | Jessica        | Jessica        |                |                |
+| 18:20 - 18:30 | Jessica         | Jessica        | Jessica        |                |                |
+| **Noturno**   |       -         |        -       |       -        |       -        |       -        |
+| 18:30 - 19:00 | Rafael, Carol   | Jessica, Carol | Rafael, Carol  | Jessica, Carol, Diogo | AULA  |
+| 19:00 - 20:00 | Rafael, Carol   | Jessica        | Rafael, Carol  | Diogo          | AULA |
+| 20:00 - 21:20 | Rafael, Carol   | Jessica        | Rafael, Carol  | Diogo          | AULA |
+| 21:20 - 22:00 | Rafael, Carol   | Jessica        | Rafael, Carol  | Diogo          | AULA|
 <p>
-  Os atendimentos serão realizados presencialmente no Laboratório 306 do Bloco
+  Os atendimentos serão realizados presencialmente no Laboratório 402 do Bloco
   B por ordem de chegada ou em grupos.
 </p>
 <!-- <p> -->
