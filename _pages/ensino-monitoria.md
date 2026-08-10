@@ -25,7 +25,7 @@ permalink: /ensino/monitoria/
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 text-left">
-        <h2>Monitoria de Algoritmos - Projeto ENS-2025-0101</h2>
+        <h2>Monitoria de Algoritmos - Projeto ENS-2026 - 2027</h2>
         <hr/>
         <p>
             A aprendizagem de uma linguagem de programação apresenta um dos
