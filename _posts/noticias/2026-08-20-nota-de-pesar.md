@@ -1,5 +1,5 @@
 ---
-title: "Horários 2026.2"
+title: "Nota de Pesar"
 layout: post
 categories: noticias
 modified: 2026-08-19
@@ -8,7 +8,7 @@ highlight: true
 highlight_order: 1
 active: true
 image:
-  teaser: posts/teaser-nova-coordenacao-amarelo-1600x800.png
+  teaser: posts/teaser-luto-400x250.jpg
   # feature: /images/posts/calendario.png
 ---
 ----------------------------
