@@ -13,9 +13,9 @@ permalink: /pesquisa/projetos/
         <p class="mt-4"><a class="btn btn-info" href="/pesquisa/grupos">Ver grupos de pesquisa</a></p>
       </div>
 
-      <div class="col-8 col-md-4 m-auto m-md-0 ml-md-auto pt-5">
+      <!-- <div class="col-8 col-md-4 m-auto m-md-0 ml-md-auto pt-5">
         <p><img alt="image" class="img-fluid" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//draws/rocket.svg"></p>
-      </div>
+      </div> -->
     </div>
   </div>
 </section>
