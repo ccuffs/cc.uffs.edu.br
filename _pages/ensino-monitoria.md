@@ -58,15 +58,23 @@ permalink: /ensino/monitoria/
                         </p>
                         <p>
                             <b>Monitor:</b> Diogo
+                            <br>
+                            <b>Email:</b> diogo.kemmerich@estudante.uffs.edu.br
                         </p>
                         <p>
                             <b>Monitor:</b> Carol
+                            <br>
+                            <b>Email:</b> carololiver5500@gmail.com
                         </p>
                         <p>
                             <b>Monitor:</b> Rafael
+                            <br>
+                            <b>Email:</b> rafaelknebel24@gmail.com
                         </p>
                         <p>
                             <b>Monitor:</b> Jessica
+                            <br>
+                            <b>Email:</b> jessicaburitto@gmail.com
                         </p>
                     </div>
                 </div> 
