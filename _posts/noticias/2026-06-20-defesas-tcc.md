@@ -4,7 +4,7 @@ layout: post
 categories: noticias
 modified: 2026-06-20
 last_modified_at: 2026-06-20-T14:47:-00-03:00
-highlight: true
+highlight: false
 highlight_order: 2
 active: true
 image:
