@@ -5,7 +5,7 @@ categories: noticias
 modified: 2026-11-24
 last_modified_at: 2026-11-24-T14:47:-00-03:00
 highlight: true
-highlight_order: 1
+highlight_order: 2
 active: true
 image:
   teaser: posts/teaser-defesa-tcc-1600x800.png
